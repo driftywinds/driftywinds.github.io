@@ -1,0 +1,276 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>Next Level - Contact</title>
+<!--
+Next Level CSS Template
+https://templatemo.com/tm-532-next-level
+-->
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:400,600" />
+    <link rel="stylesheet" href="css/all.min.css" />
+    <link rel="stylesheet" href="css/bootstrap.min.css" />
+    <link rel="stylesheet" href="css/templatemo-style.css" />
+  </head>
+  <body>
+    <div class="container-fluid">
+      <div class="row tm-brand-row">
+        <div class="col-lg-4 col-10">
+          <div class="tm-brand-container">
+            <div class="tm-brand-texts">
+              <h1 class="text-uppercase tm-brand-name">Next Level</h1>
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-8 col-2 tm-nav-col">
+          <div class="tm-nav">
+            <nav class="navbar navbar-expand-lg navbar-light tm-navbar">
+              <button
+                class="navbar-toggler"
+                type="button"
+                data-toggle="collapse"
+                data-target="#navbarNav"
+                aria-controls="navbarNav"
+                aria-expanded="false"
+                aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+              </button>
+              <div class="collapse navbar-collapse" id="navbarNav">
+                <ul class="navbar-nav ml-auto mr-0">
+                  <li class="nav-item">
+                    <div class="tm-nav-link-highlight"></div>
+                    <a class="nav-link" href="index.html">Home</a>
+                  </li>
+                  <li class="nav-item">
+                    <div class="tm-nav-link-highlight"></div>
+                    <a class="nav-link" href="about.html"> About</a>
+                  </li>
+                  <li class="nav-item">
+                    <div class="tm-nav-link-highlight"></div>
+                    <a class="nav-link" href="gallery.html">Gallery</a>
+                  </li>
+                  <li class="nav-item active">
+                    <div class="tm-nav-link-highlight"></div>
+                    <a class="nav-link" href="contact.html">Contact <span class="sr-only">(current)</span></a>
+                  </li>
+                </ul>
+              </div>
+            </nav>
+          </div>
+        </div>
+      </div>
+
+      <div class="row tm-welcome-row">
+        <div class="col-12 tm-page-cols-container">
+          <div class="tm-page-col-left tm-welcome-box tm-bg-gradient">
+            <p class="tm-welcome-text">
+              <em
+                >"Gradient CSS BG #A0C0C0 to #669999 and right side is a
+                parallax image of our group."</em
+              >
+            </p>
+          </div>
+          <div class="tm-page-col-right">
+            <div
+              class="tm-welcome-parallax"
+              data-parallax="scroll"
+              data-image-src="img/contact-us.jpg"
+            ></div>
+          </div>
+        </div>
+      </div>
+
+      <section class="row tm-pt-4 tm-mb-3">
+        <div class="col-12 tm-page-cols-container">
+          <div class="tm-page-col-left">
+            <div class="tm-contact-container tm-mb-6">
+              <div class="tm-address-container">
+                <h2 class="tm-text-secondary tm-mb-6">Address</h2>
+                <address>
+                  <p>
+                    110-330 Sed ultricies purus nec<br />
+                    Suscipit vulputate<br />
+                    Fusce a massa 10550
+                  </p>
+                </address>
+              </div>
+
+              <div class="tm-location-container">
+                <h2 class="tm-text-secondary tm-mb-4">Location</h2>
+                <a href="#"><img src="img/map.png" alt="Map image" class="img-fluid" /></a>
+              </div>
+            </div>
+          </div>
+          <div class="tm-page-col-right tm-form-container">
+            <h2 class="tm-text-secondary mb-4">Contact Us</h2>
+            <form
+              action="contact.html"
+              method="POST"
+              id="tm_contact_form"
+              enctype="multipart/form-data">
+              <div class="form-group">
+                <input
+                  type="text"
+                  id="contact_name"
+                  name="contact_name"
+                  class="form-control rounded-0 border-top-0 border-right-0 border-left-0"
+                  placeholder="Your Name"
+                  required="" />
+              </div>
+              <div class="form-group-2">
+                <input
+                  type="email"
+                  id="contact_email"
+                  name="contact_email"
+                  class="form-control rounded-0 border-top-0 border-right-0 border-left-0"
+                  placeholder="Your Email"
+                  required="" />
+              </div>
+              <div class="form-group-2 input-field">
+                <select class="tm-select" name="occupation" id="occupation">
+                  <option value="select">Your Occupation</option>
+                  <option value="CE">Chief Executive</option>
+                  <option value="SA">Software Architect</option>
+                  <option value="PM">Project Manager</option>
+                  <option value="WD">Web Developer</option>
+                </select>
+              </div>
+              <div class="form-group tm-choices-container tm-text-secondary">
+                <label class="tm-w-50">
+                  <input
+                    type="radio"
+                    class="with-gap"
+                    name="gender"
+                    value="male" />
+                  <span>Male</span>
+                </label>
+
+                <label class="tm-w-50">
+                  <input
+                    type="radio"
+                    class="with-gap"
+                    name="gender"
+                    value="female" />
+                  <span>Female</span>
+                </label>
+              </div>
+
+              <div class="tm-mb-5">
+                <textarea
+                  rows="10"
+                  id="contact_message"
+                  name="contact_message"
+                  class="form-control rounded-0"
+                  placeholder="Your Message"
+                  required=""></textarea>
+              </div>
+
+              <div class="tm-mb-4 tm-choices-container tm-text-secondary">
+                <label class="tm-w-50">
+                  <input
+                    type="checkbox"
+                    name="ckb[]"
+                    class="filled-in"
+                    value="1" />
+                  <span>Check Box 1</span>
+                </label>
+                <label class="tm-w-50">
+                  <input
+                    type="checkbox"
+                    name="ckb[]"
+                    class="filled-in"
+                    value="2" />
+                  <span>Check Box 2</span>
+                </label>
+              </div>
+              <div class="tm-mb-6 file-upload-container">
+                <input
+                  id="file_name_label"
+                  type="text"
+                  class="border-top-0 border-right-0 border-left-0"
+                  placeholder="Your file to upload"
+                  disabled />
+                <label class="btn btn-outline btn-file">
+                  Browse...
+                  <input
+                    type="file"
+                    name="file_to_upload"
+                    style="display: none;" />
+                </label>
+              </div>
+
+              <div class="">
+                <button
+                  type="submit"
+                  class="btn btn-secondary tm-btn-submit rounded-0">
+                  Submit
+                </button>
+              </div>
+            </form>
+          </div>
+        </div>
+      </section>
+
+      <!-- Call to Action -->
+      <section class="row" id="tmCallToAction">
+        <div class="col-12 tm-page-cols-container tm-call-to-action-col">
+          <div class="tm-page-col-right">
+            <div class="tm-call-to-action-box">
+              <i class="fas fa-3x fa-rss-square tm-call-to-action-icon"></i>
+              <div class="tm-call-to-action-text">
+                <h3 class="tm-call-to-action-title">
+                  Vivamus sollicitudin tellus
+                </h3>
+                <p class="tm-call-to-action-description">
+                  Maecenas maximus tellus in dolor auctor tristique. Nam
+                  hendrerit posuere laoreet. Aliquam erat volutpat. Nulla eros
+                  est, imperdiet vel feugiat non, ullamcorper mattis nulla.
+                </p>
+                <form action="#" method="GET" class="tm-call-to-action-form">
+                  <input
+                    type="email"
+                    name="email"
+                    placeholder="Email"
+                    class="tm-email-input"
+                    required />
+                  <button type="submit" class="btn btn-primary">
+                    Subscribe
+                  </button>
+                </form>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+      <!-- Page footer -->
+      <footer class="row tm-page-footer">
+        <p class="col-12 tm-copyright-text mb-0">
+          Copyright &copy; 2019 Next Level Company... Designed by Template Mo
+        </p>
+      </footer>
+    </div>
+
+    <script src="js/jquery.min.js"></script>
+    <script src="js/parallax.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <script>
+      $(document).on("change", ":file", function() {
+        var input = $(this),
+          numFiles = input.get(0).files ? input.get(0).files.length : 1,
+          label = input
+            .val()
+            .replace(/\\/g, "/")
+            .replace(/.*\//, "");
+        input.trigger("fileselect", [numFiles, label]);
+      });
+
+      $(document).ready(function() {
+        $(":file").on("fileselect", function(event, numFiles, label) {
+          $("#file_name_label").attr("placeholder", label);
+        });
+      });
+    </script>
+  </body>
+</html>
