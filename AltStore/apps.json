@@ -168,6 +168,16 @@
       "notify": true,
       "tintColor": "c72a96",
       "title": "InstaMulti Latest - 1st April 2024"
+    },
+    {
+      "appID": "com.google.ios.youtubemusic",
+      "caption": "zxcvbn's YT Music Ultimate updated to 6.45.4",
+      "date": "2024-04-01",
+      "identifier": "new-update",
+      "imageURL": "",
+      "notify": true,
+      "tintColor": "eb3434",
+      "title": "YTM Ultimate Latest - 1st April 2024"
     }
   ],
   "userInfo": {}
