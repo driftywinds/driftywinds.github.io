@@ -8,7 +8,7 @@
       "contact": {
           "web": "https://github.com/driftywinds/"
       },
-      "downloadURL": "https://dw-public-bucket.s3.us-west-002.backblazeb2.com/YouTube+IPA/uYouEnhanced_19.13.1-3.0.3.ipa",
+      "downloadURL": "https://files.drifty.win/uYouEnhanced/uYouEnhanced_19.13.1-3.0.3.ipa",
       "iconURL": "https://raw.githubusercontent.com/therealFoxster/AltSource/master/assets/icons/uYou.png",
       "localizedDescription": "uYou is the best tweak for the YouTube app.\n \n uYouEnhanced is a modified version of uYouPlus & uYou with even more features.\n \n Additional features:\n • Skip sponsorships in videos (iSponsorBlock)\n • Even more PiP options (YouPiP)\n • Unlock 1440p and 2160p resolutions (YTUHD)\n • Disable overlay at the end of videos (YTNoHoverCards)\n • Remove YouTube Premium upsell alerts (NoYTPremium)\n • Enable to Dim the YouTube UI (LowContrastMode)\n • Enable the miniplayer for all videos (YTMiniplayerEnabler)\n • Prevent the notch/Dynamic Island from cutting into 2:1 videos (DontEatMyContent)\n • Configure A/B settings in the YouTube app (YTABConfig)\n • And more\n \n More information: \n https://github.com/qnblackcat/uYouPlus/ \n \n Requires iOS 14.0 or later.\n \n Contributors: MiRO92, qnblackcat, PoomSmart, level3tjg, BandarHelal, galactic, julioverne, HASHBANG, Lyvendia, Foxster, ichitaso, Ahmed Bafkir, CokePokes, Tommy Teo, theos, and many others.",
       "name": "uYouEnhanced (driftywinds)",
@@ -102,7 +102,7 @@
       "beta": false,
       "bundleIdentifier": "com.burbn.instagram",
       "developerName": "zxcvbn",
-      "downloadURL": "https://dw-public-bucket.s3.us-west-002.backblazeb2.com/InstaMulti/InstaMultiNew-324.0.0-zxcvbn.ipa",
+      "downloadURL": "https://files.drifty.win/InstaMulti/InstaMultiNew-324.0.0-zxcvbn.ipa",
       "iconURL": "https://raw.githubusercontent.com/qnblackcat/AltStore/main/ScreenShot/800px-Instagram_logo_2016.svg.png",
       "localizedDescription": "This app has options for which tweaks to use.\n\nLearn how to make your own Rocket for Instagram iPA here: https://github.com/qnblackcat/IGSideloadFix\n\nFEATURES\n- Browse home feed in grid layout.\n- Show following status in Profile.\n- Download posts from your feed.\n- Repost any post from your feed.\n- Long press on posts to zoom.\n- Copy post captions from your feed.\n- Download all Stories on Instagram.\n- Save videos from IGTV.\n- View Stories without notifying others.\n- Mute and unmute Stories.\n- Disable Auto-Advance in Stories.\n- Hide Stories from your feed.\n- Play in high quality on Mobile Data.\n- Long press on profile photo to zoom.\n- Disable read receipts in DM.\n- Disable Screenshot notifications in DM.\n- Disable Read Receipts in DM.\n\nLearn how to make your own Rocket for Instagram iPA here: https://github.com/qnblackcat/IGSideloadFix",
       "name": "InstaMulti",
@@ -123,7 +123,7 @@
       "beta": false,
       "bundleIdentifier": "com.google.ios.youtubemusic",
       "developerName": "zxcvbn",
-      "downloadURL": "https://dw-public-bucket.s3.us-west-002.backblazeb2.com/YTMusicUltimate-6.45.4-zxcvbn.ipa",
+      "downloadURL": "https://files.drifty.win/YTMUltimate/YTMusicUltimate-6.45.4-zxcvbn.ipa",
       "iconURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Youtube_Music_icon.svg/2048px-Youtube_Music_icon.svg.png",
       "localizedDescription": "YT Music Ultimate patched for iOS 15+",
       "name": "YT Music Ultimate",
