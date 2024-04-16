@@ -8,7 +8,7 @@
       "contact": {
           "web": "https://github.com/driftywinds/"
       },
-      "downloadURL": "https://files.drifty.win/uYouEnhanced/uYouEnhanced_19.14.3-3.0.3.ipa",
+      "downloadURL": "https://files.drifty.win/uYouEnhanced/uYouEnhanced_19.15.1-3.0.3.ipa",
       "iconURL": "https://raw.githubusercontent.com/therealFoxster/AltSource/master/assets/icons/uYou.png",
       "localizedDescription": "uYou is the best tweak for the YouTube app.\n \n uYouEnhanced is a modified version of uYouPlus & uYou with even more features.\n \n Additional features:\n • Skip sponsorships in videos (iSponsorBlock)\n • Even more PiP options (YouPiP)\n • Unlock 1440p and 2160p resolutions (YTUHD)\n • Disable overlay at the end of videos (YTNoHoverCards)\n • Remove YouTube Premium upsell alerts (NoYTPremium)\n • Enable to Dim the YouTube UI (LowContrastMode)\n • Enable the miniplayer for all videos (YTMiniplayerEnabler)\n • Prevent the notch/Dynamic Island from cutting into 2:1 videos (DontEatMyContent)\n • Configure A/B settings in the YouTube app (YTABConfig)\n • And more\n \n More information: \n https://github.com/qnblackcat/uYouPlus/ \n \n Requires iOS 14.0 or later.\n \n Contributors: MiRO92, qnblackcat, PoomSmart, level3tjg, BandarHelal, galactic, julioverne, HASHBANG, Lyvendia, Foxster, ichitaso, Ahmed Bafkir, CokePokes, Tommy Teo, theos, and many others.",
       "name": "uYouEnhanced (driftywinds)",
@@ -94,15 +94,15 @@
         },
       "subtitle": "No DMCA can stop this ;)",
       "tintColor": "02c2a8",
-      "version": "19.14.3",
-      "versionDate": "2024-04-11",
-      "versionDescription": "• Updated YouTube to 19.14.3\n • uYou is using 3.0.3\n • Added New Tweak YouGroupSettings\n • Added App Icons Customization (not working yet)\n • Improved the + icon in the Navigation Bar\n • Added Hide Fullscreen Actions\n • Updated LowContrastMode to prompt and disable on unsupported versions\n • Updated Red Progress Bar Option for v19.10.7+\n • Updated YouTube Premium Logo Option for v18.35.4+\n • Updated App Version Spoofer\n • Updated Hide double tap to seek overlay\n • Updated Submodules"
+      "version": "19.15.1",
+      "versionDate": "2024-04-16",
+      "versionDescription": "• Updated YouTube to 19.15.1\n • uYou is using 3.0.3\n • Added New Tweak YouGroupSettings\n • Added App Icons Customization (not working yet)\n • Improved the + icon in the Navigation Bar\n • Added Hide Fullscreen Actions\n • Updated LowContrastMode to prompt and disable on unsupported versions\n • Updated Red Progress Bar Option for v19.10.7+\n • Updated YouTube Premium Logo Option for v18.35.4+\n • Updated App Version Spoofer\n • Updated Hide double tap to seek overlay\n • Updated Submodules"
     },
     {
       "beta": false,
       "bundleIdentifier": "com.burbn.instagram",
       "developerName": "zxcvbn",
-      "downloadURL": "https://files.drifty.win/InstaMulti/InstaMulti-326.0.0u-zxcvbn.ipa",
+      "downloadURL": "https://files.drifty.win/InstaMulti/InstaMulti-327.0.0-zxcvbn.ipa",
       "iconURL": "https://raw.githubusercontent.com/qnblackcat/AltStore/main/ScreenShot/800px-Instagram_logo_2016.svg.png",
       "localizedDescription": "This app has options for which tweaks to use.\n\nLearn how to make your own Rocket for Instagram iPA here: https://github.com/qnblackcat/IGSideloadFix\n\nFEATURES\n- Browse home feed in grid layout.\n- Show following status in Profile.\n- Download posts from your feed.\n- Repost any post from your feed.\n- Long press on posts to zoom.\n- Copy post captions from your feed.\n- Download all Stories on Instagram.\n- Save videos from IGTV.\n- View Stories without notifying others.\n- Mute and unmute Stories.\n- Disable Auto-Advance in Stories.\n- Hide Stories from your feed.\n- Play in high quality on Mobile Data.\n- Long press on profile photo to zoom.\n- Disable read receipts in DM.\n- Disable Screenshot notifications in DM.\n- Disable Read Receipts in DM.\n\nLearn how to make your own Rocket for Instagram iPA here: https://github.com/qnblackcat/IGSideloadFix",
       "name": "InstaMulti",
@@ -115,15 +115,15 @@
       "size": 91750400,
       "subtitle": "Save posts and view stories anonymously and do much more. Requires iOS 15 and later.",
       "tintColor": "c72a96",
-      "version": "326.0.0u",
-      "versionDate": "2024-04-13",
-      "versionDescription": "- updated insta (https://apps.apple.com/app/id389801252) to v326.0.0u\n— instagram lol\n- info: https://telegra.ph/zxcvbn-tweaked-instamulti-03-23"
+      "version": "327.0.0",
+      "versionDate": "2024-04-15",
+      "versionDescription": "- updated insta (https://apps.apple.com/app/id389801252) to v327.0.0u\n— instagram lol\n- info: https://telegra.ph/zxcvbn-tweaked-instamulti-03-23"
     },
         {
       "beta": false,
       "bundleIdentifier": "com.google.ios.youtubemusic",
       "developerName": "zxcvbn",
-      "downloadURL": "https://files.drifty.win/YTMUltimate/YTMusicUltimate-6.45.4-zxcvbn.ipa",
+      "downloadURL": "https://files.drifty.win/YTMUltimate/YTMusicUltimate-6.48-zxcvbn.ipa",
       "iconURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Youtube_Music_icon.svg/2048px-Youtube_Music_icon.svg.png",
       "localizedDescription": "YT Music Ultimate patched for iOS 15+",
       "name": "YT Music Ultimate",
@@ -151,30 +151,30 @@
   "news": [
     {
       "appID": "com.google.ios.youtube",
-      "caption": "uYouEnhanced updated to 19.14.3",
-      "date": "2024-04-11",
+      "caption": "uYouEnhanced updated to 19.15.1",
+      "date": "2024-04-16",
       "identifier": "new-update",
       "notify": true,
       "tintColor": "02c2a8",
-      "title": "uYouEnhanced Latest -11th April 2024"
+      "title": "uYouEnhanced Latest - 16th April 2024"
     },
     {
       "appID": "com.burbn.instagram",
-      "caption": "zxcvbn's InstaMulti updated to 326.0.0u",
-      "date": "2024-04-13",
+      "caption": "zxcvbn's InstaMulti updated to 327.0.0",
+      "date": "2024-04-15",
       "identifier": "new-update",
       "notify": true,
       "tintColor": "c72a96",
-      "title": "InstaMulti Latest - 13th April 2024"
+      "title": "InstaMulti Latest - 15th April 2024"
     },
     {
       "appID": "com.google.ios.youtubemusic",
-      "caption": "zxcvbn's YT Music Ultimate updated to 6.45.4",
-      "date": "2024-04-01",
+      "caption": "zxcvbn's YT Music Ultimate updated to 6.48",
+      "date": "2024-04-15",
       "identifier": "new-update",
       "notify": true,
       "tintColor": "eb3434",
-      "title": "YTM Ultimate Latest - 1st April 2024"
+      "title": "YTM Ultimate Latest - 15th April 2024"
     }
   ],
   "userInfo": {}
