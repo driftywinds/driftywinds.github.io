@@ -123,7 +123,7 @@
       "beta": false,
       "bundleIdentifier": "com.google.ios.youtubemusic",
       "developerName": "zxcvbn",
-      "downloadURL": "https://files.drifty.win/YTMUltimate/YTMusicUltimate-6.48-zxcvbn.ipa",
+      "downloadURL": "https://files.drifty.win/YTMUltimate/YTMusicUltimate-6.48.3-zxcvbn.ipa",
       "iconURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Youtube_Music_icon.svg/2048px-Youtube_Music_icon.svg.png",
       "localizedDescription": "YT Music Ultimate patched for iOS 15+",
       "name": "YT Music Ultimate",
@@ -136,9 +136,9 @@
       "size": 4550400,
       "subtitle": "No ads. Cool tweaks. Requires iOS 15 and later.",
       "tintColor": "eb3434",
-      "version": "6.45.4",
-      "versionDate": "2024-04-01",
-      "versionDescription": "- updated youtube music (https://apps.apple.com/app/id1017492454) to v6.45.4 \n— google's music streaming service.\n- info: https://telegra.ph/zxcvbn-tweaked-YTMusicUltimate-02-06\n— updated YTMusicUltimate to v2.0.6!"
+      "version": "6.48.3",
+      "versionDate": "2024-04-20",
+      "versionDescription": "- updated youtube music (https://apps.apple.com/app/id1017492454) to v6.48.3 \n— google's music streaming service.\n- info: https://telegra.ph/zxcvbn-tweaked-YTMusicUltimate-02-06\n— updated YTMusicUltimate to v2.0.6!"
     }
   ],
   "identifier": "com.uyouenhanceddw.source",
@@ -169,12 +169,12 @@
     },
     {
       "appID": "com.google.ios.youtubemusic",
-      "caption": "zxcvbn's YT Music Ultimate updated to 6.48",
-      "date": "2024-04-15",
+      "caption": "zxcvbn's YT Music Ultimate updated to 6.48.3",
+      "date": "2024-04-20",
       "identifier": "new-update",
       "notify": true,
       "tintColor": "eb3434",
-      "title": "YTM Ultimate Latest - 15th April 2024"
+      "title": "YTM Ultimate Latest - 20th April 2024"
     }
   ],
   "userInfo": {}
