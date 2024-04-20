@@ -144,7 +144,7 @@
   "identifier": "com.uyouenhanceddw.source",
   "name": "driftywinds' AltStore Repo",
   "subtitle": "definitevely driftywinds",
-  "description": "All driftywinds iOS releases for AltStore can be found here.",
+  "description": "All driftywinds iOS releases for AltStore can be found here.\nhttps://github.com/driftywinds/\nApps might download as .zip just change the extension back to .ipa",
   "iconURL": "https://raw.githubusercontent.com/driftywinds/driftywinds/main/Apps/dp.png",
   "sourceURL": "https://driftywinds.github.io/AltStore/apps.json",
   "website": "https://github.com/driftywinds",
