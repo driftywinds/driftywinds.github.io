@@ -140,7 +140,7 @@
       "versionDate": "2024-04-21",
       "versionDescription": "- updated: EeveeSpotify (https://github.com/whoeevee/EeveeSpotify) v1.1 (objc)\n- OpenSpotifySafariExtension  (https://github.com/BillyCurtis/OpenSpotifySafariExtension)included\n* updated objc branch to include new features\n* uninstall your existing spotify app before updating\n! to activate premium, sign in then restart the app"
     },
-        {
+    {
       "beta": false,
       "bundleIdentifier": "com.google.ios.youtubemusic",
       "developerName": "zxcvbn",
