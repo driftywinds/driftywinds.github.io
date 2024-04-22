@@ -114,7 +114,7 @@
       ],
       "size": 91750400,
       "subtitle": "Save posts and view stories anonymously and do much more. Requires iOS 15 and later.",
-      "tintColor": "c72a96",
+      "tintColor": "C13584",
       "version": "327.1.0",
       "versionDate": "2024-04-16",
       "versionDescription": "- updated insta (https://apps.apple.com/app/id389801252) to v327.1.0u\n— instagram lol\n- info: https://telegra.ph/zxcvbn-tweaked-instamulti-03-23"
@@ -156,7 +156,7 @@
       ],
       "size": 4550400,
       "subtitle": "No ads. Cool tweaks. Requires iOS 15 and later.",
-      "tintColor": "eb3434",
+      "tintColor": "c3352e",
       "version": "6.48.3",
       "versionDate": "2024-04-20",
       "versionDescription": "- updated youtube music (https://apps.apple.com/app/id1017492454) to v6.48.3 \n— google's music streaming service.\n- info: https://telegra.ph/zxcvbn-tweaked-YTMusicUltimate-02-06\n— updated YTMusicUltimate to v2.0.6!"
@@ -185,7 +185,7 @@
       "date": "2024-04-16",
       "identifier": "new-update",
       "notify": true,
-      "tintColor": "c72a96",
+      "tintColor": "C13584",
       "title": "InstaMulti Latest - 16th April 2024"
     },
     {
@@ -203,7 +203,7 @@
       "date": "2024-04-20",
       "identifier": "new-update",
       "notify": true,
-      "tintColor": "eb3434",
+      "tintColor": "c3352e",
       "title": "YTM Ultimate Latest - 20th April 2024"
     }
   ],
