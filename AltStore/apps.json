@@ -119,6 +119,27 @@
       "versionDate": "2024-04-16",
       "versionDescription": "- updated insta (https://apps.apple.com/app/id389801252) to v327.1.0u\n— instagram lol\n- info: https://telegra.ph/zxcvbn-tweaked-instamulti-03-23"
     },
+    {
+      "beta": false,
+      "bundleIdentifier": "com.spotify.client",
+      "developerName": "zxcvbn",
+      "downloadURL": "https://files.drifty.win/EeveeSpotify/EeveeSpotify-8.9.32objc-zxcvbn.ipa",
+      "iconURL": "https://i.ibb.co/ZWtsW0w/Spotify-icon-svg.png",
+      "localizedDescription": "One of the most popular music streaming services!\nhttps://t.me/SpotilifeIPAs for more information\n! to activate premium, sign in then restart the app",
+      "name": "Spotify (EeveeSpotify)",
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/08/83/de/0883de6b-4615-4a41-0013-eaac0b258345/0265ec5e-b9ac-4c2f-9d95-2de3f284b0ec_IOS_-_6.7_-_S01_-_EN-US.png/600x0w.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/ec/b4/2b/ecb42b34-b289-095c-1891-0ed03bb57cc4/e6c4993b-f6e2-4b07-873d-afcb011acb30_IOS_-_6.7_-_S02_-_EN-US.png/600x0w.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/e2/b6/f4/e2b6f400-4342-02d6-1d11-2a8fc7c123d7/5953db43-4430-425a-9228-911aa8e783b9_IOS_-_6.7_-_S03_-_EN-US.png/600x0w.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/27/bf/37/27bf3762-d85e-e603-ab60-883bb6508eaa/1c9b59de-280b-4a8b-b571-47fd96546e62_IOS_-_6.7_-_S04_-_EN-US.png/600x0w.png"
+      ],
+      "size": 91750400,
+      "subtitle": "Spotify with free premium, and extra UI features",
+      "tintColor": "1DB954",
+      "version": "8.9.32",
+      "versionDate": "2024-04-21",
+      "versionDescription": "- updated: EeveeSpotify (https://github.com/whoeevee/EeveeSpotify) v1.1 (objc)\n- OpenSpotifySafariExtension  (https://github.com/BillyCurtis/OpenSpotifySafariExtension)included\n* updated objc branch to include new features\n* uninstall your existing spotify app before updating\n! to activate premium, sign in then restart the app"
+    },
         {
       "beta": false,
       "bundleIdentifier": "com.google.ios.youtubemusic",
@@ -166,6 +187,15 @@
       "notify": true,
       "tintColor": "c72a96",
       "title": "InstaMulti Latest - 16th April 2024"
+    },
+    {
+      "appID": "com.spotify.client",
+      "caption": "zxcvbn's EeveeSpotify updated to 8.9.32",
+      "date": "2024-04-21",
+      "identifier": "new-update",
+      "notify": true,
+      "tintColor": "1DB954",
+      "title": "EeveeSpotify Latest - 21st April 2024"
     },
     {
       "appID": "com.google.ios.youtubemusic",
