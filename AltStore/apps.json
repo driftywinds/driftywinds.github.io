@@ -136,9 +136,9 @@
       "size": 91750400,
       "subtitle": "Spotify with free premium, and extra UI features",
       "tintColor": "1DB954",
-      "version": "8.9.34",
+      "version": "8.9.34(u)",
       "versionDate": "2024-04-29",
-      "versionDescription": "- updated: EeveeSpotify (https://github.com/whoeevee/EeveeSpotify) v1.4 (objc)\n- OpenSpotifySafariExtension  (https://github.com/BillyCurtis/OpenSpotifySafariExtension) included\n* updated objc branch to include new features\n* uninstall your existing spotify app before updating\n! to activate premium, sign in then restart the app"
+      "versionDescription": "- updated: EeveeSpotify (https://github.com/whoeevee/EeveeSpotify) v1.4.1 (objc)\n- OpenSpotifySafariExtension  (https://github.com/BillyCurtis/OpenSpotifySafariExtension) included\n* updated objc branch to include new features\n* uninstall your existing spotify app before updating\n! to activate premium, sign in then restart the app"
     },
     {
       "beta": false,
@@ -190,7 +190,7 @@
     },
     {
       "appID": "com.spotify.client",
-      "caption": "zxcvbn's EeveeSpotify updated to 8.9.34",
+      "caption": "zxcvbn's EeveeSpotify updated to 8.9.34(1.4.1)",
       "date": "2024-04-29",
       "identifier": "new-update",
       "notify": true,
