@@ -123,7 +123,7 @@
       "beta": false,
       "bundleIdentifier": "com.spotify.client",
       "developerName": "zxcvbn",
-      "downloadURL": "https://files.drifty.win/EeveeSpotify/EeveeSpotify-8.9.34.ipa",
+      "downloadURL": "https://files.drifty.win/EeveeSpotify/EeveeSpotify-8.9.36-zxcvbn.ipa",
       "iconURL": "https://i.ibb.co/ZWtsW0w/Spotify-icon-svg.png",
       "localizedDescription": "One of the most popular music streaming services!\nhttps://t.me/SpotilifeIPAs for more information\n! to activate premium, sign in then restart the app",
       "name": "Spotify (EeveeSpotify)",
@@ -136,8 +136,8 @@
       "size": 91750400,
       "subtitle": "Spotify with free premium, and extra UI features",
       "tintColor": "1DB954",
-      "version": "8.9.34(u)",
-      "versionDate": "2024-04-29",
+      "version": "8.9.36",
+      "versionDate": "2024-05-02",
       "versionDescription": "- updated: EeveeSpotify (https://github.com/whoeevee/EeveeSpotify) v1.4.1 (objc)\n- OpenSpotifySafariExtension  (https://github.com/BillyCurtis/OpenSpotifySafariExtension) included\n* updated objc branch to include new features\n* uninstall your existing spotify app before updating\n! to activate premium, sign in then restart the app"
     },
     {
@@ -190,12 +190,12 @@
     },
     {
       "appID": "com.spotify.client",
-      "caption": "zxcvbn's EeveeSpotify updated to 8.9.34(1.4.1)",
-      "date": "2024-04-29",
+      "caption": "zxcvbn's EeveeSpotify updated to 8.9.36",
+      "date": "2024-05-02",
       "identifier": "new-update",
       "notify": true,
       "tintColor": "1DB954",
-      "title": "EeveeSpotify Latest - 29th April 2024"
+      "title": "EeveeSpotify Latest - 2nd May 2024"
     },
     {
       "appID": "com.google.ios.youtubemusic",
