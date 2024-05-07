@@ -136,15 +136,15 @@
       "size": 91750400,
       "subtitle": "Spotify with free premium, and extra UI features",
       "tintColor": "1DB954",
-      "version": "8.9.36u",
-      "versionDate": "2024-05-05",
-      "versionDescription": "- updated: EeveeSpotify (https://github.com/whoeevee/EeveeSpotify) v2.0 (objc)\n- OpenSpotifySafariExtension  (https://github.com/BillyCurtis/OpenSpotifySafariExtension) included\n* updated objc branch to include new features\n* uninstall your existing spotify app before updating\n! to activate premium, sign in then restart the app"
+      "version": "8.9.36u+",
+      "versionDate": "2024-05-06",
+      "versionDescription": "- updated: EeveeSpotify (https://github.com/whoeevee/EeveeSpotify) v2.1 (objc)\n- OpenSpotifySafariExtension  (https://github.com/BillyCurtis/OpenSpotifySafariExtension) included\n* updated objc branch to include new features\n* uninstall your existing spotify app before updating\n! to activate premium, sign in then restart the app"
     },
     {
       "beta": false,
       "bundleIdentifier": "com.google.ios.youtubemusic",
       "developerName": "zxcvbn",
-      "downloadURL": "https://files.drifty.win/YTMUltimate/YTMusicUltimate-6.50-zxcvbn.ipa",
+      "downloadURL": "https://files.drifty.win/YTMUltimate/YTMusicUltimate-6.51-zxcvbn.ipa",
       "iconURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Youtube_Music_icon.svg/2048px-Youtube_Music_icon.svg.png",
       "localizedDescription": "YT Music Ultimate patched for iOS 15+",
       "name": "YT Music Ultimate",
@@ -157,9 +157,9 @@
       "size": 4550400,
       "subtitle": "No ads. Cool tweaks. Requires iOS 15 and later.",
       "tintColor": "c3352e",
-      "version": "6.50",
-      "versionDate": "2024-04-29",
-      "versionDescription": "- updated youtube music (https://apps.apple.com/app/id1017492454) to v6.50 \n— google's music streaming service.\n- info: https://telegra.ph/zxcvbn-tweaked-YTMusicUltimate-02-06\n— updated YTMusicUltimate to v2.0.6!"
+      "version": "6.51",
+      "versionDate": "2024-05-06",
+      "versionDescription": "- updated youtube music (https://apps.apple.com/app/id1017492454) to v6.51 \n— google's music streaming service.\n- info: https://telegra.ph/zxcvbn-tweaked-YTMusicUltimate-02-06\n— updated YTMusicUltimate to v2.0.6!"
     }
   ],
   "identifier": "com.uyouenhanceddw.source",
@@ -190,21 +190,21 @@
     },
     {
       "appID": "com.spotify.client",
-      "caption": "zxcvbn's EeveeSpotify updated to 8.9.36u",
-      "date": "2024-05-05",
+      "caption": "zxcvbn's EeveeSpotify updated to 8.9.36u+",
+      "date": "2024-05-06",
       "identifier": "new-update",
       "notify": true,
       "tintColor": "1DB954",
-      "title": "EeveeSpotify Latest - 5th May 2024"
+      "title": "EeveeSpotify Latest - 6th May 2024"
     },
     {
       "appID": "com.google.ios.youtubemusic",
-      "caption": "zxcvbn's YT Music Ultimate updated to 6.50",
-      "date": "2024-04-29",
+      "caption": "zxcvbn's YT Music Ultimate updated to 6.51",
+      "date": "2024-05-06",
       "identifier": "new-update",
       "notify": true,
       "tintColor": "c3352e",
-      "title": "YTM Ultimate Latest - 29th April 2024"
+      "title": "YTM Ultimate Latest - 6th May 2024"
     }
   ],
   "userInfo": {}
