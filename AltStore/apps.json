@@ -102,7 +102,7 @@
       "beta": false,
       "bundleIdentifier": "com.burbn.instagram",
       "developerName": "zxcvbn",
-      "downloadURL": "https://files.drifty.win/InstaMulti/InstaMulti-329.0.0u-zxcvbn.ipa",
+      "downloadURL": "https://files.drifty.win/InstaMulti/InstaMulti-330.0.0u-zxcvbn.ipa",
       "iconURL": "https://raw.githubusercontent.com/qnblackcat/AltStore/main/ScreenShot/800px-Instagram_logo_2016.svg.png",
       "localizedDescription": "This app has options for which tweaks to use.\n\nLearn how to make your own Rocket for Instagram iPA here: https://github.com/qnblackcat/IGSideloadFix\n\nFEATURES\n- Browse home feed in grid layout.\n- Show following status in Profile.\n- Download posts from your feed.\n- Repost any post from your feed.\n- Long press on posts to zoom.\n- Copy post captions from your feed.\n- Download all Stories on Instagram.\n- Save videos from IGTV.\n- View Stories without notifying others.\n- Mute and unmute Stories.\n- Disable Auto-Advance in Stories.\n- Hide Stories from your feed.\n- Play in high quality on Mobile Data.\n- Long press on profile photo to zoom.\n- Disable read receipts in DM.\n- Disable Screenshot notifications in DM.\n- Disable Read Receipts in DM.\n\nLearn how to make your own Rocket for Instagram iPA here: https://github.com/qnblackcat/IGSideloadFix",
       "name": "InstaMulti",
@@ -115,15 +115,15 @@
       "size": 91750400,
       "subtitle": "Save posts and view stories anonymously and do much more. Requires iOS 15 and later.",
       "tintColor": "C13584",
-      "version": "329.0.0u",
-      "versionDate": "2024-05-02",
-      "versionDescription": "- updated insta (https://apps.apple.com/app/id389801252) to v329.0.0u\n— instagram lol\n- info: https://telegra.ph/zxcvbn-tweaked-instamulti-03-23"
+      "version": "330.0.0u",
+      "versionDate": "2024-05-08",
+      "versionDescription": "- updated insta (https://apps.apple.com/app/id389801252) to v330.0.0u\n— instagram lol\n- info: https://telegra.ph/zxcvbn-tweaked-instamulti-03-23"
     },
     {
       "beta": false,
       "bundleIdentifier": "com.spotify.client",
       "developerName": "zxcvbn",
-      "downloadURL": "https://files.drifty.win/EeveeSpotify/EeveeSpotify-8.9.36.ipa",
+      "downloadURL": "https://files.drifty.win/EeveeSpotify/EeveeSpotify-8.9.38-zxcvbn.ipa",
       "iconURL": "https://i.ibb.co/ZWtsW0w/Spotify-icon-svg.png",
       "localizedDescription": "One of the most popular music streaming services!\nhttps://t.me/SpotilifeIPAs for more information\n! to activate premium, sign in then restart the app",
       "name": "Spotify (EeveeSpotify)",
@@ -136,8 +136,8 @@
       "size": 91750400,
       "subtitle": "Spotify with free premium, and extra UI features",
       "tintColor": "1DB954",
-      "version": "8.9.36u+",
-      "versionDate": "2024-05-06",
+      "version": "8.9.38",
+      "versionDate": "2024-05-08",
       "versionDescription": "- updated: EeveeSpotify (https://github.com/whoeevee/EeveeSpotify) v2.1 (objc)\n- OpenSpotifySafariExtension  (https://github.com/BillyCurtis/OpenSpotifySafariExtension) included\n* updated objc branch to include new features\n* uninstall your existing spotify app before updating\n! to activate premium, sign in then restart the app"
     },
     {
@@ -181,21 +181,21 @@
     },
     {
       "appID": "com.burbn.instagram",
-      "caption": "zxcvbn's InstaMulti updated to 329.0.0u",
-      "date": "2024-05-02",
+      "caption": "zxcvbn's InstaMulti updated to 330.0.0u",
+      "date": "2024-05-08",
       "identifier": "new-update",
       "notify": true,
       "tintColor": "C13584",
-      "title": "InstaMulti Latest - 2nd May 2024"
+      "title": "InstaMulti Latest - 8th May 2024"
     },
     {
       "appID": "com.spotify.client",
-      "caption": "zxcvbn's EeveeSpotify updated to 8.9.36u+",
-      "date": "2024-05-06",
+      "caption": "zxcvbn's EeveeSpotify updated to 8.9.38",
+      "date": "2024-05-08",
       "identifier": "new-update",
       "notify": true,
       "tintColor": "1DB954",
-      "title": "EeveeSpotify Latest - 6th May 2024"
+      "title": "EeveeSpotify Latest - 8th May 2024"
     },
     {
       "appID": "com.google.ios.youtubemusic",
