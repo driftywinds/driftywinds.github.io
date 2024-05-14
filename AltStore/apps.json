@@ -181,6 +181,27 @@
       "version": "2.2.0",
       "versionDate": "2024-05-12",
       "versionDescription": "- updated elgato to v2.2.0\n- info: requested as a paid crack\n- repo at https://repo.yippee.rip"
+    },
+    {
+      "beta": false,
+      "bundleIdentifier": "com.kdt.livecontainer",
+      "developerName": "khanhduytran0",
+      "downloadURL": "https://github.com/khanhduytran0/LiveContainer/actions/runs/8910724882/artifacts/1464005630",
+      "iconURL": "https://cdn-icons-png.flaticon.com/512/9402/9402265.png",
+      "localizedDescription": "made by khanhduytran0, more info at available at https://github.com/khanhduytran0/LiveContainer",
+      "name": "LiveContainer",
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/7a/6a/85/7a6a8588-7356-1115-6d71-7f3def193b3a/7e89a17b-4877-472f-95f3-694256bc431d_01.png/460x0w.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/1c/13/90/1c1390a8-43cb-189a-cef2-a0c0316177dc/62774966-e639-4894-8406-78f4ce2d9361_02.png/460x0w.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/88/4b/9f/884b9f50-3bd8-fd21-6a64-e4cae55aee56/670398e4-45a2-4e4c-945c-3a3979fc67bb_03.png/460x0w.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/a8/39/fa/a839fa1e-b7b8-a9c0-c3e1-8f8e8ea6003a/9947e1f6-6204-4dd2-8cbd-73ac50df2b13_04.png/460x0w.png"
+      ],
+      "size": 91750400,
+      "subtitle": "Run iOS apps without actually installing them! More info:- https://github.com/khanhduytran0/LiveContainer",
+      "tintColor": "b3b3b3",
+      "version": "Commit 2d7bbe4",
+      "versionDate": "2024-05-01",
+      "versionDescription": "- Allows you to install unlimited apps (10 apps limit of free developer account do not apply here!), have multiple versions of an app installed and multiple data containers.\n- When JIT is available, codesign is entirely bypassed, no need to sign your apps before installing. Otherwise, app will be signed with the same certificate used by LiveContainer."
     }
   ],
   "identifier": "com.uyouenhanceddw.source",
