@@ -199,7 +199,7 @@
       "size": 91750400,
       "subtitle": "Run iOS apps without actually installing them! More info:- https://github.com/khanhduytran0/LiveContainer",
       "tintColor": "b3b3b3",
-      "version": "Commit 2d7bbe4",
+      "version": "2d7bbe4",
       "versionDate": "2024-05-01",
       "versionDescription": "- Allows you to install unlimited apps (10 apps limit of free developer account do not apply here!), have multiple versions of an app installed and multiple data containers.\n- When JIT is available, codesign is entirely bypassed, no need to sign your apps before installing. Otherwise, app will be signed with the same certificate used by LiveContainer."
     }
