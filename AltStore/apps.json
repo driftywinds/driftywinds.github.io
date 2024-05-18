@@ -185,11 +185,11 @@
     {
       "beta": false,
       "bundleIdentifier": "com.kdt.livecontainer",
-      "developerName": "khanhduytran0",
-      "downloadURL": "https://github.com/khanhduytran0/LiveContainer/actions/runs/8910724882/artifacts/1464005630",
+      "developerName": "khanhduytran0 / driftywinds",
+      "downloadURL": "https://files.drifty.win/Others/com.kdt.livecontainer.ipa",
       "iconURL": "https://cdn-icons-png.flaticon.com/512/9402/9402265.png",
-      "localizedDescription": "Join https://t.me/+rvcObIvOpctiMDI9 for more.\nmade by khanhduytran0, more info at available at https://github.com/khanhduytran0/LiveContainer",
-      "name": "LiveContainer",
+      "localizedDescription": "Join https://t.me/+rvcObIvOpctiMDI9 for more.\nmade by khanhduytran0, forked by me for building with latest commits.\nmore info at available at https://github.com/khanhduytran0/LiveContainer",
+      "name": "LiveContainer (driftywinds)",
       "screenshotURLs": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/7a/6a/85/7a6a8588-7356-1115-6d71-7f3def193b3a/7e89a17b-4877-472f-95f3-694256bc431d_01.png/460x0w.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/1c/13/90/1c1390a8-43cb-189a-cef2-a0c0316177dc/62774966-e639-4894-8406-78f4ce2d9361_02.png/460x0w.png",
