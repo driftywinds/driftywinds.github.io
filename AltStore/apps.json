@@ -144,7 +144,7 @@
       "beta": false,
       "bundleIdentifier": "com.google.ios.youtubemusic",
       "developerName": "zxcvbn",
-      "downloadURL": "https://files.drifty.win/YTMUltimate/YTMusicUltimate-6.51-zxcvbn.ipa",
+      "downloadURL": "https://files.drifty.win/YTMUltimate/YTMusicUltimate-7.02-zxcvbn.ipa",
       "iconURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Youtube_Music_icon.svg/2048px-Youtube_Music_icon.svg.png",
       "localizedDescription": "Join https://t.me/+rvcObIvOpctiMDI9 for more.\nYT Music Ultimate patched for iOS 15+",
       "name": "YT Music Ultimate",
@@ -157,9 +157,9 @@
       "size": 4550400,
       "subtitle": "No ads. Cool tweaks. Requires iOS 15 and later. | If you want to donate: - https://ko-fi.com/driftywinds",
       "tintColor": "c3352e",
-      "version": "6.51",
-      "versionDate": "2024-05-06",
-      "versionDescription": "- updated youtube music (https://apps.apple.com/app/id1017492454) to v6.51 \n— google's music streaming service.\n- info: https://telegra.ph/zxcvbn-tweaked-YTMusicUltimate-02-06\n— updated YTMusicUltimate to v2.0.6!"
+      "version": "7.02",
+      "versionDate": "2024-05-20",
+      "versionDescription": "- updated youtube music (https://apps.apple.com/app/id1017492454) to v7.02 \n— google's music streaming service.\n- info: https://telegra.ph/zxcvbn-tweaked-YTMusicUltimate-02-06\n— updated YTMusicUltimate to v2.0.6!"
     },
     {
       "beta": false,
@@ -241,12 +241,12 @@
     },
     {
       "appID": "com.google.ios.youtubemusic",
-      "caption": "zxcvbn's YT Music Ultimate updated to 6.51",
-      "date": "2024-05-06",
+      "caption": "zxcvbn's YT Music Ultimate updated to 7.02",
+      "date": "2024-05-20",
       "identifier": "new-update",
       "notify": true,
       "tintColor": "c3352e",
-      "title": "YTM Ultimate Latest - 6th May 2024"
+      "title": "YTM Ultimate Latest - 20th May 2024"
     }
   ],
   "userInfo": {}
