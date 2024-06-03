@@ -100,7 +100,7 @@
     },
     {
       "beta": false,
-      "bundleIdentifier": "com.google.ios.youtube(ytlp)",
+      "bundleIdentifier": "com.google.ios.youtubeytlp",
       "developerName": "YTLitePlus / driftywinds",
       "downloadURL": "https://files.drifty.win/YTLitePlus/YTLitePlus_19.22.3_4.0.ipa",
       "iconURL": "https://raw.githubusercontent.com/YTLitePlus/YTLitePlus-Altstore/main/Youtube_logo-512.png",
