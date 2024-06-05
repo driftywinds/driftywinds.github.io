@@ -3,7 +3,7 @@
     {
       "beta": false,
       "bundleIdentifier": "com.google.ios.youtube",
-      "developerName": "arichornlover",
+      "developerName": "MiRO92 / arichornlover",
       "META": { "repoName": "driftywinds' AltStore Repo" },
       "contact": {
           "web": "https://github.com/driftywinds/"
@@ -101,7 +101,7 @@
     {
       "beta": false,
       "bundleIdentifier": "com.google.ios.youtubeytlp",
-      "developerName": "@dayanch96",
+      "developerName": "dayanch96 / YTLitePlus",
       "downloadURL": "https://files.drifty.win/YTLitePlus/YTLitePlus_19.22.3_4.0.ipa",
       "iconURL": "https://raw.githubusercontent.com/YTLitePlus/YTLitePlus-Altstore/main/Youtube_logo-512.png",
       "localizedDescription": "Join https://t.me/+rvcObIvOpctiMDI9 for more.\n\nA modified version of Youtube supercharged with YTLite (by @dayanch96) and +15 other tweaks",
