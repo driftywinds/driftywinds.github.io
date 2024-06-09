@@ -37,7 +37,7 @@
               ],
             "appPermissions": {}
         },
-		{
+	{
             "name": "YTLitePlus (driftywinds)",
             "bundleIdentifier": "com.google.ios.youtubeytlp",
             "developerName": "dayanch96 / Balackburn",
