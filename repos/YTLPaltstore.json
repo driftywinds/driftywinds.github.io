@@ -1,0 +1,48 @@
+{
+  "apps": [
+    {
+      "beta": false,
+      "bundleIdentifier": "com.google.ios.youtube",
+      "developerName": "dayanch96 / Balackburn",
+      "downloadURL": "https://files.drifty.win/YTLitePlus/YTLitePlus_19.22.6_4.0.ipa",
+      "iconURL": "https://raw.githubusercontent.com/YTLitePlus/YTLitePlus-Altstore/main/Youtube_logo-512.png",
+      "localizedDescription": "Join https://t.me/+rvcObIvOpctiMDI9 for more.\n\nA modified version of Youtube supercharged with YTLite (by @dayanch96) and +15 other tweaks",
+      "name": "YTLitePlus (driftywinds)",
+      "screenshotURLs": [
+        "https://ytliteplus.github.io/images/image_6.png",
+        "https://ytliteplus.github.io/images/image_7.png",
+        "https://ytliteplus.github.io/images/image_8.png",
+        "https://ytliteplus.github.io/images/image_9.png",
+        "https://ytliteplus.github.io/images/image_10.png",
+        "https://ytliteplus.github.io/images/image_11.png",
+        "https://ytliteplus.github.io/images/image_12.png",
+        "https://ytliteplus.github.io/images/image_13.png"
+      ],
+      "size": 91750400,
+      "subtitle": "YTLite with more features! | If you want to donate: - https://ko-fi.com/driftywinds",
+      "tintColor": "e22a41",
+      "version": "19.22.6",
+      "versionDate": "2024-06-06",
+      "versionDescription": "Current YouTube IPA: 19.22.6\nCurrent YTLite Version: 4.0\nCurrent App Compatibility: iOS/iPadOS 14.0 or later"
+    }
+  ],
+  "identifier": "com.ytliteplusdw.source",
+  "name": "driftywinds' YTLitePlus Repo",
+  "subtitle": "definitevely driftywinds",
+  "description": "driftywinds' YTLitePlus iOS releases for AltStore can be found here.\n\nOther apps: - https://ios.drifty.win\n\nLearn more: - https://github.com/driftywinds/\n\nApps might download as '.zip' just change the extension back to '.ipa' .\n\nKofi - https://ko-fi.com/driftywinds\nLiberapay - https://liberapay.com/driftywinds/donate\nPatreon - https://www.patreon.com/bePatron?u=67102544",
+  "iconURL": "https://raw.githubusercontent.com/driftywinds/driftywinds/main/Apps/dp.png",
+  "sourceURL": "https://driftywinds.github.io/repos/YTLPaltstore.json",
+  "website": "https://github.com/driftywinds",
+  "news": [
+    {
+      "appID": "com.google.ios.youtube",
+      "caption": "YTLitePlus updated to 19.22.6",
+      "date": "2024-06-06",
+      "identifier": "new-update",
+      "notify": true,
+      "tintColor": "e22a41",
+      "title": "YTLitePlus Latest - 6th June 2024"
+    }
+  ],
+  "userInfo": {}
+}
