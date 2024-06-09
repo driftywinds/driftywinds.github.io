@@ -18,11 +18,11 @@
             "tintColor": "#02c2a8",
             "screenshotURLs": [
                 "https://github.com/therealFoxster/AltSource/blob/master/assets/screenshots/uYouPlus/uyouplus1.jpeg?raw=true",
-				"https://github.com/therealFoxster/AltSource/blob/master/assets/screenshots/uYouPlus/uyouplus2.jpeg?raw=true",
-				"https://github.com/therealFoxster/AltSource/blob/master/assets/screenshots/uYouPlus/uyouplus3.jpeg?raw=true",
-				"https://github.com/therealFoxster/AltSource/blob/master/assets/screenshots/uYouPlus/uyouplus4.jpeg?raw=true",
-				"https://github.com/therealFoxster/AltSource/blob/master/assets/screenshots/uYouPlus/uyouplus5.jpeg?raw=true",
-				"https://github.com/therealFoxster/AltSource/blob/master/assets/screenshots/uYouPlus/uyouplus6.jpeg?raw=true"
+		"https://github.com/therealFoxster/AltSource/blob/master/assets/screenshots/uYouPlus/uyouplus2.jpeg?raw=true",
+		"https://github.com/therealFoxster/AltSource/blob/master/assets/screenshots/uYouPlus/uyouplus3.jpeg?raw=true",
+		"https://github.com/therealFoxster/AltSource/blob/master/assets/screenshots/uYouPlus/uyouplus4.jpeg?raw=true",
+		"https://github.com/therealFoxster/AltSource/blob/master/assets/screenshots/uYouPlus/uyouplus5.jpeg?raw=true",
+		"https://github.com/therealFoxster/AltSource/blob/master/assets/screenshots/uYouPlus/uyouplus6.jpeg?raw=true"
             ],
             "versions": [
                 {
@@ -47,13 +47,13 @@
             "tintColor": "#e22a41",
             "screenshotURLs": [
                 "https://ytliteplus.github.io/images/image_6.png",
-				"https://ytliteplus.github.io/images/image_7.png",
-				"https://ytliteplus.github.io/images/image_8.png",
-				"https://ytliteplus.github.io/images/image_9.png",
-				"https://ytliteplus.github.io/images/image_10.png",
-				"https://ytliteplus.github.io/images/image_11.png",
-				"https://ytliteplus.github.io/images/image_12.png",
-				"https://ytliteplus.github.io/images/image_13.png"
+		"https://ytliteplus.github.io/images/image_7.png",
+		"https://ytliteplus.github.io/images/image_8.png",
+		"https://ytliteplus.github.io/images/image_9.png",
+		"https://ytliteplus.github.io/images/image_10.png",
+		"https://ytliteplus.github.io/images/image_11.png",
+		"https://ytliteplus.github.io/images/image_12.png",
+		"https://ytliteplus.github.io/images/image_13.png"
             ],
             "versions": [
                 {
@@ -61,6 +61,33 @@
                   "date": "2024-06-06",
                   "localizedDescription": "Updated YouTube to 19.22.6 (latest commits)",
                   "downloadURL": "https://files.drifty.win/YTLitePlus/YTLitePlus_19.22.6_4.0.ipa",
+                  "size": 130097628,
+                  "minOSVersion": "15.0",
+                  "maxOSVersion": "17.5.1"
+                }
+              ],
+            "appPermissions": {}
+        },
+	{
+            "name": "Spotify (EeveeSpotify)",
+            "bundleIdentifier": "com.spotify.client",
+            "developerName": "whoeevee / zxcvbn",
+            "subtitle": "Spotify with free premium, and extra UI features | If you want to donate: - https://ko-fi.com/driftywinds",
+            "localizedDescription": "Join https://t.me/+rvcObIvOpctiMDI9 for more.\nOne of the most popular music streaming services!\nhttps://t.me/SpotilifeIPAs for more information\n! to activate premium, sign in then restart the app",
+            "iconURL": "https://i.ibb.co/ZWtsW0w/Spotify-icon-svg.png",
+            "tintColor": "1DB954",
+            "screenshotURLs": [
+                "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/08/83/de/0883de6b-4615-4a41-0013-eaac0b258345/0265ec5e-b9ac-4c2f-9d95-2de3f284b0ec_IOS_-_6.7_-_S01_-_EN-US.png/600x0w.png",
+		"https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/ec/b4/2b/ecb42b34-b289-095c-1891-0ed03bb57cc4/e6c4993b-f6e2-4b07-873d-afcb011acb30_IOS_-_6.7_-_S02_-_EN-US.png/600x0w.png",
+		"https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/e2/b6/f4/e2b6f400-4342-02d6-1d11-2a8fc7c123d7/5953db43-4430-425a-9228-911aa8e783b9_IOS_-_6.7_-_S03_-_EN-US.png/600x0w.png",
+		"https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/27/bf/37/27bf3762-d85e-e603-ab60-883bb6508eaa/1c9b59de-280b-4a8b-b571-47fd96546e62_IOS_-_6.7_-_S04_-_EN-US.png/600x0w.png"
+            ],
+            "versions": [
+                {
+                  "version": "8.9.44",
+                  "date": "2024-06-08",
+                  "localizedDescription": "- ALL INFO = https://t.me/SpotilifeIPAs/73\n- updated: EeveeSpotify (https://github.com/whoeevee/EeveeSpotify) v4.1",
+                  "downloadURL": "https://files.drifty.win/EeveeSpotify/EeveeSpotify-4.1-8.9.44.ipa",
                   "size": 130097628,
                   "minOSVersion": "15.0",
                   "maxOSVersion": "17.5.1"
