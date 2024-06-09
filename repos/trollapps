@@ -1,0 +1,73 @@
+{
+    "name": "driftywinds' repo",
+    "subtitle": "All of driftywinds' releases",
+    "description": "Add this to TrollApps to get all of driftywinds' releases directly.",
+    "iconURL": "https://raw.githubusercontent.com/driftywinds/driftywinds/main/Apps/dp.png",
+    "headerURL": "https://raw.githubusercontent.com/driftywinds/driftywinds.github.io/master/repos/driftys_transparent.png",
+    "website": "https://github.com/driftywinds",
+    "tintColor": "#02c2a8",
+    "featuredApps": [],
+    "apps": [
+        {
+            "name": "uYouEnhanced (driftywinds)",
+            "bundleIdentifier": "com.google.ios.youtube",
+            "developerName": "MiRO92 / arichornlover",
+            "subtitle": "No DMCA can stop this ;) | If you want to donate: - https://ko-fi.com/driftywinds",
+            "localizedDescription": "Join https://t.me/+rvcObIvOpctiMDI9 for more.\nuYou is the best tweak for the YouTube app.\n \n uYouEnhanced is a modified version of uYouPlus & uYou with even more features.\n \n Additional features:\n • Skip sponsorships in videos (iSponsorBlock)\n • Even more PiP options (YouPiP)\n • Unlock 1440p and 2160p resolutions (YTUHD)\n • Disable overlay at the end of videos (YTNoHoverCards)\n • Remove YouTube Premium upsell alerts (NoYTPremium)\n • Enable to Dim the YouTube UI (LowContrastMode)\n • Enable the miniplayer for all videos (YTMiniplayerEnabler)\n • Prevent the notch/Dynamic Island from cutting into 2:1 videos (DontEatMyContent)\n • Configure A/B settings in the YouTube app (YTABConfig)\n • And more\n \n More information: \n https://github.com/qnblackcat/uYouPlus/ \n \n Requires iOS 14.0 or later.\n \n Contributors: MiRO92, qnblackcat, PoomSmart, level3tjg, BandarHelal, galactic, julioverne, HASHBANG, Lyvendia, Foxster, ichitaso, Ahmed Bafkir, CokePokes, Tommy Teo, theos, and many others.",
+            "iconURL": "https://raw.githubusercontent.com/therealFoxster/AltSource/master/assets/icons/uYou.png",
+            "tintColor": "#02c2a8",
+            "screenshotURLs": [
+                "https://github.com/therealFoxster/AltSource/blob/master/assets/screenshots/uYouPlus/uyouplus1.jpeg?raw=true",
+				"https://github.com/therealFoxster/AltSource/blob/master/assets/screenshots/uYouPlus/uyouplus2.jpeg?raw=true",
+				"https://github.com/therealFoxster/AltSource/blob/master/assets/screenshots/uYouPlus/uyouplus3.jpeg?raw=true",
+				"https://github.com/therealFoxster/AltSource/blob/master/assets/screenshots/uYouPlus/uyouplus4.jpeg?raw=true",
+				"https://github.com/therealFoxster/AltSource/blob/master/assets/screenshots/uYouPlus/uyouplus5.jpeg?raw=true",
+				"https://github.com/therealFoxster/AltSource/blob/master/assets/screenshots/uYouPlus/uyouplus6.jpeg?raw=true"
+            ],
+            "versions": [
+                {
+                  "version": "19.22.6",
+                  "date": "2024-06-06",
+                  "localizedDescription": "Updated YouTube to 19.22.6 (latest commits)",
+                  "downloadURL": "https://files.drifty.win/uYouEnhanced/uYouEnhanced_19.22.6-3.0.4.ipa",
+                  "size": 130097628,
+                  "minOSVersion": "15.0",
+                  "maxOSVersion": "17.5.1"
+                }
+              ],
+            "appPermissions": {}
+        },
+		{
+            "name": "YTLitePlus (driftywinds)",
+            "bundleIdentifier": "com.google.ios.youtubeytlp",
+            "developerName": "dayanch96 / Balackburn",
+            "subtitle": "YTLite with more features! | If you want to donate: - https://ko-fi.com/driftywinds",
+            "localizedDescription": "Join https://t.me/+rvcObIvOpctiMDI9 for more.\n\nA modified version of Youtube supercharged with YTLite (by @dayanch96) and +15 other tweaks",
+            "iconURL": "https://raw.githubusercontent.com/YTLitePlus/YTLitePlus-Altstore/main/Youtube_logo-512.png",
+            "tintColor": "#e22a41",
+            "screenshotURLs": [
+                "https://ytliteplus.github.io/images/image_6.png",
+				"https://ytliteplus.github.io/images/image_7.png",
+				"https://ytliteplus.github.io/images/image_8.png",
+				"https://ytliteplus.github.io/images/image_9.png",
+				"https://ytliteplus.github.io/images/image_10.png",
+				"https://ytliteplus.github.io/images/image_11.png",
+				"https://ytliteplus.github.io/images/image_12.png",
+				"https://ytliteplus.github.io/images/image_13.png"
+            ],
+            "versions": [
+                {
+                  "version": "19.22.6",
+                  "date": "2024-06-06",
+                  "localizedDescription": "Updated YouTube to 19.22.6 (latest commits)",
+                  "downloadURL": "https://files.drifty.win/YTLitePlus/YTLitePlus_19.22.6_4.0.ipa",
+                  "size": 130097628,
+                  "minOSVersion": "15.0",
+                  "maxOSVersion": "17.5.1"
+                }
+              ],
+            "appPermissions": {}
+        }
+    ],
+    "news": []
+  }
