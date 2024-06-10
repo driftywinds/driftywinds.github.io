@@ -26,10 +26,10 @@
             ],
             "versions": [
                 {
-                  "version": "19.22.6",
-                  "date": "2024-06-06",
-                  "localizedDescription": "Updated YouTube to 19.22.6 (latest commits)",
-                  "downloadURL": "https://files.drifty.win/uYouEnhanced/uYouEnhanced_19.22.6-3.0.4.ipa",
+                  "version": "19.23.3",
+                  "date": "2024-06-10",
+                  "localizedDescription": "Updated YouTube to 19.23.3 (latest commits)",
+                  "downloadURL": "https://files.drifty.win/uYouEnhanced/uYouEnhanced_19.23.3-3.0.4.ipa",
                   "size": 130097628,
                   "minOSVersion": "15.0",
                   "maxOSVersion": "17.5.1"
