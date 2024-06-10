@@ -8,7 +8,9 @@
     "tintColor": "02c2a8",
     "featuredApps": [
         "com.google.ios.youtube",
-		"com.google.ios.youtubeytlp"
+	"com.google.ios.youtubeytlp",
+	"com.spotify.client",
+	"com.mojang.minecraftpe"
     ],
     "crypto": {
         "Kofi": "https:\/\/ko-fi.com\/driftywinds"
@@ -36,7 +38,7 @@
         },
         {
             "name": "YTLitePlus (driftywinds)",
-            "bundleIdentifier": "com.google.ios.youtube",
+            "bundleIdentifier": "com.google.ios.youtubeytlp",
             "developerName": "dayanch96 / Balackburn",
             "version": "19.22.6",
             "versionDate": "2024-06-06",
