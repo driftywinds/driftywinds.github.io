@@ -73,6 +73,24 @@
 		"https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/e2/b6/f4/e2b6f400-4342-02d6-1d11-2a8fc7c123d7/5953db43-4430-425a-9228-911aa8e783b9_IOS_-_6.7_-_S03_-_EN-US.png/600x0w.png",
 		"https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/27/bf/37/27bf3762-d85e-e603-ab60-883bb6508eaa/1c9b59de-280b-4a8b-b571-47fd96546e62_IOS_-_6.7_-_S04_-_EN-US.png/600x0w.png"
             ]
+        },
+	{
+            "name": "Minecraft",
+            "bundleIdentifier": "com.mojang.minecraftpe",
+            "developerName": "Babylon IPA Library",
+            "version": "1.20.81",
+            "versionDate": "2024-06-10",
+            "downloadURL": "https://files.drifty.win/Minecraft/Minecraft_v1.20.81.ipa",
+            "localizedDescription": "Join https://t.me/+rvcObIvOpctiMDI9 for more.\nOne of the best selling games on the planet!\nhttps://t.me/BabylonIPA for other game releases",
+            "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/42/01/22/42012236-af5d-f1c1-31c2-4dd7827585dd/AppIcon-1x_U007emarketing-0-9-0-85-220.png/460x0w.png",
+            "tintColor": "996747",
+            "size": 130097628,
+            "screenshotURLs": [
+		"https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/bd/8b/1e/bd8b1e0f-9460-b77f-a63e-2c77c5dad9d7/pr_source.png/626x0w.png",
+		"https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/30/ac/d7/30acd77c-babc-d157-6efd-6ff07c6fd0f7/pr_source.png/626x0w.png",
+		"https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/0b/e6/8e/0be68e36-b4a1-8da6-0089-7b17fcde6e83/pr_source.png/626x0w.png ",
+		"https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/76/14/98/76149831-885a-9eca-0c01-8a95b97db189/pr_source.png/626x0w.png"
+            ]
         }
     ]
 }
