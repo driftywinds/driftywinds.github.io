@@ -39,7 +39,7 @@
         },
 	{
             "name": "YTLitePlus (driftywinds)",
-            "bundleIdentifier": "com.google.ios.youtubeytlp",
+            "bundleIdentifier": "com.google.ios.youtube",
             "developerName": "dayanch96 / Balackburn",
             "subtitle": "YTLite with more features! | If you want to donate: - https://ko-fi.com/driftywinds",
             "localizedDescription": "Join https://t.me/+rvcObIvOpctiMDI9 for more.\n\nA modified version of Youtube supercharged with YTLite (by @dayanch96) and +15 other tweaks",
