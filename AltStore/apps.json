@@ -235,7 +235,7 @@
   "news": [
     {
       "appID": "com.google.ios.youtube",
-      "caption": "uYouEnhanced updated to 19.23.3, YTLitePlus has moved here - https://ios.drifty.win/view/app/?source=https://driftywinds.github.io/repos/YTLPaltstore.json&id=com.google.ios.youtube",
+      "caption": "uYouEnhanced updated to 19.23.3, YTLitePlus has moved here - https://ios.drifty.win/view/app/?source=https://raw.githubusercontent.com/Balackburn/YTLitePlusAltstore/main/apps.json",
       "date": "2024-06-10",
       "identifier": "new-update",
       "notify": true,
