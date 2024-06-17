@@ -84,10 +84,10 @@
             ],
             "versions": [
                 {
-                  "version": "8.9.44",
-                  "date": "2024-06-08",
+                  "version": "8.9.48",
+                  "date": "2024-06-17",
                   "localizedDescription": "- ALL INFO = https://t.me/SpotilifeIPAs/73\n- updated: EeveeSpotify (https://github.com/whoeevee/EeveeSpotify) v4.1",
-                  "downloadURL": "https://files.drifty.win/EeveeSpotify/EeveeSpotify-4.1-8.9.44.ipa",
+                  "downloadURL": "https://github.com/whoeevee/EeveeSpotify/releases/download/swift4.2/EeveeSpotify-4.2-8.9.48.ipa",
                   "size": 130097628,
                   "minOSVersion": "15.0",
                   "maxOSVersion": "17.5.1"
