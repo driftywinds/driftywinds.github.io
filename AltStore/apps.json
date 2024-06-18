@@ -125,7 +125,7 @@
       "developerName": "whoeevee",
       "downloadURL": "https://github.com/whoeevee/EeveeSpotify/releases/download/swift4.2/EeveeSpotify-4.2-8.9.48.ipa",
       "iconURL": "https://i.ibb.co/ZWtsW0w/Spotify-icon-svg.png",
-      "localizedDescription": "Join https://t.me/+rvcObIvOpctiMDI9 for more.\nOne of the most popular music streaming services!\nhttps://t.me/SpotilifeIPAs for more information\n! to activate premium, sign in then restart the app",
+      "localizedDescription": "Join https://t.me/+rvcObIvOpctiMDI9 for more.\nOne of the most popular music streaming services!\nhttps://github.com/whoeevee/EeveeSpotify for more information",
       "name": "Spotify (EeveeSpotify)",
       "screenshotURLs": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/08/83/de/0883de6b-4615-4a41-0013-eaac0b258345/0265ec5e-b9ac-4c2f-9d95-2de3f284b0ec_IOS_-_6.7_-_S01_-_EN-US.png/600x0w.png",
@@ -138,7 +138,7 @@
       "tintColor": "1DB954",
       "version": "8.9.48",
       "versionDate": "2024-06-17",
-      "versionDescription": "- ALL INFO = https://t.me/SpotilifeIPAs/73\n- updated: EeveeSpotify (https://github.com/whoeevee/EeveeSpotify) v4.2 (objc)\n- OpenSpotifySafariExtension  (https://github.com/BillyCurtis/OpenSpotifySafariExtension) included\n* updated objc branch to include new features\n* uninstall your existing spotify app before updating\n! to activate premium, sign in then restart the app"
+      "versionDescription": "This tweak makes Spotify think you have a Premium subscription, granting free listening, just like Spotilife, and provides some additional features like custom lyrics.\n\neveeSpotify replaces Spotify monthly limited lyrics with one of the following three lyrics providers: \n- Genius: Offers the best quality lyrics, provides the most songs, and updates lyrics the fastest. Does not and will never be time-synced.\n- LRCLIB: The most open service, offering time-synced lyrics. However, it lacks lyrics for many songs.\n- Musixmatch: The service Spotify uses. Provides time-synced lyrics for many songs, but you'll need a user token to use this source. To obtain the token, download Musixmatch from the App Store, sign up, then go to Settings > Get help > Copy debug info, and paste it into EeveeSpotify alert. You can also extract the token using MITM.\n- If the tweak is unable to find a song or process the lyrics, you'll see a 'Couldn't load the lyrics for this song' message. The lyrics might be wrong for some songs when using Genius due to how the tweak searches songs. While I've made it work in most cases, kindly refrain from opening issues about it.\n\nPlease refrain from opening issues about the following features, as they are server-sided and will NEVER work: \n- Very High audio quality\n- Native playlist downloading (you can download podcast episodes though)\n- Jam (hosting a Spotify Jam and joining it remotely requires Premium; only joining in-person works)\n- It's possible to implement downloading locally, but it will never be included in EeveeSpotify (unless someone opens a pull request).\n\nAll other information: - https://github.com/whoeevee/EeveeSpotify"
     },
     {
       "beta": false,
