@@ -8,7 +8,7 @@
       "contact": {
           "web": "https://github.com/driftywinds/"
       },
-      "downloadURL": "https://files.drifty.win/uYouEnhanced/uYouEnhanced_19.24.2-3.0.4.ipa",
+      "downloadURL": "https://files.drifty.win/uYouEnhanced/uYouEnhanced_19.24.2u-3.0.4.ipa",
       "iconURL": "https://raw.githubusercontent.com/therealFoxster/AltSource/master/assets/icons/uYou.png",
       "localizedDescription": "Join https://t.me/+rvcObIvOpctiMDI9 for more.\nuYou is the best tweak for the YouTube app.\n \n uYouEnhanced is a modified version of uYouPlus & uYou with even more features.\n \n• And more\n \n More information: \n https://github.com/qnblackcat/uYouPlus/ \n \n Requires iOS 14.0 or later.",
       "name": "uYouEnhanced (driftywinds)",
@@ -94,9 +94,9 @@
         },
       "subtitle": "No DMCA can stop this ;) | join https://t.me/+rvcObIvOpctiMDI9 for more | If you want to donate: - https://ko-fi.com/driftywinds",
       "tintColor": "02c2a8",
-      "version": "19.24.2",
-      "versionDate": "2024-06-17",
-      "versionDescription": "• Updated YouTube to 19.24.2 (latest commits)\n • uYou is using 3.0.4"
+      "version": "19.24.2u",
+      "versionDate": "2024-06-18",
+      "versionDescription": "• Updated YouTube to 19.24.2u (latest commits)\n • uYou is using 3.0.4"
     },
     {
       "beta": false,
@@ -235,12 +235,12 @@
   "news": [
     {
       "appID": "com.google.ios.youtube",
-      "caption": "uYouEnhanced updated to 19.24.2, YTLitePlus has moved here - https://ios.drifty.win/view/app/?source=https://raw.githubusercontent.com/Balackburn/YTLitePlusAltstore/main/apps.json",
-      "date": "2024-06-17",
+      "caption": "uYouEnhanced updated to 19.24.2u, YTLitePlus has moved here - https://ios.drifty.win/view/app/?source=https://raw.githubusercontent.com/Balackburn/YTLitePlusAltstore/main/apps.json",
+      "date": "2024-06-18",
       "identifier": "new-update",
       "notify": true,
       "tintColor": "02c2a8",
-      "title": "uYouEnhanced Latest - 17th June 2024"
+      "title": "uYouEnhanced Latest - 18th June 2024"
     },
     {
       "appID": "com.burbn.instagram",
