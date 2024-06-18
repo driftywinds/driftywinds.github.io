@@ -26,10 +26,10 @@
             ],
             "versions": [
                 {
-                  "version": "19.24.2",
-                  "date": "2024-06-17",
+                  "version": "19.24.2u",
+                  "date": "2024-06-18",
                   "localizedDescription": "Updated YouTube to 19.24.2 (latest commits)",
-                  "downloadURL": "https://files.drifty.win/YTLitePlus/YTLitePlus_19.24.2_4.0.1.ipa",
+                  "downloadURL": "https://files.drifty.win/uYouEnhanced/uYouEnhanced_19.24.2u-3.0.4.ipa",
                   "size": 130097628,
                   "minOSVersion": "15.0",
                   "maxOSVersion": "17.5.1"
