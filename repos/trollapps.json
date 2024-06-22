@@ -120,10 +120,10 @@
             ],
             "versions": [
                 {
-                  "version": "1.20.81",
-                  "date": "2024-06-10",
+                  "version": "1.21.1",
+                  "date": "2024-06-21",
                   "localizedDescription": "- More Releases = https://t.me/BabylonIPA",
-                  "downloadURL": "https://files.drifty.win/Minecraft/Minecraft_v1.20.81.ipa",
+                  "downloadURL": "https://files.drifty.win/Minecraft/Minecraft_v1.21.1.ipa",
                   "size": 130097628,
                   "minOSVersion": "15.0",
                   "maxOSVersion": "17.5.1"
