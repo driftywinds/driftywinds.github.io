@@ -165,7 +165,7 @@
       "beta": false,
       "bundleIdentifier": "com.google.ios.youtubemusic",
       "developerName": "Ginsu / dayanch96",
-      "downloadURL": "https://files.drifty.win/YTMUltimate/YTMusicUltimate_v7.04.ipa",
+      "downloadURL": "https://files.drifty.win/YTMUltimate/YTMusicUltimate-v7.06.ipa",
       "iconURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Youtube_Music_icon.svg/2048px-Youtube_Music_icon.svg.png",
       "localizedDescription": "Join https://t.me/+rvcObIvOpctiMDI9 for more.\nYT Music Ultimate patched for iOS 15+",
       "name": "YT Music Ultimate",
@@ -178,9 +178,9 @@
       "size": 4550400,
       "subtitle": "No ads. Cool tweaks. Requires iOS 15 and later. | If you want to donate: - https://ko-fi.com/driftywinds",
       "tintColor": "c3352e",
-      "version": "7.04",
-      "versionDate": "2024-06-10",
-      "versionDescription": "Please uninstall builds before v7.04 to install v7.04 properly.\n- updated youtube music (https://apps.apple.com/app/id1017492454) to v7.04 \n— google's music streaming service.\n- info: https://telegra.ph/zxcvbn-tweaked-YTMusicUltimate-02-06\n— updated YTMusicUltimate to v2.0.6!"
+      "version": "7.06",
+      "versionDate": "2024-06-23",
+      "versionDescription": "Please uninstall builds before v7.04 to install v7.06 properly.\n- updated youtube music (https://apps.apple.com/app/id1017492454) to v7.04 \n— google's music streaming service.\n- info: https://telegra.ph/zxcvbn-tweaked-YTMusicUltimate-02-06\n— updated YTMusicUltimate to v2.0.6!"
     },
     {
       "beta": false,
@@ -262,12 +262,12 @@
     },
     {
       "appID": "com.google.ios.youtubemusic",
-      "caption": "zxcvbn's YT Music Ultimate updated to 7.04",
-      "date": "2024-06-10",
+      "caption": "zxcvbn's YT Music Ultimate updated to 7.06",
+      "date": "2024-06-23",
       "identifier": "new-update",
       "notify": true,
       "tintColor": "c3352e",
-      "title": "YTM Ultimate Latest - 10th June 2024"
+      "title": "YTM Ultimate Latest - 23rd June 2024"
     }
   ],
   "userInfo": {}
