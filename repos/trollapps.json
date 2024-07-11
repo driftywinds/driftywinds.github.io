@@ -93,10 +93,10 @@
             ],
             "versions": [
                 {
-                  "version": "8.9.50",
-                  "date": "2024-06-25",
-                  "localizedDescription": "- updated: EeveeSpotify (https://github.com/whoeevee/EeveeSpotify) v4.3",
-                  "downloadURL": "https://github.com/whoeevee/EeveeSpotify/releases/download/swift4.3/EeveeSpotify-4.3-8.9.50.ipa",
+                  "version": "8.9.54",
+                  "date": "2024-07-11",
+                  "localizedDescription": "- updated: EeveeSpotify (https://github.com/whoeevee/EeveeSpotify) v4.4",
+                  "downloadURL": "https://github.com/whoeevee/EeveeSpotify/releases/download/swift4.4/EeveeSpotify-4.4-8.9.54.ipa",
                   "size": 130097628,
                   "minOSVersion": "15.0",
                   "maxOSVersion": "17.5.1"
