@@ -66,10 +66,10 @@
             ],
             "versions": [
                 {
-                  "version": "19.24.2",
-                  "date": "2024-06-17",
-                  "localizedDescription": "Updated YouTube to 19.24.2 (latest commits)",
-                  "downloadURL": "https://files.catbox.moe/fb8gts.ipa",
+                  "version": "19.29.1",
+                  "date": "2024-07-23",
+                  "localizedDescription": "Updated YouTube to 19.29.1 (latest commits)",
+                  "downloadURL": "https://files.drifty.win/YTLitePlus/YTLitePlus_19.29.1_4.0.1.ipa",
                   "size": 130097628,
                   "minOSVersion": "15.0",
                   "maxOSVersion": "17.5.1"
@@ -93,10 +93,10 @@
             ],
             "versions": [
                 {
-                  "version": "8.9.54",
-                  "date": "2024-07-11",
+                  "version": "8.9.58",
+                  "date": "2024-07-22",
                   "localizedDescription": "- updated: EeveeSpotify (https://github.com/whoeevee/EeveeSpotify) v4.4",
-                  "downloadURL": "https://github.com/whoeevee/EeveeSpotify/releases/download/swift4.4/EeveeSpotify-4.4-8.9.54.ipa",
+                  "downloadURL": "https://github.com/whoeevee/EeveeSpotify/releases/download/swift4.5/EeveeSpotify-4.5-8.9.58.ipa",
                   "size": 130097628,
                   "minOSVersion": "15.0",
                   "maxOSVersion": "17.5.1"
@@ -120,10 +120,10 @@
             ],
             "versions": [
                 {
-                  "version": "1.21.1",
-                  "date": "2024-06-21",
+                  "version": "1.21.2",
+                  "date": "2024-07-11",
                   "localizedDescription": "- More Releases = https://t.me/BabylonIPA",
-                  "downloadURL": "https://files.drifty.win/Minecraft/Minecraft_v1.21.1.ipa",
+                  "downloadURL": "https://files.drifty.win/Minecraft/Minecraft_v1.21.2.ipa",
                   "size": 130097628,
                   "minOSVersion": "15.0",
                   "maxOSVersion": "17.5.1"
