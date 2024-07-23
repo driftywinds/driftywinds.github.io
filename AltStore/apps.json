@@ -3,22 +3,24 @@
     {
       "beta": false,
       "bundleIdentifier": "com.google.ios.youtube",
-      "developerName": "MiRO92 / arichornlover",
+      "developerName": "YTLitePlus",
       "META": { "repoName": "driftywinds' AltStore Repo" },
       "contact": {
           "web": "https://github.com/driftywinds/"
       },
-      "downloadURL": "https://files.drifty.win/uYouEnhanced/uYouEnhanced_19.23.3-3.0.4.ipa",
-      "iconURL": "https://raw.githubusercontent.com/therealFoxster/AltSource/master/assets/icons/uYou.png",
-      "localizedDescription": "Join https://t.me/+rvcObIvOpctiMDI9 for more.\nuYou is the best tweak for the YouTube app.\n \n uYouEnhanced is a modified version of uYouPlus & uYou with even more features.\n \n• And more\n \n More information: \n https://github.com/qnblackcat/uYouPlus/ \n \n Requires iOS 14.0 or later.",
-      "name": "uYouEnhanced (driftywinds)",
+      "downloadURL": "https://files.drifty.win/YTLitePlus/YTLitePlus_19.29.1_4.0.1.ipa",
+      "iconURL": "https://raw.githubusercontent.com/YTLitePlus/YTLitePlus-Altstore/main/Youtube_logo-512.png",
+      "localizedDescription": "Join https://t.me/+rvcObIvOpctiMDI9 for more.\n\nA modified version of Youtube supercharged with YTLite (by @dayanch96) and +15 other tweaks",
+      "name": "YTLitePlus (driftywinds)",
       "screenshotURLs": [
-        "https://github.com/therealFoxster/AltSource/blob/master/assets/screenshots/uYouPlus/uyouplus1.jpeg?raw=true",
-        "https://github.com/therealFoxster/AltSource/blob/master/assets/screenshots/uYouPlus/uyouplus2.jpeg?raw=true",
-        "https://github.com/therealFoxster/AltSource/blob/master/assets/screenshots/uYouPlus/uyouplus3.jpeg?raw=true",
-        "https://github.com/therealFoxster/AltSource/blob/master/assets/screenshots/uYouPlus/uyouplus4.jpeg?raw=true",
-        "https://github.com/therealFoxster/AltSource/blob/master/assets/screenshots/uYouPlus/uyouplus5.jpeg?raw=true",
-        "https://github.com/therealFoxster/AltSource/blob/master/assets/screenshots/uYouPlus/uyouplus6.jpeg?raw=true"
+        "https://ytliteplus.github.io/images/image_6.png",
+        "https://ytliteplus.github.io/images/image_7.png",
+        "https://ytliteplus.github.io/images/image_8.png",
+        "https://ytliteplus.github.io/images/image_9.png",
+        "https://ytliteplus.github.io/images/image_10.png",
+        "https://ytliteplus.github.io/images/image_11.png",
+        "https://ytliteplus.github.io/images/image_12.png",
+        "https://ytliteplus.github.io/images/image_13.png"
       ],
       "size": 130097628,
       "appPermissions": {
@@ -92,11 +94,11 @@
             }
           ]
         },
-      "subtitle": "No DMCA can stop this ;) | join https://t.me/+rvcObIvOpctiMDI9 for more | If you want to donate: - https://ko-fi.com/driftywinds",
-      "tintColor": "02c2a8",
-      "version": "19.23.3",
-      "versionDate": "2024-06-10",
-      "versionDescription": "• Updated YouTube to 19.23.3 (latest commits)\n • uYou is using 3.0.4"
+      "subtitle": "YTLite with more features! | If you want to donate: - https://ko-fi.com/driftywinds",
+      "tintColor": "e22a41",
+      "version": "19.29.1",
+      "versionDate": "2024-07-23",
+      "versionDescription": "• Updated YouTube to 19.29.1 (latest commits)\n • Tweak is using 4.0.1"
     },
     {
       "beta": false,
@@ -235,12 +237,12 @@
   "news": [
     {
       "appID": "com.google.ios.youtube",
-      "caption": "uYouEnhanced updated to 19.23.3, YTLitePlus has moved here - https://ios.drifty.win/view/app/?source=https://raw.githubusercontent.com/Balackburn/YTLitePlusAltstore/main/apps.json",
-      "date": "2024-06-10",
+      "caption": "YTLitePlus updated to 19.29.1. \n\nuYouEnhanced has been discontinued.",
+      "date": "2024-07-23",
       "identifier": "new-update",
       "notify": true,
-      "tintColor": "02c2a8",
-      "title": "uYouEnhanced Latest - 10th June 2024"
+      "tintColor": "e22a41",
+      "title": "YTLitePlus Latest - 23rd July 2024"
     },
     {
       "appID": "com.burbn.instagram",
