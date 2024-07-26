@@ -230,7 +230,7 @@
   "identifier": "com.dw.source",
   "name": "driftywinds' AltStore Repo",
   "subtitle": "definitevely driftywinds",
-  "description": "uYouEnhanced is no more. YTLitePlus has taken up its mantle.\n\nAll driftywinds iOS releases for AltStore can be found here.\n\nLearn more: - https://github.com/driftywinds/\n\nApps might download as '.zip' just change the extension back to '.ipa' .\n\nKofi - https://ko-fi.com/driftywinds\nLiberapay - https://liberapay.com/driftywinds/donate\nPatreon - https://www.patreon.com/bePatron?u=67102544",
+  "description": "uYouEnhanced is no more. YTLitePlus has taken up its mantle.\n\nAll driftywinds iOS releases can be found here. This repo is compatible with AltStore, ESign and MapleSign.\n\nLearn more: - https://github.com/driftywinds/\n\nApps might download as '.zip' just change the extension back to '.ipa' .\n\nKofi - https://ko-fi.com/driftywinds\nLiberapay - https://liberapay.com/driftywinds/donate\nPatreon - https://www.patreon.com/bePatron?u=67102544",
   "iconURL": "https://raw.githubusercontent.com/driftywinds/driftywinds/main/Apps/dp.png",
   "sourceURL": "https://driftywinds.github.io/AltStore/apps.json",
   "website": "https://github.com/driftywinds",
