@@ -165,6 +165,27 @@
     },
     {
       "beta": false,
+      "bundleIdentifier": "com.atebits.Tweetie2",
+      "developerName": "ghl3m0n",
+      "downloadURL": "https://github.com/ghl3m0n/FuckElon/releases/download/ipa/X.10.33.FuckElon.@ghl3m0n.ipa",
+      "iconURL": "https://i.ibb.co/ZWtsW0w/Spotify-icon-svg.png",
+      "localizedDescription": "Join https://t.me/+rvcObIvOpctiMDI9 for more.\nModified X app that looks like OG Twitter\nhttps://github.com/ghl3m0n/FuckElon for more information",
+      "name": "Twitter (FuckElon GitHub)",
+      "screenshotURLs": [
+        "https://raw.githubusercontent.com/ghl3m0n/FuckElon/main/images/1.PNG",
+        "https://raw.githubusercontent.com/ghl3m0n/FuckElon/main/images/2.PNG",
+        "https://raw.githubusercontent.com/ghl3m0n/FuckElon/main/images/3.PNG",
+        "https://raw.githubusercontent.com/ghl3m0n/FuckElon/main/images/4.PNG"
+      ],
+      "size": 91750400,
+      "subtitle": "A custom IPA that removes the X branding while keeping the new like, retweet, etc. icons. | If you want to donate: - https://ko-fi.com/driftywinds",
+      "tintColor": "1DA1F2",
+      "version": "10.33.1",
+      "versionDate": "2024-07-27",
+      "versionDescription": "To maintain the classic look and feel of Twitter, some of the new design elements introduced by X have been replaced with those from earlier versions of Twitter. Specifically:-\n\nIcons: The new icons from X have been substituted with the original Twitter bird icons.\n\nText Labels: Text labels and button names that were changed in X have been reverted to their previous Twitter terminology (e.g., 'Post' changed back to 'Tweet', 'Repost' reverted to 'Retweet').\n\nInterface Elements: Certain interface elements that reflect the new X branding have been replaced with elements from the old Twitter design to preserve a nostalgic user experience."
+    },
+    {
+      "beta": false,
       "bundleIdentifier": "com.google.ios.youtubemusic",
       "developerName": "Ginsu / dayanch96",
       "downloadURL": "https://files.drifty.win/YTMUltimate/YTMusicUltimate-v7.11.ipa",
