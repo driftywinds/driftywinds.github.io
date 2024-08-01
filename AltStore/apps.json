@@ -284,6 +284,15 @@
       "title": "EeveeSpotify Latest - 29th July 2024"
     },
     {
+      "appID": "com.mojang.minecraftpe",
+      "caption": "Minecraft updated to 1.21.2",
+      "date": "2024-07-11",
+      "identifier": "new-update",
+      "notify": true,
+      "tintColor": "996747",
+      "title": "Minecraft Latest - 11th July 2024"
+    },
+    {
       "appID": "com.google.ios.youtubemusic",
       "caption": "YT Music Ultimate updated to 7.11",
       "date": "2024-07-24",
