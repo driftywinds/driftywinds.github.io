@@ -66,10 +66,10 @@
             ],
             "versions": [
                 {
-                  "version": "19.29.1",
-                  "date": "2024-07-23",
-                  "localizedDescription": "Updated YouTube to 19.29.1 (latest commits)",
-                  "downloadURL": "https://files.drifty.win/YTLitePlus/YTLitePlus_19.29.1_4.0.1.ipa",
+                  "version": "19.30.2",
+                  "date": "2024-08-01",
+                  "localizedDescription": "Updated YouTube to 19.30.2 (latest commits)",
+                  "downloadURL": "https://files.catbox.moe/8rk5vd.ipa",
                   "size": 130097628,
                   "minOSVersion": "15.0",
                   "maxOSVersion": "17.5.1"
