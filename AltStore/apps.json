@@ -8,7 +8,7 @@
       "contact": {
           "web": "https://github.com/driftywinds/"
       },
-      "downloadURL": "https://files.catbox.moe/awc5yw.ipa",
+      "downloadURL": "https://files.catbox.moe/ac2syn.ipa",
       "iconURL": "https://raw.githubusercontent.com/YTLitePlus/YTLitePlus-Altstore/main/Youtube_logo-512.png",
       "localizedDescription": "Join https://t.me/+rvcObIvOpctiMDI9 for more.\n\nA modified version of Youtube supercharged with YTLite (by @dayanch96) and +15 other tweaks",
       "name": "YTLitePlus (driftywinds)",
@@ -97,8 +97,8 @@
       "subtitle": "YTLite with more features! | If you want to donate: - https://ko-fi.com/driftywinds",
       "tintColor": "e22a41",
       "version": "19.35.3",
-      "versionDate": "2024-09-05",
-      "versionDescription": "• Updated YouTube to 19.35.3 (latest commits)\n • Tweak is using 5.0.1"
+      "versionDate": "2024-09-06",
+      "versionDescription": "• Updated YouTube to 19.35.3 (latest commits)\n • Tweak is using 5.0.2"
     },
     {
       "beta": false,
@@ -284,7 +284,7 @@
       "identifier": "new-update",
       "notify": true,
       "tintColor": "e22a41",
-      "title": "YTLitePlus Latest - 5th September 2024"
+      "title": "YTLitePlus Latest - 6th September 2024"
     },
     {
       "appID": "com.burbn.instagram",
