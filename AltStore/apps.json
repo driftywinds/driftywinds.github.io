@@ -251,7 +251,7 @@
       "beta": false,
       "bundleIdentifier": "com.kdt.livecontainer",
       "developerName": "khanhduytran0",
-      "downloadURL": "https://files.drifty.win/Others/com.kdt.livecontainer.ipa",
+      "downloadURL": "https://github.com/khanhduytran0/LiveContainer/releases/download/2.1.2/com.kdt.livecontainer_2.1.2.ipa",
       "iconURL": "https://cdn-icons-png.flaticon.com/512/9402/9402265.png",
       "localizedDescription": "Join https://t.me/+rvcObIvOpctiMDI9 for more.\nmade by khanhduytran0, forked by me for building with latest commits.\nmore info at available at https://github.com/khanhduytran0/LiveContainer",
       "name": "LiveContainer - BETA NOT MEANT FOR USE YET",
@@ -264,8 +264,8 @@
       "size": 91750400,
       "subtitle": "Run iOS apps without actually installing them! More info:- https://github.com/khanhduytran0/LiveContainer | If you want to donate: - https://ko-fi.com/driftywinds",
       "tintColor": "b3b3b3",
-      "version": "703a1a5",
-      "versionDate": "2024-06-05",
+      "version": "2.1.2",
+      "versionDate": "2024-08-15",
       "versionDescription": "- Allows you to install unlimited apps (10 apps limit of free developer account do not apply here!), have multiple versions of an app installed and multiple data containers.\n- When JIT is available, codesign is entirely bypassed, no need to sign your apps before installing. Otherwise, app will be signed with the same certificate used by LiveContainer."
     }
   ],
