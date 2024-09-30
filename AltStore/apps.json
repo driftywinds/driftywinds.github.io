@@ -123,27 +123,6 @@
     },
     {
       "beta": false,
-      "bundleIdentifier": "com.burbn.instagram",
-      "developerName": "zxcvbn",
-      "downloadURL": "https://files.drifty.win/InstaMulti/InstaMulti-1.6.2-zxcvbn.ipa",
-      "iconURL": "https://raw.githubusercontent.com/qnblackcat/AltStore/main/ScreenShot/800px-Instagram_logo_2016.svg.png",
-      "localizedDescription": "Join https://t.me/+rvcObIvOpctiMDI9 for more.\nThis app has options for which tweaks to use.\n\nFEATURES\n- Browse home feed in grid layout.\n- Show following status in Profile.\n- Download posts from your feed.\n- Repost any post from your feed.\n- Long press on posts to zoom.\n- Copy post captions from your feed.\n- Download all Stories on Instagram.\n- Save videos from IGTV.\n- View Stories without notifying others.\n- Mute and unmute Stories.\n- Disable Auto-Advance in Stories.\n- Hide Stories from your feed.\n- Play in high quality on Mobile Data.\n- Long press on profile photo to zoom.\n- Disable read receipts in DM.\n- Disable Screenshot notifications in DM.\n- Disable Read Receipts in DM.\n\nLearn how to make your own Rocket for Instagram iPA here: https://github.com/qnblackcat/IGSideloadFix",
-      "name": "InstaMulti / zxInsta",
-      "screenshotURLs": [
-        "https://apt.alfhaily.me/cdn/assets/rocket-screenshot1.jpg",
-        "https://apt.alfhaily.me/cdn/assets/rocket-screenshot2.jpg",
-        "https://apt.alfhaily.me/cdn/assets/rocket-screenshot3.jpg",
-        "https://apt.alfhaily.me/cdn/assets/rocket-screenshot4.jpg"
-      ],
-      "size": 91750400,
-      "subtitle": "zxInsta is an 'all-in-one' tweak for instagram that lets you enable/disable many tweaks at any time. Requires iOS 15 and later. | If you want to donate: - https://ko-fi.com/driftywinds",
-      "tintColor": "C13584",
-      "version": "333.1.4",
-      "versionDate": "2024-06-18",
-      "versionDescription": "More info - https://github.com/asdfzxcvbn/InstaMulti\n\n- updated insta (https://apps.apple.com/app/id389801252) to v333.1.0\n- info: https://telegra.ph/zxcvbn-tweaked-instamulti-03-23"
-    },
-    {
-      "beta": false,
       "bundleIdentifier": "com.mojang.minecraftpe",
       "developerName": "Babylon IPA Library",
       "downloadURL": "https://files.drifty.win/Minecraft/Minecraft_v1.21.30.ipa",
@@ -162,6 +141,27 @@
       "version": "1.21.30",
       "versionDate": "2024-09-19",
       "versionDescription": "- Various bug fixes.\n- More Releases = https://t.me/BabylonIPA"
+    },
+    {
+      "beta": false,
+      "bundleIdentifier": "com.google.ios.youtubemusic",
+      "developerName": "Ginsu / dayanch96",
+      "downloadURL": "https://files.drifty.win/YTMUltimate/YTMusicUltimate_v7.17.4.ipa",
+      "iconURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Youtube_Music_icon.svg/2048px-Youtube_Music_icon.svg.png",
+      "localizedDescription": "Join https://t.me/+rvcObIvOpctiMDI9 for more.\nYT Music Ultimate patched for iOS 15+",
+      "name": "YT Music Ultimate",
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/7a/42/56/7a425615-4812-fa43-e313-b82728fc56bc/05e41457-31f1-4dac-a4e4-b9484f702d78_0_APP_IPHONE_65_0.png/600x0w.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/a4/9c/c5/a49cc51d-573c-7ee3-f11e-19c72d6b91a6/d8e7dd5c-24c6-4b92-8889-21ccdc5f95b1_1_APP_IPHONE_65_1.png/600x0w.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/d8/5e/98/d85e989a-fe7c-8128-5c2a-defe56441dbd/f76cc6cd-f584-4e4a-94ae-8f7fd5947e5c_2_APP_IPHONE_65_2.png/600x0w.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/c4/65/d9/c465d90e-0a71-f0e4-77e6-ddf588f5f906/c6c2339b-67c7-4fe3-8f4b-005e256343bd_3_APP_IPHONE_65_3.png/600x0w.png"
+      ],
+      "size": 4550400,
+      "subtitle": "No ads. Cool tweaks. Requires iOS 15 and later. | If you want to donate: - https://ko-fi.com/driftywinds",
+      "tintColor": "c3352e",
+      "version": "7.17.4",
+      "versionDate": "2024-09-06",
+      "versionDescription": "Please uninstall builds before v7.04 to install v7.11 properly.\n- updated youtube music (https://apps.apple.com/app/id1017492454) to v7.11"
     },
     {
       "beta": false,
@@ -186,6 +186,27 @@
     },
     {
       "beta": false,
+      "bundleIdentifier": "com.burbn.instagram",
+      "developerName": "zxcvbn",
+      "downloadURL": "https://files.drifty.win/InstaMulti/InstaMulti-1.6.2-zxcvbn.ipa",
+      "iconURL": "https://raw.githubusercontent.com/qnblackcat/AltStore/main/ScreenShot/800px-Instagram_logo_2016.svg.png",
+      "localizedDescription": "Join https://t.me/+rvcObIvOpctiMDI9 for more.\nThis app has options for which tweaks to use.\n\nFEATURES\n- Browse home feed in grid layout.\n- Show following status in Profile.\n- Download posts from your feed.\n- Repost any post from your feed.\n- Long press on posts to zoom.\n- Copy post captions from your feed.\n- Download all Stories on Instagram.\n- Save videos from IGTV.\n- View Stories without notifying others.\n- Mute and unmute Stories.\n- Disable Auto-Advance in Stories.\n- Hide Stories from your feed.\n- Play in high quality on Mobile Data.\n- Long press on profile photo to zoom.\n- Disable read receipts in DM.\n- Disable Screenshot notifications in DM.\n- Disable Read Receipts in DM.\n\nLearn how to make your own Rocket for Instagram iPA here: https://github.com/qnblackcat/IGSideloadFix",
+      "name": "InstaMulti / zxInsta",
+      "screenshotURLs": [
+        "https://apt.alfhaily.me/cdn/assets/rocket-screenshot1.jpg",
+        "https://apt.alfhaily.me/cdn/assets/rocket-screenshot2.jpg",
+        "https://apt.alfhaily.me/cdn/assets/rocket-screenshot3.jpg",
+        "https://apt.alfhaily.me/cdn/assets/rocket-screenshot4.jpg"
+      ],
+      "size": 91750400,
+      "subtitle": "zxInsta is an 'all-in-one' tweak for instagram that lets you enable/disable many tweaks at any time. Requires iOS 15 and later. | If you want to donate: - https://ko-fi.com/driftywinds",
+      "tintColor": "C13584",
+      "version": "333.1.4",
+      "versionDate": "2024-06-18",
+      "versionDescription": "More info - https://github.com/asdfzxcvbn/InstaMulti\n\n- updated insta (https://apps.apple.com/app/id389801252) to v333.1.0\n- info: https://telegra.ph/zxcvbn-tweaked-instamulti-03-23"
+    },
+    {
+      "beta": false,
       "bundleIdentifier": "com.atebits.Tweetie2",
       "developerName": "ghl3m0n",
       "downloadURL": "https://github.com/ghl3m0n/FuckElon/releases/download/ipa/X.10.33.FuckElon.@ghl3m0n.ipa",
@@ -204,27 +225,6 @@
       "version": "10.33.1",
       "versionDate": "2024-07-27",
       "versionDescription": "To maintain the classic look and feel of Twitter, some of the new design elements introduced by X have been replaced with those from earlier versions of Twitter. Specifically:-\n\nIcons: The new icons from X have been substituted with the original Twitter bird icons.\n\nText Labels: Text labels and button names that were changed in X have been reverted to their previous Twitter terminology (e.g., 'Post' changed back to 'Tweet', 'Repost' reverted to 'Retweet').\n\nInterface Elements: Certain interface elements that reflect the new X branding have been replaced with elements from the old Twitter design to preserve a nostalgic user experience."
-    },
-    {
-      "beta": false,
-      "bundleIdentifier": "com.google.ios.youtubemusic",
-      "developerName": "Ginsu / dayanch96",
-      "downloadURL": "https://files.drifty.win/YTMUltimate/YTMusicUltimate_v7.17.4.ipa",
-      "iconURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Youtube_Music_icon.svg/2048px-Youtube_Music_icon.svg.png",
-      "localizedDescription": "Join https://t.me/+rvcObIvOpctiMDI9 for more.\nYT Music Ultimate patched for iOS 15+",
-      "name": "YT Music Ultimate",
-      "screenshotURLs": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/7a/42/56/7a425615-4812-fa43-e313-b82728fc56bc/05e41457-31f1-4dac-a4e4-b9484f702d78_0_APP_IPHONE_65_0.png/600x0w.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/a4/9c/c5/a49cc51d-573c-7ee3-f11e-19c72d6b91a6/d8e7dd5c-24c6-4b92-8889-21ccdc5f95b1_1_APP_IPHONE_65_1.png/600x0w.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/d8/5e/98/d85e989a-fe7c-8128-5c2a-defe56441dbd/f76cc6cd-f584-4e4a-94ae-8f7fd5947e5c_2_APP_IPHONE_65_2.png/600x0w.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/c4/65/d9/c465d90e-0a71-f0e4-77e6-ddf588f5f906/c6c2339b-67c7-4fe3-8f4b-005e256343bd_3_APP_IPHONE_65_3.png/600x0w.png"
-      ],
-      "size": 4550400,
-      "subtitle": "No ads. Cool tweaks. Requires iOS 15 and later. | If you want to donate: - https://ko-fi.com/driftywinds",
-      "tintColor": "c3352e",
-      "version": "7.17.4",
-      "versionDate": "2024-09-06",
-      "versionDescription": "Please uninstall builds before v7.04 to install v7.11 properly.\n- updated youtube music (https://apps.apple.com/app/id1017492454) to v7.11"
     },
     {
       "beta": false,
