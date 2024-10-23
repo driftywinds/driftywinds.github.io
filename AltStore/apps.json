@@ -125,7 +125,7 @@
       "beta": false,
       "bundleIdentifier": "com.mojang.minecraftpe",
       "developerName": "Babylon IPA Library",
-      "downloadURL": "https://files.drifty.win/Minecraft/Minecraft%20v1.21.31.ipa",
+      "downloadURL": "https://files.drifty.win/Minecraft/Minecraft%20v1.21.40.ipa",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/42/01/22/42012236-af5d-f1c1-31c2-4dd7827585dd/AppIcon-1x_U007emarketing-0-9-0-85-220.png/460x0w.png",
       "localizedDescription": "Join https://t.me/+rvcObIvOpctiMDI9 for more.\nOne of the best selling games on the planet!\nhttps://t.me/BabylonIPA for other game releases",
       "name": "Minecraft",
@@ -138,8 +138,8 @@
       "size": 91750400,
       "subtitle": "Cracked Minecraft with working online | If you want to donate: - https://ko-fi.com/driftywinds",
       "tintColor": "996747",
-      "version": "1.21.31",
-      "versionDate": "2024-10-09",
+      "version": "1.21.40",
+      "versionDate": "2024-10-23",
       "versionDescription": "- Various bug fixes.\n- More Releases = https://t.me/BabylonIPA"
     },
     {
@@ -306,12 +306,12 @@
     },
     {
       "appID": "com.mojang.minecraftpe",
-      "caption": "Minecraft updated to 1.21.31",
-      "date": "2024-10-09",
+      "caption": "Minecraft updated to 1.21.40",
+      "date": "2024-10-23",
       "identifier": "new-update",
       "notify": true,
       "tintColor": "996747",
-      "title": "Minecraft Latest - 9th October 2024"
+      "title": "Minecraft Latest - 23rd October 2024"
     },
     {
       "appID": "kh.crysalis.feather",
