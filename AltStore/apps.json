@@ -147,7 +147,7 @@
       "beta": false,
       "bundleIdentifier": "com.google.ios.youtubemusic",
       "developerName": "Ginsu / dayanch96",
-      "downloadURL": "https://files.drifty.win/YTMUltimate/YTMusicUltimate_v7.17.4.ipa",
+      "downloadURL": "https://files.drifty.win/YTMUltimate/YTMusicUltimate_v7.24.2.ipa",
       "iconURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Youtube_Music_icon.svg/2048px-Youtube_Music_icon.svg.png",
       "localizedDescription": "Join https://t.me/+rvcObIvOpctiMDI9 for more.\nYT Music Ultimate patched for iOS 15+",
       "name": "YT Music Ultimate",
@@ -160,9 +160,9 @@
       "size": 4550400,
       "subtitle": "No ads. Cool tweaks. Requires iOS 15 and later. | If you want to donate: - https://ko-fi.com/driftywinds",
       "tintColor": "c3352e",
-      "version": "7.17.4",
-      "versionDate": "2024-09-06",
-      "versionDescription": "Please uninstall builds before v7.04 to install v7.11 properly.\n- updated youtube music (https://apps.apple.com/app/id1017492454) to v7.11"
+      "version": "7.24.2",
+      "versionDate": "2024-10-25",
+      "versionDescription": "- updated youtube music (https://apps.apple.com/app/id1017492454) to v7.24.2"
     },
     {
       "beta": false,
@@ -325,12 +325,12 @@
     },
     {
       "appID": "com.google.ios.youtubemusic",
-      "caption": "YT Music Ultimate updated to 7.17.4",
-      "date": "2024-09-06",
+      "caption": "YT Music Ultimate updated to 7.24.2",
+      "date": "2024-10-25",
       "identifier": "new-update",
       "notify": true,
       "tintColor": "c3352e",
-      "title": "YTM Ultimate Latest - 6th September 2024"
+      "title": "YTM Ultimate Latest - 25th October 2024"
     }
   ],
   "userInfo": {}
