@@ -145,6 +145,27 @@
     },
     {
       "beta": false,
+      "bundleIdentifier": "com.unofficial.balatro",
+      "developerName": "driftywinds",
+      "downloadURL": "https://github.com/driftywinds/balatro-builds/releases/download/v1.0.1n/Balatro.v1.0.1n-FULL.ipa",
+      "iconURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTKmWBJFwWs6AF5H9wt6I2UPc0GKZZ-4YKow&s",
+      "localizedDescription": "When Poker Meets Solitaire \n\nJoin https://t.me/+rvcObIvOpctiMDI9 for more.",
+      "name": "Balatro",
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/82/5b/18/825b18a7-a2bc-51c9-bf27-7b809ccc2825/c808e66d-63ea-48c8-8c8f-4b27fa42e7a5_Balatro_Screenshot_iOS_2796x1290_UK_01.png/1286x0w.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/21/04/5a/21045a23-5de5-56d4-1c63-f25f5fc3dd9b/ca6fb4fb-fa04-4c37-b490-be29bb29f2b2_Balatro_Screenshot_iOS_2796x1290_UK_02.png/1286x0w.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d9/d8/2d/d9d82deb-78d2-b668-e047-9b020406797d/7dba81a9-24eb-453f-b83c-314996d73407_Balatro_Screenshot_iOS_2796x1290_UK_03.png/1286x0w.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/eb/c5/e4/ebc5e419-93e9-bab8-fd02-a85474130ae7/d4077610-3c78-4f0a-a3db-b136f2228fc6_Balatro_Screenshot_iOS_2796x1290_UK_04b.png/1286x0w.png"
+      ],
+      "size": 91750400,
+      "subtitle": "The best rogue-like card game! | If you want to donate: - https://ko-fi.com/driftywinds",
+      "tintColor": "2d0354",
+      "version": "1.0.1n",
+      "versionDate": "2024-12-23",
+      "versionDescription": "Hypnotic and endlessly satisfying, Balatro is a magical mix of card games like Solitaire and Poker, that lets you twist the rules in ways never seen before!\nYour goal is to beat the Boss Blinds by making strong poker hands."
+    },
+    {
+      "beta": false,
       "bundleIdentifier": "com.google.ios.youtubemusic",
       "developerName": "Ginsu / dayanch96",
       "downloadURL": "https://files.drifty.win/YTMUltimate/YTMusicUltimate_v7.24.2.ipa",
@@ -322,6 +343,15 @@
       "notify": true,
       "tintColor": "5861BD",
       "title": "Feather Latest - 3rd November 2024"
+    },
+    {
+      "appID": "com.unofficial.balatro",
+      "caption": "Balatro updated to 1.0.1n",
+      "date": "2024-12-23",
+      "identifier": "new-update",
+      "notify": true,
+      "tintColor": "2d0354",
+      "title": "Balatro Latest - 23rd December 2024"
     },
     {
       "appID": "com.google.ios.youtubemusic",
