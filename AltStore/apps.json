@@ -3,25 +3,19 @@
     {
       "beta": false,
       "bundleIdentifier": "com.google.ios.youtube",
-      "developerName": "YTLitePlus",
+      "developerName": "dayanch96",
       "META": { "repoName": "driftywinds' AltStore Repo" },
       "contact": {
           "web": "https://github.com/driftywinds/"
       },
-      "downloadURL": "https://files.catbox.moe/pfwbs6.ipa",
+      "downloadURL": "https://files.catbox.moe/o62gre.ipa",
       "iconURL": "https://raw.githubusercontent.com/YTLitePlus/YTLitePlus-Altstore/main/Youtube_logo-512.png",
       "localizedDescription": "Join https://t.me/+rvcObIvOpctiMDI9 for more.\n\nA modified version of Youtube supercharged with YTLite (by @dayanch96) and +15 other tweaks",
-      "name": "YTLitePlus (driftywinds)",
+      "name": "YTLite + Tweaks (driftywinds)",
       "screenshotURLs": [
-        "https://raw.githubusercontent.com/YTLitePlus/Assets/main/Screenshots/1.png",
-        "https://raw.githubusercontent.com/YTLitePlus/Assets/main/Screenshots/2.png",
-        "https://raw.githubusercontent.com/YTLitePlus/Assets/main/Screenshots/3.png",
-        "https://raw.githubusercontent.com/YTLitePlus/Assets/main/Screenshots/4.png",
-        "https://raw.githubusercontent.com/YTLitePlus/Assets/main/Screenshots/5.png",
-        "https://raw.githubusercontent.com/YTLitePlus/Assets/main/Screenshots/6.png",
-        "https://raw.githubusercontent.com/YTLitePlus/Assets/main/Screenshots/7.png",
-        "https://raw.githubusercontent.com/YTLitePlus/Assets/main/Screenshots/8.png",
-        "https://raw.githubusercontent.com/YTLitePlus/Assets/main/Screenshots/9.png"
+        "https://github.com/dayanch96/YTLite/blob/main/Resources/scr1.jpg",
+        "https://github.com/dayanch96/YTLite/blob/main/Resources/scr2.jpg",
+        "https://github.com/dayanch96/YTLite/blob/main/Resources/scr3.jpg"
       ],
       "size": 130097628,
       "appPermissions": {
@@ -95,11 +89,11 @@
             }
           ]
         },
-      "subtitle": "YTLite with more features! | If you want to donate: - https://ko-fi.com/driftywinds",
+      "subtitle": "A flexible enhancer for YouTube on iOS | If you want to donate: - https://ko-fi.com/driftywinds",
       "tintColor": "e22a41",
-      "version": "19.47.7",
-      "versionDate": "2024-12-05",
-      "versionDescription": "• Updated YouTube to 19.47.7 (latest commits)\n • Tweak is using 5.1"
+      "version": "19.49.7",
+      "versionDate": "2024-12-23",
+      "versionDescription": "• Updated YouTube to 19.49.7 (latest commits)\n • Tweak is using 5.1"
     },
     {
       "beta": false,
@@ -301,12 +295,12 @@
   "news": [
     {
       "appID": "com.google.ios.youtube",
-      "caption": "YTLitePlus updated to 19.47.7 \n\nuYouEnhanced has been discontinued.",
-      "date": "2024-12-05",
+      "caption": "YTLite updated to 19.49.7 \n\nuYouEnhanced and YTLitePlus have been discontinued.",
+      "date": "2024-12-23",
       "identifier": "new-update",
       "notify": true,
       "tintColor": "e22a41",
-      "title": "YTLitePlus Latest - 5th December 2024"
+      "title": "YTLite + Tweaks Latest - 23rd December 2024"
     },
     {
       "appID": "com.burbn.instagram",
