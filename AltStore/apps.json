@@ -203,11 +203,11 @@
     {
       "beta": false,
       "bundleIdentifier": "com.burbn.instagram",
-      "developerName": "zxcvbn",
-      "downloadURL": "https://files.drifty.win/InstaMulti/InstaMulti-1.6.2-zxcvbn.ipa",
+      "developerName": "driftywinds",
+      "downloadURL": "https://files.drifty.win/Instagram/Instagram_v361.0.0_Rocket_3.8.3_cracked.ipa",
       "iconURL": "https://raw.githubusercontent.com/qnblackcat/AltStore/main/ScreenShot/800px-Instagram_logo_2016.svg.png",
-      "localizedDescription": "Join https://t.me/+rvcObIvOpctiMDI9 for more.\nThis app has options for which tweaks to use.\n\nFEATURES\n- Browse home feed in grid layout.\n- Show following status in Profile.\n- Download posts from your feed.\n- Repost any post from your feed.\n- Long press on posts to zoom.\n- Copy post captions from your feed.\n- Download all Stories on Instagram.\n- Save videos from IGTV.\n- View Stories without notifying others.\n- Mute and unmute Stories.\n- Disable Auto-Advance in Stories.\n- Hide Stories from your feed.\n- Play in high quality on Mobile Data.\n- Long press on profile photo to zoom.\n- Disable read receipts in DM.\n- Disable Screenshot notifications in DM.\n- Disable Read Receipts in DM.\n\nLearn how to make your own Rocket for Instagram iPA here: https://github.com/qnblackcat/IGSideloadFix",
-      "name": "InstaMulti / zxInsta",
+      "localizedDescription": "Join https://t.me/+rvcObIvOpctiMDI9 for more.\nThis is Instagram with cracked Rocket tweak",
+      "name": "Instagram Rocket (cracked)",
       "screenshotURLs": [
         "https://apt.alfhaily.me/cdn/assets/rocket-screenshot1.jpg",
         "https://apt.alfhaily.me/cdn/assets/rocket-screenshot2.jpg",
@@ -215,11 +215,11 @@
         "https://apt.alfhaily.me/cdn/assets/rocket-screenshot4.jpg"
       ],
       "size": 91750400,
-      "subtitle": "zxInsta is an 'all-in-one' tweak for instagram that lets you enable/disable many tweaks at any time. Requires iOS 15 and later. | If you want to donate: - https://ko-fi.com/driftywinds",
+      "subtitle": "Requires iOS 15 and later. | If you want to donate: - https://ko-fi.com/driftywinds",
       "tintColor": "C13584",
-      "version": "333.1.4",
-      "versionDate": "2024-06-18",
-      "versionDescription": "More info - https://github.com/asdfzxcvbn/InstaMulti\n\n- updated insta (https://apps.apple.com/app/id389801252) to v333.1.0\n- info: https://telegra.ph/zxcvbn-tweaked-instamulti-03-23"
+      "version": "361.0.0",
+      "versionDate": "2024-12-31",
+      "versionDescription": "Updated to v361.0.0"
     },
     {
       "beta": false,
@@ -304,12 +304,12 @@
     },
     {
       "appID": "com.burbn.instagram",
-      "caption": "zxcvbn's InstaMulti updated to 333.1.4",
-      "date": "2024-06-18",
+      "caption": "zxcvbn's InstaMulti updated to 361.0.0",
+      "date": "2024-12-31",
       "identifier": "new-update",
       "notify": true,
       "tintColor": "C13584",
-      "title": "InstaMulti Latest - 18th June 2024"
+      "title": "Instagram Rocket Latest - 31st December 2024"
     },
     {
       "appID": "com.spotify.client",
