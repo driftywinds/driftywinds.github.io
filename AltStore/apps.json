@@ -204,10 +204,10 @@
       "beta": false,
       "bundleIdentifier": "com.burbn.instagram",
       "developerName": "driftywinds",
-      "downloadURL": "https://files.drifty.win/Instagram/Instagram_v361.0.0_Rocket_3.8.3_cracked.ipa",
+      "downloadURL": "https://files.drifty.win/Instagram/Instagram_361.0.0_Regram_vB15_1735848167.ipa",
       "iconURL": "https://raw.githubusercontent.com/qnblackcat/AltStore/main/ScreenShot/800px-Instagram_logo_2016.svg.png",
       "localizedDescription": "Join https://t.me/+rvcObIvOpctiMDI9 for more.\nThis is Instagram with cracked Rocket tweak",
-      "name": "Instagram Rocket (cracked)",
+      "name": "Instagram Regram (cracked)",
       "screenshotURLs": [
         "https://apt.alfhaily.me/cdn/assets/rocket-screenshot1.jpg",
         "https://apt.alfhaily.me/cdn/assets/rocket-screenshot2.jpg",
@@ -219,7 +219,7 @@
       "tintColor": "C13584",
       "version": "361.0.0",
       "versionDate": "2024-12-31",
-      "versionDescription": "Updated to v361.0.0"
+      "versionDescription": "Updated to v361.0.0, Regram vB15"
     },
     {
       "beta": false,
@@ -304,12 +304,12 @@
     },
     {
       "appID": "com.burbn.instagram",
-      "caption": "zxcvbn's InstaMulti updated to 361.0.0",
+      "caption": "Regram updated to 361.0.0",
       "date": "2024-12-31",
       "identifier": "new-update",
       "notify": true,
       "tintColor": "C13584",
-      "title": "Instagram Rocket Latest - 31st December 2024"
+      "title": "Instagram Regram Latest - 31st December 2024"
     },
     {
       "appID": "com.spotify.client",
