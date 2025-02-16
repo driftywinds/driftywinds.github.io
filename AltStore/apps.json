@@ -162,7 +162,7 @@
       "beta": false,
       "bundleIdentifier": "com.google.ios.youtubemusic",
       "developerName": "Ginsu / dayanch96",
-      "downloadURL": "https://files.catbox.moe/myo5lp.ipa",
+      "downloadURL": "https://files.catbox.moe/z9wyma.ipa",
       "iconURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Youtube_Music_icon.svg/2048px-Youtube_Music_icon.svg.png",
       "localizedDescription": "Join https://t.me/+rvcObIvOpctiMDI9 for more.\nYT Music Ultimate patched for iOS 15+",
       "name": "YT Music Ultimate",
@@ -175,9 +175,9 @@
       "size": 4550400,
       "subtitle": "No ads. Cool tweaks. Requires iOS 15 and later. | If you want to donate: - https://ko-fi.com/driftywinds",
       "tintColor": "c3352e",
-      "version": "8.03.1",
-      "versionDate": "2025-01-24",
-      "versionDescription": "- updated youtube music (https://apps.apple.com/app/id1017492454) to v8.03.1"
+      "version": "8.06.2",
+      "versionDate": "2025-02-16",
+      "versionDescription": "- updated youtube music (https://apps.apple.com/app/id1017492454) to v8.06.2"
     },
     {
       "beta": false,
@@ -349,12 +349,12 @@
     },
     {
       "appID": "com.google.ios.youtubemusic",
-      "caption": "YT Music Ultimate updated to 8.03.1",
-      "date": "2025-01-24",
+      "caption": "YT Music Ultimate updated to 8.06.2",
+      "date": "2025-02-16",
       "identifier": "new-update",
       "notify": true,
       "tintColor": "c3352e",
-      "title": "YTM Ultimate Latest - 24th January 2025"
+      "title": "YTM Ultimate Latest - 16th February 2025"
     }
   ],
   "userInfo": {}
