@@ -141,7 +141,7 @@
             "bundleIdentifier": "com.atebits.Tweetie2",
             "developerName": "RiseBlox",
             "downloadURL": "https://github.com/RiseBlox/BHX/releases/download/v4.3_10.82/BHX-sideloaded_4.3_10.82.ipa",
-            "iconURL": "https://i.postimg.cc/T18f61VJ/twitter-2023-07-24.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.atebits.Tweetie2.png",
             "localizedDescription": "Join https://t.me/+rvcObIvOpctiMDI9 for more.\nA fork of the best tweak for Twitter",
             "name": "Twitter BHX",
             "size": 161029014,
