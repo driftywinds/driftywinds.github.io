@@ -10,7 +10,7 @@
             "contact": {
                 "web": "https://github.com/driftywinds/"
             },
-            "downloadURL": "https://files.catbox.moe/3ks7zk.ipa",
+            "downloadURL": "https://files.catbox.moe/azj7x6.ipa",
             "iconURL": "https://raw.githubusercontent.com/YTLitePlus/YTLitePlus-Altstore/main/Youtube_logo-512.png",
             "localizedDescription": "Join https://t.me/+rvcObIvOpctiMDI9 for more.\n\nA modified version of Youtube supercharged with YTLite (by @dayanch96)",
             "name": "YTLite + Tweaks (driftywinds)",
@@ -22,9 +22,9 @@
             "size": 130097628,
             "subtitle": "A flexible enhancer for YouTube on iOS | If you want to donate: - https://ko-fi.com/driftywinds",
             "tintColor": "e22a41",
-            "version": "20.12.4",
-            "versionDate": "2025-03-24",
-            "versionDescription": "• Updated YouTube to 20.12.4 (latest commits)\n • Tweak is using 5.1",
+            "version": "20.13.5",
+            "versionDate": "2025-03-31",
+            "versionDescription": "• Updated YouTube to 20.13.5 (latest commits)\n • Tweak is using 5.2b1",
             "appPermissions": {
                 "entitlements": [
                     "com.apple.developer.siri"
@@ -239,19 +239,19 @@
     "identifier": "com.dw.source",
     "name": "driftywinds' AltStore Repo",
     "subtitle": "definitevely driftywinds",
-    "description": "uYouEnhanced, YTLitePlus are no more, we now do YTLite + Tweaks.\n\nAll driftywinds iOS releases can be found here. This repo is compatible with AltStore, ESign and MapleSign.\n\nLearn more: - https://t.me/+rvcObIvOpctiMDI9\n\nApps might download as '.zip' just change the extension back to '.ipa' .\n\nKofi - https://ko-fi.com/driftywinds\nLiberapay - https://liberapay.com/driftywinds/donate\nPatreon - https://www.patreon.com/bePatron?u=67102544",
+    "description": "All driftywinds iOS releases can be found here. This repo is compatible with AltStore, ESign and MapleSign.\n\nLearn more: - https://t.me/+rvcObIvOpctiMDI9\n\nApps might download as '.zip' just change the extension back to '.ipa' .\n\nKofi - https://ko-fi.com/driftywinds\nLiberapay - https://liberapay.com/driftywinds/donate\nPatreon - https://www.patreon.com/bePatron?u=67102544",
     "iconURL": "https://i.postimg.cc/Kcdr62dc/dp-rounded.png",
     "sourceURL": "https://driftywinds.github.io/AltStore/apps.json",
     "website": "https://github.com/driftywinds",
     "news": [
         {
             "appID": "com.google.ios.youtube",
-            "caption": "YTLite updated to 20.12.4 \n\nuYouEnhanced and YTLitePlus have been discontinued.",
-            "date": "2025-03-24",
+            "caption": "YTLite updated to 20.13.5",
+            "date": "2025-03-31",
             "identifier": "new-update",
             "notify": true,
             "tintColor": "e22a41",
-            "title": "YTLite + Tweaks Latest - 24th March 2025"
+            "title": "YTLite + Tweaks Latest - 31st March 2025"
         },
         {
             "appID": "com.burbn.instagram",
