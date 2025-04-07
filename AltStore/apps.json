@@ -10,7 +10,7 @@
             "contact": {
                 "web": "https://github.com/driftywinds/"
             },
-            "downloadURL": "https://files.catbox.moe/azj7x6.ipa",
+            "downloadURL": "https://files.catbox.moe/9wgqj0.ipa",
             "iconURL": "https://raw.githubusercontent.com/YTLitePlus/YTLitePlus-Altstore/main/Youtube_logo-512.png",
             "localizedDescription": "Join https://t.me/+rvcObIvOpctiMDI9 for more.\n\nA modified version of Youtube supercharged with YTLite (by @dayanch96)",
             "name": "YTLite + Tweaks (driftywinds)",
@@ -22,9 +22,9 @@
             "size": 130097628,
             "subtitle": "A flexible enhancer for YouTube on iOS | If you want to donate: - https://ko-fi.com/driftywinds",
             "tintColor": "e22a41",
-            "version": "20.13.5",
-            "versionDate": "2025-03-31",
-            "versionDescription": "• Updated YouTube to 20.13.5 (latest commits)\n • Tweak is using 5.2b1",
+            "version": "20.14.2",
+            "versionDate": "2025-04-07",
+            "versionDescription": "• Updated YouTube to 20.14.2 (latest commits)\n • Tweak is using 5.2b1",
             "appPermissions": {
                 "entitlements": [
                     "com.apple.developer.siri"
@@ -246,12 +246,12 @@
     "news": [
         {
             "appID": "com.google.ios.youtube",
-            "caption": "YTLite updated to 20.13.5",
-            "date": "2025-03-31",
+            "caption": "YTLite updated to 20.14.2",
+            "date": "2025-04-07",
             "identifier": "new-update",
             "notify": true,
             "tintColor": "e22a41",
-            "title": "YTLite + Tweaks Latest - 31st March 2025"
+            "title": "YTLite + Tweaks Latest - 7th April 2025"
         },
         {
             "appID": "com.burbn.instagram",
