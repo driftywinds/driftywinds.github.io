@@ -80,9 +80,9 @@
             "beta": false,
             "bundleIdentifier": "com.burbn.instagram",
             "developerName": "driftywinds",
-            "downloadURL": "https://files.catbox.moe/fskcuh.ipa",
+            "downloadURL": "https://files.drifty.win/Instagram/Instagram-376.0.0_Regram_B23_Cracked.ipa",
             "iconURL": "https://raw.githubusercontent.com/qnblackcat/AltStore/main/ScreenShot/800px-Instagram_logo_2016.svg.png",
-            "localizedDescription": "Join https://t.me/+rvcObIvOpctiMDI9 for more.\nThis is Instagram with cracked Rocket tweak",
+            "localizedDescription": "DO NOT SIGN IN TO REGRAM, and if regram isn’t unlocked click logout in regram settings and restart twice. \n\nJoin https://t.me/+rvcObIvOpctiMDI9 for more.\nThis is Instagram with cracked Rocket tweak",
             "name": "Instagram Regram (cracked)",
             "screenshotURLs": [
                 "https://apt.alfhaily.me/cdn/assets/rocket-screenshot1.jpg",
@@ -93,9 +93,9 @@
             "size": 91750400,
             "subtitle": "Requires iOS 15 and later. | If you want to donate: - https://ko-fi.com/driftywinds",
             "tintColor": "C13584",
-            "version": "370.0.0",
-            "versionDate": "2025-03-12",
-            "versionDescription": "Updated to v370.0.0, Regram vB15",
+            "version": "376.0.0",
+            "versionDate": "2025-04-23",
+            "versionDescription": "DO NOT SIGN IN TO REGRAM, and if regram isn’t unlocked click logout in regram settings and restart twice. \n\nUpdated to v376.0.0, Regram vB15",
             "appPermissions": {
                 "entitlements": [
                     "com.apple.developer.associated-appclip-app-identifiers",
@@ -255,12 +255,12 @@
         },
         {
             "appID": "com.burbn.instagram",
-            "caption": "Regram updated to 370.0.0",
-            "date": "2025-03-12",
+            "caption": "Regram updated to 376.0.0",
+            "date": "2025-04-23",
             "identifier": "new-update",
             "notify": true,
             "tintColor": "C13584",
-            "title": "Instagram Regram Latest - 12th March 2025"
+            "title": "Instagram Regram Latest - 23rd April 2025"
         },
         {
             "appID": "com.spotify.client",
