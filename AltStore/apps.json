@@ -10,7 +10,7 @@
             "contact": {
                 "web": "https://github.com/driftywinds/"
             },
-            "downloadURL": "https://files.catbox.moe/my21r9.ipa",
+            "downloadURL": "https://files.drifty.win/Others/YTLite%20+%20Tweaks%20v20.16.7.ipa",
             "iconURL": "https://raw.githubusercontent.com/YTLitePlus/YTLitePlus-Altstore/main/Youtube_logo-512.png",
             "localizedDescription": "Join https://t.me/+rvcObIvOpctiMDI9 for more.\n\nA modified version of Youtube supercharged with YTLite (by @dayanch96)",
             "name": "YTLite + Tweaks (driftywinds)",
@@ -22,9 +22,9 @@
             "size": 130097628,
             "subtitle": "A flexible enhancer for YouTube on iOS | If you want to donate: - https://ko-fi.com/driftywinds",
             "tintColor": "e22a41",
-            "version": "20.15.1",
-            "versionDate": "2025-04-15",
-            "versionDescription": "• Updated YouTube to 20.15.1 (latest commits)\n • Tweak is using 5.2b1",
+            "version": "20.16.7",
+            "versionDate": "2025-04-30",
+            "versionDescription": "• Updated YouTube to 20.16.7 (latest commits)\n • Tweak is using 5.2b1",
             "appPermissions": {
                 "entitlements": [
                     "com.apple.developer.siri"
@@ -155,7 +155,7 @@
             "beta": false,
             "bundleIdentifier": "com.google.ios.youtubemusic",
             "developerName": "Ginsu / dayanch96",
-            "downloadURL": "https://files.catbox.moe/z9wyma.ipa",
+            "downloadURL": "https://files.drifty.win/YTMUltimate/YTMusicUltimate%20v8.17.2.ipa",
             "iconURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Youtube_Music_icon.svg/2048px-Youtube_Music_icon.svg.png",
             "localizedDescription": "Join https://t.me/+rvcObIvOpctiMDI9 for more.\nYT Music Ultimate patched for iOS 15+",
             "name": "YT Music Ultimate",
@@ -168,9 +168,9 @@
             "size": 4550400,
             "subtitle": "No ads. Cool tweaks. Requires iOS 15 and later. | If you want to donate: - https://ko-fi.com/driftywinds",
             "tintColor": "c3352e",
-            "version": "8.06.2",
-            "versionDate": "2025-02-16",
-            "versionDescription": "- updated youtube music (https://apps.apple.com/app/id1017492454) to v8.06.2"
+            "version": "8.17.2",
+            "versionDate": "2025-05-01",
+            "versionDescription": "- updated youtube music (https://apps.apple.com/app/id1017492454) to v8.17.2"
         },
         {
             "beta": false,
@@ -246,12 +246,12 @@
     "news": [
         {
             "appID": "com.google.ios.youtube",
-            "caption": "YTLite updated to 20.15.1",
-            "date": "2025-04-15",
+            "caption": "YTLite updated to 20.16.7",
+            "date": "2025-04-30",
             "identifier": "new-update",
             "notify": true,
             "tintColor": "e22a41",
-            "title": "YTLite + Tweaks Latest - 15th April 2025"
+            "title": "YTLite + Tweaks Latest - 30th April 2025"
         },
         {
             "appID": "com.burbn.instagram",
@@ -300,12 +300,12 @@
         },
         {
             "appID": "com.google.ios.youtubemusic",
-            "caption": "YT Music Ultimate updated to 8.06.2",
-            "date": "2025-02-16",
+            "caption": "YT Music Ultimate updated to 8.17.2",
+            "date": "2025-05-01",
             "identifier": "new-update",
             "notify": true,
             "tintColor": "c3352e",
-            "title": "YTM Ultimate Latest - 16th February 2025"
+            "title": "YTM Ultimate Latest - 1st May 2025"
         }
     ],
     "userInfo": {}
