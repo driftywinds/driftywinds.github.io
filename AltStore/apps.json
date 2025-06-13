@@ -101,10 +101,10 @@
             "beta": false,
             "bundleIdentifier": "com.burbn.instagram",
             "developerName": "driftywinds",
-            "downloadURL": "https://files.drifty.win/Instagram/Instagram-376.0.0_Regram_B23_Cracked.ipa",
+            "downloadURL": "https://files.drifty.win/Instagram/384.0.0.ipa",
             "iconURL": "https://raw.githubusercontent.com/qnblackcat/AltStore/main/ScreenShot/800px-Instagram_logo_2016.svg.png",
-            "localizedDescription": "DO NOT SIGN IN TO REGRAM, and if regram isn’t unlocked click logout in regram settings and restart twice. \n\nJoin https://t.me/+rvcObIvOpctiMDI9 for more.",
-            "name": "Instagram Regram (cracked)",
+            "localizedDescription": "Long Hold 3 lines in the top in the profile tab\n\nJoin https://t.me/+rvcObIvOpctiMDI9 for more.",
+            "name": "Instagram (tweaked)",
             "screenshotURLs": [
                 "https://apt.alfhaily.me/cdn/assets/rocket-screenshot1.jpg",
                 "https://apt.alfhaily.me/cdn/assets/rocket-screenshot2.jpg",
@@ -114,9 +114,9 @@
             "size": 91750400,
             "subtitle": "Requires iOS 15 and later. | DO NOT SIGN IN TO REGRAM, and if regram isn’t unlocked click logout in regram settings and restart twice. | If you want to donate: - https://ko-fi.com/driftywinds",
             "tintColor": "C13584",
-            "version": "376.0.0",
-            "versionDate": "2025-04-23",
-            "versionDescription": "DO NOT SIGN IN TO REGRAM, and if regram isn’t unlocked click logout in regram settings and restart twice. \n\nUpdated to v376.0.0, Regram vB15",
+            "version": "384.0.0",
+            "versionDate": "2025-06-13",
+            "versionDescription": "Long Hold 3 lines in the top in the profile tab\n\nUpdated to v384.0.0",
             "appPermissions": {
                 "entitlements": [
                     "com.apple.developer.associated-appclip-app-identifiers",
@@ -161,15 +161,15 @@
             "beta": false,
             "bundleIdentifier": "com.atebits.Tweetie2",
             "developerName": "RiseBlox",
-            "downloadURL": "https://github.com/RiseBlox/BHX/releases/download/v4.3_10.91/BHX-sideloaded_4.3_10.91.ipa",
+            "downloadURL": "https://github.com/RiseBlox/BHX/releases/download/v4.4_11.1/BHX-sideloaded_4.4_11.1.ipa",
             "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.atebits.Tweetie2.png",
             "localizedDescription": "Join https://t.me/+rvcObIvOpctiMDI9 for more.\nA fork of the best tweak for Twitter",
             "name": "Twitter BHX",
             "size": 161029014,
             "subtitle": "Awesome tweak for X | If you want to donate: - https://ko-fi.com/driftywinds",
             "tintColor": "1DA1F2",
-            "version": "10.91",
-            "versionDate": "2025-04-12",
+            "version": "11.1",
+            "versionDate": "2025-06-06",
             "versionDescription": "- Various bug fixes.\n- More Releases = https://releases.drifty.win/?username=riseblox&repository=BHX"
         },
         {
@@ -276,12 +276,12 @@
         },
         {
             "appID": "com.burbn.instagram",
-            "caption": "Regram updated to 376.0.0",
-            "date": "2025-04-23",
+            "caption": "Tweak updated to 384.0.0",
+            "date": "2025-06-13",
             "identifier": "new-update",
             "notify": true,
             "tintColor": "C13584",
-            "title": "Instagram Regram Latest - 23rd April 2025"
+            "title": "Instagram Regram Latest - 13th June 2025"
         },
         {
             "appID": "com.spotify.client",
