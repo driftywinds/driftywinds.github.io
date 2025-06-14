@@ -82,7 +82,7 @@
             "developerName": "driftywinds",
             "downloadURL": "https://files.drifty.win/Instagram/384.0.0.ipa",
             "iconURL": "https://raw.githubusercontent.com/qnblackcat/AltStore/main/ScreenShot/800px-Instagram_logo_2016.svg.png",
-            "localizedDescription": "Long Hold 3 lines in the top in the profile tab\n\nJoin https://t.me/+rvcObIvOpctiMDI9 for more.",
+            "localizedDescription": "Long Hold 3 lines in the top in the profile tab for tweak options\n\nJoin https://t.me/+rvcObIvOpctiMDI9 for more.",
             "name": "Instagram (tweaked)",
             "screenshotURLs": [
                 "https://apt.alfhaily.me/cdn/assets/rocket-screenshot1.jpg",
@@ -91,11 +91,11 @@
                 "https://apt.alfhaily.me/cdn/assets/rocket-screenshot4.jpg"
             ],
             "size": 91750400,
-            "subtitle": "Requires iOS 15 and later. | DO NOT SIGN IN TO REGRAM, and if regram isn’t unlocked click logout in regram settings and restart twice. | If you want to donate: - https://ko-fi.com/driftywinds",
+            "subtitle": "Requires iOS 15 and later. | Long Hold 3 lines in the top in the profile tab for tweak options | If you want to donate: - https://ko-fi.com/driftywinds",
             "tintColor": "C13584",
             "version": "384.0.0",
             "versionDate": "2025-06-13",
-            "versionDescription": "Long Hold 3 lines in the top in the profile tab\n\nUpdated to v384.0.0",
+            "versionDescription": "Long Hold 3 lines in the top in the profile tab for tweak options\n\nUpdated to v384.0.0",
             "appPermissions": {
                 "entitlements": [
                     "com.apple.developer.associated-appclip-app-identifiers",
