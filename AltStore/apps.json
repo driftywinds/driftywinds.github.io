@@ -10,9 +10,9 @@
             "contact": {
                 "web": "https://github.com/driftywinds/"
             },
-            "downloadURL": "https://files.catbox.moe/9jje2v.ipa",
+            "downloadURL": "https://files.catbox.moe/9gsqqb.ipa",
             "iconURL": "https://raw.githubusercontent.com/YTLitePlus/YTLitePlus-Altstore/main/Youtube_logo-512.png",
-            "localizedDescription": "Join https://t.me/+rvcObIvOpctiMDI9 for more.\n\nA modified version of Youtube supercharged with YTLite (by @dayanch96)",
+            "localizedDescription": "Use v20.10.4 if you wan't to use AirPlay and the Tab Bar from here -\n\nhttps://t.me/+rvcObIvOpctiMDI9\n\nA modified version of Youtube supercharged with YTLite (by @dayanch96)",
             "name": "YTLite + Tweaks (driftywinds)",
             "screenshotURLs": [
                 "https://raw.githubusercontent.com/dayanch96/YTLite/refs/heads/main/Resources/scr1.jpg",
@@ -23,7 +23,7 @@
             "subtitle": "A flexible enhancer for YouTube on iOS | If you want to donate: - https://ko-fi.com/driftywinds",
             "tintColor": "e22a41",
             "version": "20.24.5",
-            "versionDate": "2025-06-21",
+            "versionDate": "2025-06-23",
             "versionDescription": "• Updated YouTube to 20.24.5 (latest commits)\n • Tweak is using 5.2b1",
             "appPermissions": {
                 "entitlements": [
@@ -267,8 +267,8 @@
     "news": [
         {
             "appID": "com.google.ios.youtube",
-            "caption": "YTLite updated to 20.24.5",
-            "date": "2025-06-21",
+            "caption": "YTLite updated to 20.24.5 (hotfix)",
+            "date": "2025-06-23",
             "identifier": "new-update",
             "notify": true,
             "tintColor": "e22a41",
