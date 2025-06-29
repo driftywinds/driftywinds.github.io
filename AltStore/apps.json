@@ -189,7 +189,7 @@
             "size": 4550400,
             "subtitle": "No ads. Cool tweaks. Requires iOS 15 and later. | If you want to donate: - https://ko-fi.com/driftywinds",
             "tintColor": "c3352e",
-            "version": "8.23",
+            "version": "8.23.1",
             "versionDate": "2025-06-13",
             "versionDescription": "- updated youtube music (https://apps.apple.com/app/id1017492454) to v8.23"
         },
@@ -321,7 +321,7 @@
         },
         {
             "appID": "com.google.ios.youtubemusic",
-            "caption": "YT Music Ultimate updated to 8.23",
+            "caption": "YT Music Ultimate updated to 8.23.1",
             "date": "2025-06-13",
             "identifier": "new-update",
             "notify": true,
