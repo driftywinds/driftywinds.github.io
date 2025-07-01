@@ -80,10 +80,10 @@
             "beta": false,
             "bundleIdentifier": "com.burbn.instagram",
             "developerName": "driftywinds",
-            "downloadURL": "https://files.drifty.win/Instagram/386.0.0.ipa",
+            "downloadURL": "https://files.drifty.win/Instagram/387.0.0_1.79.ipa",
             "iconURL": "https://raw.githubusercontent.com/qnblackcat/AltStore/main/ScreenShot/800px-Instagram_logo_2016.svg.png",
-            "localizedDescription": "Long Hold 3 lines in the top in the profile tab for tweak options\n\nJoin https://t.me/+rvcObIvOpctiMDI9 for more.",
-            "name": "Instagram (tweaked)",
+            "localizedDescription": "Leaf icon on profile page for Tweak options\n\nJoin https://t.me/+rvcObIvOpctiMDI9 for more.",
+            "name": "Instagram (IG Format)",
             "screenshotURLs": [
                 "https://apt.alfhaily.me/cdn/assets/rocket-screenshot1.jpg",
                 "https://apt.alfhaily.me/cdn/assets/rocket-screenshot2.jpg",
@@ -93,8 +93,8 @@
             "size": 91750400,
             "subtitle": "Requires iOS 15 and later. | Long Hold 3 lines in the top in the profile tab for tweak options | If you want to donate: - https://ko-fi.com/driftywinds",
             "tintColor": "C13584",
-            "version": "386.0.0",
-            "versionDate": "2025-06-26",
+            "version": "387.0.0",
+            "versionDate": "2025-07-01",
             "versionDescription": "Long Hold 3 lines in the top in the profile tab for tweak options\n\nUpdated to v386.0.0",
             "appPermissions": {
                 "entitlements": [
@@ -276,12 +276,12 @@
         },
         {
             "appID": "com.burbn.instagram",
-            "caption": "Tweak updated to 386.0.0",
-            "date": "2025-06-26",
+            "caption": "IG Format updated to 387.0.0",
+            "date": "2025-07-01",
             "identifier": "new-update",
             "notify": true,
             "tintColor": "C13584",
-            "title": "Instagram Tweak Latest - 26th June 2025"
+            "title": "Instagram Tweak Latest - 1st July 2025"
         },
         {
             "appID": "com.spotify.client",
