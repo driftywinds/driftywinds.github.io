@@ -95,7 +95,7 @@
             "tintColor": "C13584",
             "version": "387.0.0",
             "versionDate": "2025-07-01",
-            "versionDescription": "Long Hold 3 lines in the top in the profile tab for tweak options\n\nUpdated to v386.0.0",
+            "versionDescription": "Leaf icon on profile page for Tweak options\n\nUpdated to v386.0.0",
             "appPermissions": {
                 "entitlements": [
                     "com.apple.developer.associated-appclip-app-identifiers",
