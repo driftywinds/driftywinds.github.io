@@ -197,7 +197,7 @@
             "beta": false,
             "bundleIdentifier": "kh.crysalis.feather",
             "developerName": "khcrysalis",
-            "downloadURL": "https://github.com/khcrysalis/Feather/releases/download/v2.2.0/Feather.ipa",
+            "downloadURL": "https://github.com/khcrysalis/Feather/releases/download/v2.2.2/Feather.ipa",
             "iconURL": "https://raw.githubusercontent.com/khcrysalis/Feather/main/Images/512%402x.png",
             "localizedDescription": "Join https://t.me/+rvcObIvOpctiMDI9 for more.\nFEATURES: -\n- Altstore repo support. Supporting Legacy and 2.0 repo structures\n- Import your own .ipa's.\n- Inject tweaks when signing apps.\nInstall applications straight to your device seamlessly over the air.\n- Allows multiple certificate imports for easy switching.\n- Configurable signing options. (name, bundleid, version, other plist options)\n- Meant to be used with Apple Accounts that are apart of ADP (Apple Developer Program). however other certificates can also work!\n- Easy resigning! If you have another certificate you would like to use on an app you may resign and reinstall that same app!\n- No tracking, analytics, or any of the sort. Your information such as UDID and certificates will never leave the device.",
             "name": "Feather",
@@ -210,8 +210,8 @@
             "size": 91750400,
             "subtitle": "Feather is a free on-device iOS application manager/installer built with UIKit for quality. | If you want to donate: - https://ko-fi.com/driftywinds",
             "tintColor": "5861BD",
-            "version": "2.2.0",
-            "versionDate": "2025-06-27",
+            "version": "2.2.2",
+            "versionDate": "2025-06-29",
             "versionDescription": "More info - https://github.com/khcrysalis/Feather\n\n- https://github.com/khcrysalis/Feather/releases/"
         },
         {
@@ -303,12 +303,12 @@
         },
         {
             "appID": "kh.crysalis.feather",
-            "caption": "Feather updated to 2.2.0",
-            "date": "2025-06-27",
+            "caption": "Feather updated to 2.2.2",
+            "date": "2025-06-29",
             "identifier": "new-update",
             "notify": true,
             "tintColor": "5861BD",
-            "title": "Feather Latest - 27th June 2025"
+            "title": "Feather Latest - 29th June 2025"
         },
         {
             "appID": "com.unofficial.balatro",
