@@ -1,0 +1,83 @@
+{
+    "apps": [
+        {
+            "beta": false,
+            "bundleIdentifier": "com.burbn.instagram",
+            "developerName": "driftywinds",
+            "downloadURL": "https://files.drifty.win/Instagram/387.0.0Theta2.2.ipa",
+            "iconURL": "https://raw.githubusercontent.com/qnblackcat/AltStore/main/ScreenShot/800px-Instagram_logo_2016.svg.png",
+            "localizedDescription": "FOR TWEAK TO APPEAR OPEN, Restart, then hold down the home button\n\nJoin https://t.me/+rvcObIvOpctiMDI9 for more.",
+            "name": "Instagram (Theta)",
+            "screenshotURLs": [
+                "https://apt.alfhaily.me/cdn/assets/rocket-screenshot1.jpg",
+                "https://apt.alfhaily.me/cdn/assets/rocket-screenshot2.jpg",
+                "https://apt.alfhaily.me/cdn/assets/rocket-screenshot3.jpg",
+                "https://apt.alfhaily.me/cdn/assets/rocket-screenshot4.jpg"
+            ],
+            "size": 91750400,
+            "subtitle": "FOR TWEAK TO APPEAR OPEN, Restart, then hold down the home button | If you want to donate: - https://ko-fi.com/driftywinds",
+            "tintColor": "C13584",
+            "version": "387.0.0",
+            "versionDate": "2025-07-01",
+            "versionDescription": "Leaf icon on profile page for Tweak options\n\nUpdated to v386.0.0",
+            "appPermissions": {
+                "entitlements": [
+                    "com.apple.developer.associated-appclip-app-identifiers",
+                    "com.apple.security.application-groups",
+                    "com.apple.developer.associated-domains",
+                    "com.apple.developer.storekit.request-data",
+                    "com.apple.developer.ubiquity-container-identifiers",
+                    "com.apple.developer.usernotifications.communication",
+                    "com.apple.developer.usernotifications.time-sensitive",
+                    "get-task-allow",
+                    "com.apple.developer.kernel.extended-virtual-addressing",
+                    "com.apple.developer.networking.HotspotConfiguration",
+                    "com.apple.developer.icloud-container-environment",
+                    "com.apple.developer.icloud-container-identifiers",
+                    "com.apple.developer.ubiquity-kvstore-identifier",
+                    "com.apple.developer.icloud-services",
+                    "com.apple.developer.kernel.increased-memory-limit",
+                    "keychain-access-groups",
+                    "com.apple.developer.avfoundation.multitasking-camera-access",
+                    "com.apple.developer.usernotifications.filtering",
+                    "aps-environment",
+                    "com.apple.developer.networking.wifi-info"
+                ],
+                "privacy": {
+                    "NSBluetoothAlwaysUsageDescription": "This app requires Bluetooth access for connecting to nearby devices.",
+                    "NSCalendarsUsageDescription": "This app requires access to your calendars for social event integration.",
+                    "NSCameraUsageDescription": "This app requires camera access to capture photos and videos.",
+                    "NSContactsUsageDescription": "This app requires access to your contacts for enhanced social features.",
+                    "NSFaceIDUsageDescription": "This app requires Face ID for secure authentication.",
+                    "NSLocationAlwaysAndWhenInUseUsageDescription": "This app requires location access even when in the background for geotagging.",
+                    "NSLocationUsageDescription": "This app requires location access to provide local content.",
+                    "NSLocationWhenInUseUsageDescription": "This app requires location access while using the app.",
+                    "NSMicrophoneUsageDescription": "This app requires microphone access for recording audio and videos.",
+                    "NSFocusStatusUsageDescription": "This app uses focus status to optimize notifications.",
+                    "NSPhotoLibraryAddUsageDescription": "This app requires access to add photos to your library.",
+                    "NSPhotoLibraryUsageDescription": "This app requires access to your photo library.",
+                    "NSUserTrackingUsageDescription": "This app uses tracking to deliver personalized content."
+                }
+            }
+        }
+    ],
+    "identifier": "com.dw.theta",
+    "name": "driftywinds' Theta AltStore Repo",
+    "subtitle": "definitevely driftywinds",
+    "description": "This repo is for Instagram Theta only. It is compatible with SideStore, AltStore and most other sideloading apps.\n\nLearn more: - https://t.me/+rvcObIvOpctiMDI9\n\nApps might download as '.zip' just change the extension back to '.ipa' .\n\nKofi - https://ko-fi.com/driftywinds\nLiberapay - https://liberapay.com/driftywinds/donate\nPatreon - https://www.patreon.com/bePatron?u=67102544",
+    "iconURL": "https://i.postimg.cc/Kcdr62dc/dp-rounded.png",
+    "sourceURL": "https://driftywinds.github.io/AltStore/theta.json",
+    "website": "https://github.com/driftywinds",
+    "news": [
+        {
+            "appID": "com.burbn.instagram",
+            "caption": "Theta updated to 387.0.0",
+            "date": "2025-07-01",
+            "identifier": "new-update",
+            "notify": true,
+            "tintColor": "C13584",
+            "title": "Theta Latest - 1st July 2025"
+        }
+    ],
+    "userInfo": {}
+}
