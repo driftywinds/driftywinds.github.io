@@ -80,7 +80,7 @@
             "beta": false,
             "bundleIdentifier": "com.burbn.instagram",
             "developerName": "ethMods",
-            "downloadURL": "https://files.drifty.win/Instagram/387.0.0_1.79.ipa",
+            "downloadURL": "https://files.drifty.win/Instagram/388.0.0_IGFormat1.80.ipa",
             "iconURL": "https://raw.githubusercontent.com/qnblackcat/AltStore/main/ScreenShot/800px-Instagram_logo_2016.svg.png",
             "localizedDescription": "Leaf icon on profile page for Tweak options\n\nJoin https://t.me/+rvcObIvOpctiMDI9 for more.",
             "name": "Instagram (IG Format)",
@@ -93,9 +93,9 @@
             "size": 91750400,
             "subtitle": "Mod by ethMods| Long Hold 3 lines in the top in the profile tab for tweak options | If you want to donate: - https://ko-fi.com/driftywinds",
             "tintColor": "C13584",
-            "version": "387.0.0",
-            "versionDate": "2025-07-01",
-            "versionDescription": "Leaf icon on profile page for Tweak options\n\nUpdated to v386.0.0",
+            "version": "388.0.0",
+            "versionDate": "2025-07-09",
+            "versionDescription": "Leaf icon on profile page for Tweak options\n\nUpdated to v388.0.0",
             "appPermissions": {
                 "entitlements": [
                     "com.apple.developer.associated-appclip-app-identifiers",
@@ -276,12 +276,12 @@
         },
         {
             "appID": "com.burbn.instagram",
-            "caption": "IG Format updated to 387.0.0",
-            "date": "2025-07-01",
+            "caption": "IG Format updated to 388.0.0",
+            "date": "2025-07-09",
             "identifier": "new-update",
             "notify": true,
             "tintColor": "C13584",
-            "title": "Instagram Tweak Latest - 1st July 2025"
+            "title": "Instagram Tweak Latest - 9th July 2025"
         },
         {
             "appID": "com.spotify.client",
