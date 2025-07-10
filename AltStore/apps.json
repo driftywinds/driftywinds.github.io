@@ -82,7 +82,7 @@
             "developerName": "ethMods",
             "downloadURL": "https://files.drifty.win/Instagram/388.0.0_IGFormat1.80.ipa",
             "iconURL": "https://raw.githubusercontent.com/qnblackcat/AltStore/main/ScreenShot/800px-Instagram_logo_2016.svg.png",
-            "localizedDescription": "Leaf icon on profile page for Tweak options\n\nJoin https://t.me/+rvcObIvOpctiMDI9 for more.",
+            "localizedDescription": "⚙Settings Location: Profile tab - Leaf Icon\n\nJoin https://t.me/+rvcObIvOpctiMDI9 for more.",
             "name": "Instagram (IG Format)",
             "screenshotURLs": [
                 "https://apt.alfhaily.me/cdn/assets/rocket-screenshot1.jpg",
@@ -95,7 +95,7 @@
             "tintColor": "C13584",
             "version": "388.0.0",
             "versionDate": "2025-07-09",
-            "versionDescription": "Leaf icon on profile page for Tweak options\n\nUpdated to v388.0.0",
+            "versionDescription": "⚙Settings Location: Profile tab - Leaf Icon\n\nUpdated to v388.0.0",
             "appPermissions": {
                 "entitlements": [
                     "com.apple.developer.associated-appclip-app-identifiers",
