@@ -12,7 +12,7 @@
             },
             "downloadURL": "https://files.catbox.moe/xf0nhb.ipa",
             "iconURL": "https://raw.githubusercontent.com/YTLitePlus/YTLitePlus-Altstore/main/Youtube_logo-512.png",
-            "localizedDescription": "Use v20.10.4 if you wan't to use cast and the Tab Bar from here -\n\nhttps://t.me/+rvcObIvOpctiMDI9\n\nA modified version of Youtube supercharged with YTLite (by @dayanch96)",
+            "localizedDescription": "Use v20.10.4 if you wan't to use cast from here -\n\nhttps://t.me/+rvcObIvOpctiMDI9\n\nA modified version of Youtube supercharged with YTLite (by @dayanch96)",
             "name": "YTLite + Tweaks (driftywinds)",
             "screenshotURLs": [
                 "https://raw.githubusercontent.com/dayanch96/YTLite/refs/heads/main/Resources/scr1.jpg",
@@ -80,7 +80,7 @@
             "beta": false,
             "bundleIdentifier": "com.burbn.instagram",
             "developerName": "ethMods",
-            "downloadURL": "https://files.drifty.win/Instagram/388.0.0_IGFormat1.80.ipa",
+            "downloadURL": "https://files.drifty.win/Instagram/389.0.0IGFormat1.80.ipa",
             "iconURL": "https://raw.githubusercontent.com/qnblackcat/AltStore/main/ScreenShot/800px-Instagram_logo_2016.svg.png",
             "localizedDescription": "⚙ Settings Location: Profile tab - Leaf Icon\n\nYou can find my repo for Instagram Nyx here - https://003274.xyz/nyx\n\nand Instagram Theta here - https://003274.xyz/theta\n\nJoin https://t.me/+rvcObIvOpctiMDI9 for more.",
             "name": "Instagram (IG Format)",
@@ -93,9 +93,9 @@
             "size": 91750400,
             "subtitle": "Mod by ethMods | Long Hold 3 lines in the top in the profile tab for tweak options | Instagram Nyx and Instagram Theta also available, see description | If you want to donate: - https://ko-fi.com/driftywinds",
             "tintColor": "C13584",
-            "version": "388.0.0",
-            "versionDate": "2025-07-09",
-            "versionDescription": "⚙ Settings Location: Profile tab - Leaf Icon\n\nUpdated to v388.0.0",
+            "version": "389.0.0",
+            "versionDate": "2025-07-18",
+            "versionDescription": "⚙ Settings Location: Profile tab - Leaf Icon\n\nUpdated to v389.0.0",
             "appPermissions": {
                 "entitlements": [
                     "com.apple.developer.associated-appclip-app-identifiers",
@@ -140,15 +140,15 @@
             "beta": false,
             "bundleIdentifier": "com.atebits.Tweetie2",
             "developerName": "RiseBlox",
-            "downloadURL": "https://github.com/RiseBlox/BHX/releases/download/v4.4_11.7.5/BHX-sideloaded_4.4_11.7.5.ipa",
+            "downloadURL": "https://github.com/RiseBlox/BHX/releases/download/v4.4_11.8/BHX-sideloaded_4.4_11.8.ipa",
             "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.atebits.Tweetie2.png",
             "localizedDescription": "Join https://t.me/+rvcObIvOpctiMDI9 for more.\nA fork of the best tweak for Twitter",
             "name": "Twitter BHX",
             "size": 161029014,
             "subtitle": "Awesome tweak for X | If you want to donate: - https://ko-fi.com/driftywinds",
             "tintColor": "1DA1F2",
-            "version": "11.7.5",
-            "versionDate": "2025-07-12",
+            "version": "11.8",
+            "versionDate": "2025-07-16",
             "versionDescription": "- Various bug fixes.\n- More Releases = https://releases.drifty.win/?username=riseblox&repository=BHX"
         },
         {
@@ -276,12 +276,12 @@
         },
         {
             "appID": "com.burbn.instagram",
-            "caption": "IG Format updated to 388.0.0",
-            "date": "2025-07-09",
+            "caption": "IG Format updated to 389.0.0",
+            "date": "2025-07-18",
             "identifier": "new-update",
             "notify": true,
             "tintColor": "C13584",
-            "title": "Instagram Tweak Latest - 9th July 2025"
+            "title": "Instagram Tweak Latest - 18th July 2025"
         },
         {
             "appID": "com.spotify.client",
