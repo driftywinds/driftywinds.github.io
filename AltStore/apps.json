@@ -10,7 +10,7 @@
             "contact": {
                 "web": "https://github.com/driftywinds/"
             },
-            "downloadURL": "https://files.drifty.win/.hid/20.30.5.ipa",
+            "downloadURL": "https://files.catbox.moe/m7qe4d.ipa",
             "iconURL": "https://raw.githubusercontent.com/YTLitePlus/YTLitePlus-Altstore/main/Youtube_logo-512.png",
             "localizedDescription": "Use v20.10.4 if you want to use cast, from here -\n\nhttps://t.me/+rvcObIvOpctiMDI9\n\nA modified version of Youtube supercharged with YTLite (by @dayanch96)",
             "name": "YTLite + Tweaks (driftywinds)",
@@ -22,9 +22,9 @@
             "size": 130097628,
             "subtitle": "A flexible enhancer for YouTube on iOS | If you want to donate: - https://ko-fi.com/driftywinds",
             "tintColor": "e22a41",
-            "version": "20.30.5",
-            "versionDate": "2025-07-28",
-            "versionDescription": "• Updated YouTube to 20.30.5 (latest commits)\n • Tweak is using 5.2b2",
+            "version": "20.31.5",
+            "versionDate": "2025-08-04",
+            "versionDescription": "• Updated YouTube to 20.31.5 (latest commits)\n • Tweak is using 5.2b2",
             "appPermissions": {
                 "entitlements": [
                     "com.apple.developer.siri"
@@ -267,12 +267,12 @@
     "news": [
         {
             "appID": "com.google.ios.youtube",
-            "caption": "YTLite updated to 20.30.5",
-            "date": "2025-07-28",
+            "caption": "YTLite updated to 20.31.5",
+            "date": "2025-08-04",
             "identifier": "new-update",
             "notify": true,
             "tintColor": "e22a41",
-            "title": "YTLite v5.2b2 + Tweaks - 28th July 2025"
+            "title": "YTLite v5.2b2 + Tweaks - 4th August 2025"
         },
         {
             "appID": "com.burbn.instagram",
@@ -281,7 +281,7 @@
             "identifier": "new-update",
             "notify": true,
             "tintColor": "C13584",
-            "title": "IG Format Latest - 4th August 2025"
+            "title": "IG Format Latest - 22nd July 2025"
         },
         {
             "appID": "com.spotify.client",
