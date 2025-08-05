@@ -80,10 +80,10 @@
             "beta": false,
             "bundleIdentifier": "com.burbn.instagram",
             "developerName": "ethMods",
-            "downloadURL": "https://files.drifty.win/Instagram/390.0.0_IGFormat1.80.ipa",
+            "downloadURL": "https://files.drifty.win/Instagram/391.0.0_Multi2.6.0.ipa",
             "iconURL": "https://raw.githubusercontent.com/qnblackcat/AltStore/main/ScreenShot/800px-Instagram_logo_2016.svg.png",
-            "localizedDescription": "⚙ Settings Location: Profile tab - Leaf Icon\n\nYou can find my repo for Instagram Nyx here - https://003274.xyz/nyx\n\nand Instagram Theta here - https://003274.xyz/theta\n\nJoin https://t.me/+rvcObIvOpctiMDI9 for more.",
-            "name": "Instagram (IG Format)",
+            "localizedDescription": "⚙ Hold down reels button to open menu\n\nYou can find my repo for Instagram Nyx here - https://003274.xyz/nyx\n\nand Instagram Theta here - https://003274.xyz/theta\n\nJoin https://t.me/+rvcObIvOpctiMDI9 for more.",
+            "name": "Instagram (InstaMulti)",
             "screenshotURLs": [
                 "https://apt.alfhaily.me/cdn/assets/rocket-screenshot1.jpg",
                 "https://apt.alfhaily.me/cdn/assets/rocket-screenshot2.jpg",
@@ -93,9 +93,9 @@
             "size": 91750400,
             "subtitle": "Mod by ethMods | Long Hold 3 lines in the top in the profile tab for tweak options | Instagram Nyx and Instagram Theta also available, see description | If you want to donate: - https://ko-fi.com/driftywinds",
             "tintColor": "C13584",
-            "version": "390.0.0",
-            "versionDate": "2025-07-22",
-            "versionDescription": "⚙ Settings Location: Profile tab - Leaf Icon\n\nUpdated to v389.0.0",
+            "version": "391.0.0",
+            "versionDate": "2025-08-05",
+            "versionDescription": "⚙ Hold down reels button to open menu\n\nUpdated to v391.0.0",
             "appPermissions": {
                 "entitlements": [
                     "com.apple.developer.associated-appclip-app-identifiers",
@@ -276,12 +276,12 @@
         },
         {
             "appID": "com.burbn.instagram",
-            "caption": "IG Format updated to 390.0.0",
-            "date": "2025-07-22",
+            "caption": "InstaMulti updated to 391.0.0",
+            "date": "2025-08-05",
             "identifier": "new-update",
             "notify": true,
             "tintColor": "C13584",
-            "title": "IG Format Latest - 22nd July 2025"
+            "title": "InstaMulti Latest - 5th August 2025"
         },
         {
             "appID": "com.spotify.client",
