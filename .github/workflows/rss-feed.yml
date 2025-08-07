@@ -1,0 +1,39 @@
+# .github/workflows/rss-feed.yml
+
+name: Generate RSS Feed with Diffs
+
+on:
+  push:
+    branches:
+      - main  # or your default branch
+
+jobs:
+  generate-rss:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: 3.x
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Generate RSS feed
+        env:
+          REPO_OWNER: ${{ github.repository_owner }}
+          REPO_NAME: ${{ github.event.repository.name }}
+          REPO_BRANCH: main
+        run: python scripts/generate_rss.py
+
+      - name: Deploy to gh-pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GH_TOKEN }}
+          publish_dir: ./public
