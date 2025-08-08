@@ -80,7 +80,7 @@
             "beta": false,
             "bundleIdentifier": "com.burbn.instagram",
             "developerName": "ethMods",
-            "downloadURL": "https://files.drifty.win/Instagram/392.0.0_InstaMulti2.6.0.ipa",
+            "downloadURL": "https://files.drifty.win/Instagram/392.0.0_InstaMulti2.6.0V2.ipa",
             "iconURL": "https://raw.githubusercontent.com/qnblackcat/AltStore/main/ScreenShot/800px-Instagram_logo_2016.svg.png",
             "localizedDescription": "⚙ Hold down reels button to open menu\n\nYou can find my repo for Instagram Nyx here - https://003274.xyz/nyx\n\nand Instagram Theta here - https://003274.xyz/theta\n\nJoin https://t.me/+rvcObIvOpctiMDI9 for more.",
             "name": "Instagram (InstaMulti)",
@@ -94,7 +94,7 @@
             "subtitle": "Mod by ethMods | Hold down reels button to open menu | If you want to donate: - https://ko-fi.com/driftywinds",
             "tintColor": "C13584",
             "version": "392.0.0",
-            "versionDate": "2025-08-07",
+            "versionDate": "2025-08-08",
             "versionDescription": "⚙ Hold down reels button to open menu\n\nUpdated to v392.0.0",
             "appPermissions": {
                 "entitlements": [
@@ -277,11 +277,11 @@
         {
             "appID": "com.burbn.instagram",
             "caption": "InstaMulti updated to 392.0.0",
-            "date": "2025-08-07",
+            "date": "2025-08-08",
             "identifier": "new-update",
             "notify": true,
             "tintColor": "C13584",
-            "title": "InstaMulti Latest - 7th August 2025"
+            "title": "InstaMulti Latest - 8th August 2025"
         },
         {
             "appID": "com.spotify.client",
