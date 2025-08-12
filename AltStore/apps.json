@@ -59,7 +59,7 @@
             "beta": false,
             "bundleIdentifier": "com.mojang.minecraftpe",
             "developerName": "Kamo Hacks",
-            "downloadURL": "https://files.drifty.win/Minecraft/1.21.94.ipa",
+            "downloadURL": "https://files.drifty.win/Minecraft/1.21.100.ipa",
             "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/42/01/22/42012236-af5d-f1c1-31c2-4dd7827585dd/AppIcon-1x_U007emarketing-0-9-0-85-220.png/460x0w.png",
             "localizedDescription": "Join https://t.me/+rvcObIvOpctiMDI9 for more.\nOne of the best selling games on the planet!\nhttps://t.me/kamohacks for other game releases",
             "name": "Minecraft",
@@ -72,15 +72,15 @@
             "size": 91750400,
             "subtitle": "Cracked Minecraft with working online | If you want to donate: - https://ko-fi.com/driftywinds",
             "tintColor": "996747",
-            "version": "1.21.94",
-            "versionDate": "2025-07-16",
+            "version": "1.21.100",
+            "versionDate": "2025-08-12",
             "versionDescription": "- Various bug fixes.\n- More Releases = https://t.me/kamohacks"
         },
         {
             "beta": false,
             "bundleIdentifier": "com.burbn.instagram",
             "developerName": "ethMods",
-            "downloadURL": "https://files.drifty.win/Instagram/392.0.0_InstaMulti2.6.5.ipa",
+            "downloadURL": "https://files.drifty.win/Instagram/393.0.0_InstaMulti2.6.5.ipa",
             "iconURL": "https://raw.githubusercontent.com/qnblackcat/AltStore/main/ScreenShot/800px-Instagram_logo_2016.svg.png",
             "localizedDescription": "⚙ Hold down reels button to open menu\n\nYou can find my repo for Instagram Nyx here - https://003274.xyz/nyx\n\nand Instagram Theta here - https://003274.xyz/theta\n\nJoin https://t.me/+rvcObIvOpctiMDI9 for more.",
             "name": "Instagram (InstaMulti)",
@@ -93,9 +93,9 @@
             "size": 91750400,
             "subtitle": "Mod by ethMods | Hold down reels button to open menu | If you want to donate: - https://ko-fi.com/driftywinds",
             "tintColor": "C13584",
-            "version": "392.0.0",
-            "versionDate": "2025-08-11",
-            "versionDescription": "⚙ Hold down reels button to open menu\n\nUpdated to v392.0.0",
+            "version": "393.0.0",
+            "versionDate": "2025-08-12",
+            "versionDescription": "⚙ Hold down reels button to open menu\n\nUpdated to v393.0.0",
             "appPermissions": {
                 "entitlements": [
                     "com.apple.developer.associated-appclip-app-identifiers",
@@ -276,12 +276,12 @@
         },
         {
             "appID": "com.burbn.instagram",
-            "caption": "InstaMulti updated to 392.0.0",
-            "date": "2025-08-11",
+            "caption": "InstaMulti updated to 393.0.0",
+            "date": "2025-08-12",
             "identifier": "new-update",
             "notify": true,
             "tintColor": "C13584",
-            "title": "InstaMulti Latest - 11th August 2025"
+            "title": "InstaMulti Latest - 12th August 2025"
         },
         {
             "appID": "com.spotify.client",
@@ -294,12 +294,12 @@
         },
         {
             "appID": "com.mojang.minecraftpe",
-            "caption": "Minecraft updated to 1.21.94",
-            "date": "2025-07-16",
+            "caption": "Minecraft updated to 1.21.100",
+            "date": "2025-08-12",
             "identifier": "new-update",
             "notify": true,
             "tintColor": "996747",
-            "title": "Minecraft Latest - 16th July 2025"
+            "title": "Minecraft Latest - 12th August 2025"
         },
         {
             "appID": "kh.crysalis.feather",
