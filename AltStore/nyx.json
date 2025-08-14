@@ -4,7 +4,7 @@
             "beta": false,
             "bundleIdentifier": "com.burbn.instagram",
             "developerName": "ethMods",
-            "downloadURL": "https://files.drifty.win/Instagram/390.0.0_NYX1.5.8.ipa",
+            "downloadURL": "https://files.drifty.win/Instagram/393.1.0_NYX1.5.8B2.ipa",
             "iconURL": "https://raw.githubusercontent.com/qnblackcat/AltStore/main/ScreenShot/800px-Instagram_logo_2016.svg.png",
             "localizedDescription": "⚙ Settings Location: Home tab, Instagram Settings\n\nJoin https://t.me/+rvcObIvOpctiMDI9 for more.",
             "name": "Instagram (Nyx)",
@@ -17,9 +17,9 @@
             "size": 91750400,
             "subtitle": "⚙ Settings Location: Home tab, Instagram Settings | If you want to donate: - https://ko-fi.com/driftywinds",
             "tintColor": "C13584",
-            "version": "390.0.0",
-            "versionDate": "2025-07-22",
-            "versionDescription": "Nyx\n\nUpdated to v390.0.0",
+            "version": "393.1.0",
+            "versionDate": "2025-08-14",
+            "versionDescription": "Nyx\n\nUpdated to v393.1.0",
             "appPermissions": {
                 "entitlements": [
                     "com.apple.developer.associated-appclip-app-identifiers",
@@ -71,12 +71,12 @@
     "news": [
         {
             "appID": "com.burbn.instagram",
-            "caption": "Nyx updated to 390.0.0",
-            "date": "2025-07-22",
+            "caption": "Nyx updated to 393.1.0",
+            "date": "2025-08-14",
             "identifier": "new-update",
             "notify": true,
             "tintColor": "C13584",
-            "title": "Nyx Latest -22nd July 2025"
+            "title": "Nyx Latest - 14th August 2025"
         }
     ],
     "userInfo": {}
