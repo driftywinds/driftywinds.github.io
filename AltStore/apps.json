@@ -59,7 +59,7 @@
             "beta": false,
             "bundleIdentifier": "com.mojang.minecraftpe",
             "developerName": "Kamo Hacks",
-            "downloadURL": "https://files.drifty.win/Minecraft/1.21.100.ipa",
+            "downloadURL": "https://files.drifty.win/Minecraft/1.21.101.ipa",
             "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/42/01/22/42012236-af5d-f1c1-31c2-4dd7827585dd/AppIcon-1x_U007emarketing-0-9-0-85-220.png/460x0w.png",
             "localizedDescription": "Join https://t.me/+rvcObIvOpctiMDI9 for more.\nOne of the best selling games on the planet!\nhttps://t.me/kamohacks for other game releases",
             "name": "Minecraft",
@@ -72,8 +72,8 @@
             "size": 91750400,
             "subtitle": "Cracked Minecraft with working online | If you want to donate: - https://ko-fi.com/driftywinds",
             "tintColor": "996747",
-            "version": "1.21.100",
-            "versionDate": "2025-08-12",
+            "version": "1.21.101",
+            "versionDate": "2025-08-25",
             "versionDescription": "- Various bug fixes.\n- More Releases = https://t.me/kamohacks"
         },
         {
@@ -294,12 +294,12 @@
         },
         {
             "appID": "com.mojang.minecraftpe",
-            "caption": "Minecraft updated to 1.21.100",
-            "date": "2025-08-12",
+            "caption": "Minecraft updated to 1.21.101",
+            "date": "2025-08-25",
             "identifier": "new-update",
             "notify": true,
             "tintColor": "996747",
-            "title": "Minecraft Latest - 12th August 2025"
+            "title": "Minecraft Latest - 25th August 2025"
         },
         {
             "appID": "kh.crysalis.feather",
