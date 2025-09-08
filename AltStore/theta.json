@@ -4,7 +4,7 @@
             "beta": false,
             "bundleIdentifier": "com.burbn.instagram",
             "developerName": "Moe",
-            "downloadURL": "https://files.drifty.win/Instagram/394.0.0_Theta3.1Moe.ipa",
+            "downloadURL": "https://files.drifty.win/Instagram/396.0.0_Theta3.1.ipa",
             "iconURL": "https://raw.githubusercontent.com/qnblackcat/AltStore/main/ScreenShot/800px-Instagram_logo_2016.svg.png",
             "localizedDescription": "FOR TWEAK TO APPEAR OPEN, Restart, then hold down the home button\n\nJoin https://t.me/+rvcObIvOpctiMDI9 for more.",
             "name": "Instagram (Theta)",
@@ -17,9 +17,9 @@
             "size": 91750400,
             "subtitle": "FOR TWEAK TO APPEAR OPEN, Restart, then hold down the home button | If you want to donate: - https://ko-fi.com/driftywinds",
             "tintColor": "C13584",
-            "version": "394.0.0",
-            "versionDate": "2025-08-23",
-            "versionDescription": "Theta\n\nupdated to v394.0.0",
+            "version": "396.0.0",
+            "versionDate": "2025-09-08",
+            "versionDescription": "Theta\n\nupdated to v396.0.0",
             "appPermissions": {
                 "entitlements": [
                     "com.apple.developer.associated-appclip-app-identifiers",
@@ -71,12 +71,12 @@
     "news": [
         {
             "appID": "com.burbn.instagram",
-            "caption": "Theta updated to 394.0.0",
-            "date": "2025-08-23",
+            "caption": "Theta updated to 396.0.0",
+            "date": "2025-09-08",
             "identifier": "new-update",
             "notify": true,
             "tintColor": "C13584",
-            "title": "Theta Latest - 23rd August 2025"
+            "title": "Theta Latest - 8th September 2025"
         }
     ],
     "userInfo": {}
