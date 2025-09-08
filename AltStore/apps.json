@@ -79,8 +79,8 @@
         {
             "beta": false,
             "bundleIdentifier": "com.burbn.instagram",
-            "developerName": "ethMods",
-            "downloadURL": "https://files.drifty.win/Instagram/394.0.0_MoeMulti2.7.5V3.ipa",
+            "developerName": "Moe",
+            "downloadURL": "https://files.drifty.win/Instagram/396.1.0_Multi2.7.5.ipa",
             "iconURL": "https://raw.githubusercontent.com/qnblackcat/AltStore/main/ScreenShot/800px-Instagram_logo_2016.svg.png",
             "localizedDescription": "⚙ Hold down reels button to open menu\n\nYou can find my repo for Instagram Nyx here - https://003274.xyz/nyx\n\nand Instagram Theta here - https://003274.xyz/theta\n\nJoin https://t.me/+rvcObIvOpctiMDI9 for more.",
             "name": "Instagram (InstaMulti)",
@@ -93,9 +93,9 @@
             "size": 91750400,
             "subtitle": "Mod by ethMods | Hold down reels button to open menu | If you want to donate: - https://ko-fi.com/driftywinds",
             "tintColor": "C13584",
-            "version": "394.0.0",
-            "versionDate": "2025-08-22",
-            "versionDescription": "⚙ Hold down reels button to open menu\n\nUpdated to v394.0.0",
+            "version": "396.1.0",
+            "versionDate": "2025-09-08",
+            "versionDescription": "⚙ Hold down reels button to open menu\n\nUpdated to v396.1.0",
             "appPermissions": {
                 "entitlements": [
                     "com.apple.developer.associated-appclip-app-identifiers",
@@ -276,12 +276,12 @@
         },
         {
             "appID": "com.burbn.instagram",
-            "caption": "InstaMulti updated to 394.0.0",
-            "date": "2025-08-22",
+            "caption": "InstaMulti updated to 396.1.0",
+            "date": "2025-09-08",
             "identifier": "new-update",
             "notify": true,
             "tintColor": "C13584",
-            "title": "InstaMulti Latest - 22nd August 2025"
+            "title": "InstaMulti Latest - 8th Septemeber 2025"
         },
         {
             "appID": "com.spotify.client",
