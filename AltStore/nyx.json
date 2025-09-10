@@ -4,7 +4,7 @@
             "beta": false,
             "bundleIdentifier": "com.burbn.instagram",
             "developerName": "ethMods",
-            "downloadURL": "https://files.drifty.win/Instagram/396.0.0_NYX1.5.8.ipa",
+            "downloadURL": "https://files.drifty.win/Instagram/397.0.0_NYX1.5.8.ipa",
             "iconURL": "https://raw.githubusercontent.com/qnblackcat/AltStore/main/ScreenShot/800px-Instagram_logo_2016.svg.png",
             "localizedDescription": "⚙ Settings Location: Home tab, Instagram Settings\n\nJoin https://t.me/+rvcObIvOpctiMDI9 for more.",
             "name": "Instagram (Nyx)",
@@ -17,9 +17,9 @@
             "size": 91750400,
             "subtitle": "⚙ Settings Location: Home tab, Instagram Settings | If you want to donate: - https://ko-fi.com/driftywinds",
             "tintColor": "C13584",
-            "version": "396.0.0",
-            "versionDate": "2025-09-08",
-            "versionDescription": "Nyx\n\nUpdated to v396.0.0",
+            "version": "397.0.0",
+            "versionDate": "2025-09-10",
+            "versionDescription": "Nyx\n\nUpdated to v397.0.0",
             "appPermissions": {
                 "entitlements": [
                     "com.apple.developer.associated-appclip-app-identifiers",
@@ -63,7 +63,7 @@
     ],
     "identifier": "com.dw.nyx",
     "name": "driftywinds' Nyx AltStore Repo",
-    "subtitle": "mod by ethMods",
+    "subtitle": "builds by ethMods - https://moe.mohkg1017.pro/",
     "description": "This repo is for Instagram Nyx only. It is compatible with SideStore, AltStore and most other sideloading apps.\n\nLearn more: - https://t.me/+rvcObIvOpctiMDI9\n\nApps might download as '.zip' just change the extension back to '.ipa' .\n\nKofi - https://ko-fi.com/driftywinds\nLiberapay - https://liberapay.com/driftywinds/donate\nPatreon - https://www.patreon.com/bePatron?u=67102544",
     "iconURL": "https://i.postimg.cc/Kcdr62dc/dp-rounded.png",
     "sourceURL": "https://driftywinds.github.io/AltStore/theta.json",
@@ -71,12 +71,12 @@
     "news": [
         {
             "appID": "com.burbn.instagram",
-            "caption": "Nyx updated to 396.0.0",
-            "date": "2025-09-08",
+            "caption": "Nyx updated to 397.0.0",
+            "date": "2025-09-10",
             "identifier": "new-update",
             "notify": true,
             "tintColor": "C13584",
-            "title": "Nyx Latest - 8th September 2025"
+            "title": "Nyx Latest - 10th September 2025"
         }
     ],
     "userInfo": {}
