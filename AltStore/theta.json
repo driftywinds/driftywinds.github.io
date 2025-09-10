@@ -15,7 +15,7 @@
                 "https://apt.alfhaily.me/cdn/assets/rocket-screenshot4.jpg"
             ],
             "size": 91750400,
-            "subtitle": "FOR TWEAK TO APPEAR OPEN, Restart, then hold down the home button | If you want to donate: - https://ko-fi.com/driftywinds",
+            "subtitle": "FOR TWEAK TO APPEAR OPEN, Restart, then hold down the home button | Moe's builds - https://moe.mohkg1017.pro/ | If you want to donate to me: - https://ko-fi.com/driftywinds",
             "tintColor": "C13584",
             "version": "397.0.0",
             "versionDate": "2025-09-10",
@@ -63,7 +63,7 @@
     ],
     "identifier": "com.dw.theta",
     "name": "driftywinds' Theta AltStore Repo",
-    "subtitle": "builds by Moe",
+    "subtitle": "builds by Moe - https://moe.mohkg1017.pro/",
     "description": "This repo is for Instagram Theta only. It is compatible with SideStore, AltStore and most other sideloading apps.\n\nLearn more: - https://t.me/+rvcObIvOpctiMDI9\n\nApps might download as '.zip' just change the extension back to '.ipa' .\n\nKofi - https://ko-fi.com/driftywinds\nLiberapay - https://liberapay.com/driftywinds/donate\nPatreon - https://www.patreon.com/bePatron?u=67102544",
     "iconURL": "https://i.postimg.cc/Kcdr62dc/dp-rounded.png",
     "sourceURL": "https://driftywinds.github.io/AltStore/theta.json",
