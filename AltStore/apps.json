@@ -80,7 +80,7 @@
             "beta": false,
             "bundleIdentifier": "com.burbn.instagram",
             "developerName": "Moe",
-            "downloadURL": "https://files.drifty.win/Instagram/396.1.0_Multi2.7.5.ipa",
+            "downloadURL": "https://files.drifty.win/Instagram/397.0.0_Multi2.7.5MoeV2.ipa",
             "iconURL": "https://raw.githubusercontent.com/qnblackcat/AltStore/main/ScreenShot/800px-Instagram_logo_2016.svg.png",
             "localizedDescription": "⚙ To open Multi Menu hold reel button or hamburger menu button in profile section or username in profile section or press screen with 4 fingers.\n\nYou can find my repo for Instagram Nyx here - https://003274.xyz/nyx\n\nand Instagram Theta here - https://003274.xyz/theta\n\nJoin https://t.me/+rvcObIvOpctiMDI9 for more.",
             "name": "Instagram (InstaMulti)",
@@ -93,9 +93,9 @@
             "size": 91750400,
             "subtitle": "Mod by ethMods | If you want to donate: - https://ko-fi.com/driftywinds",
             "tintColor": "C13584",
-            "version": "396.1.0",
-            "versionDate": "2025-09-08",
-            "versionDescription": "⚙ Hold down reels button to open menu\n\nUpdated to v396.1.0",
+            "version": "397.0.0",
+            "versionDate": "2025-09-10",
+            "versionDescription": "⚙ Hold down reels button to open menu\n\nUpdated to v397.0.0",
             "appPermissions": {
                 "entitlements": [
                     "com.apple.developer.associated-appclip-app-identifiers",
@@ -140,15 +140,15 @@
             "beta": false,
             "bundleIdentifier": "com.atebits.Tweetie2",
             "developerName": "RiseBlox",
-            "downloadURL": "https://github.com/RiseBlox/BHX/releases/download/v4.4_11.19/BHX-sideloaded_4.4_11.19.ipa",
+            "downloadURL": "https://github.com/RiseBlox/BHX/releases/download/v4.4_11.20.1/BHX-sideloaded_4.4_11.20.1.ipa",
             "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.atebits.Tweetie2.png",
             "localizedDescription": "Join https://t.me/+rvcObIvOpctiMDI9 for more.\nA fork of the best tweak for Twitter",
             "name": "Twitter BHX",
             "size": 161029014,
             "subtitle": "Awesome tweak for X | If you want to donate: - https://ko-fi.com/driftywinds",
             "tintColor": "1DA1F2",
-            "version": "11.19",
-            "versionDate": "2025-09-03",
+            "version": "11.20.1",
+            "versionDate": "2025-09-09",
             "versionDescription": "- Various bug fixes.\n- More Releases = https://releases.drifty.win/?username=riseblox&repository=BHX"
         },
         {
@@ -276,12 +276,12 @@
         },
         {
             "appID": "com.burbn.instagram",
-            "caption": "InstaMulti updated to 396.1.0",
-            "date": "2025-09-08",
+            "caption": "InstaMulti updated to 397.0.0",
+            "date": "2025-09-10",
             "identifier": "new-update",
             "notify": true,
             "tintColor": "C13584",
-            "title": "InstaMulti Latest - 8th Septemeber 2025"
+            "title": "InstaMulti Latest - 10th Septemeber 2025"
         },
         {
             "appID": "com.spotify.client",
