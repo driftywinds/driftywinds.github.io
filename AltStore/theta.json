@@ -4,7 +4,7 @@
             "beta": false,
             "bundleIdentifier": "com.burbn.instagram",
             "developerName": "Moe",
-            "downloadURL": "https://files.drifty.win/Instagram/396.0.0_Theta3.1.ipa",
+            "downloadURL": "https://files.drifty.win/Instagram/397.0.0_Theta3.1.ipa",
             "iconURL": "https://raw.githubusercontent.com/qnblackcat/AltStore/main/ScreenShot/800px-Instagram_logo_2016.svg.png",
             "localizedDescription": "FOR TWEAK TO APPEAR OPEN, Restart, then hold down the home button\n\nJoin https://t.me/+rvcObIvOpctiMDI9 for more.",
             "name": "Instagram (Theta)",
@@ -17,9 +17,9 @@
             "size": 91750400,
             "subtitle": "FOR TWEAK TO APPEAR OPEN, Restart, then hold down the home button | If you want to donate: - https://ko-fi.com/driftywinds",
             "tintColor": "C13584",
-            "version": "396.0.0",
-            "versionDate": "2025-09-08",
-            "versionDescription": "Theta\n\nupdated to v396.0.0",
+            "version": "397.0.0",
+            "versionDate": "2025-09-10",
+            "versionDescription": "Theta\n\nupdated to v397.0.0",
             "appPermissions": {
                 "entitlements": [
                     "com.apple.developer.associated-appclip-app-identifiers",
@@ -63,7 +63,7 @@
     ],
     "identifier": "com.dw.theta",
     "name": "driftywinds' Theta AltStore Repo",
-    "subtitle": "mod by Moe",
+    "subtitle": "builds by Moe",
     "description": "This repo is for Instagram Theta only. It is compatible with SideStore, AltStore and most other sideloading apps.\n\nLearn more: - https://t.me/+rvcObIvOpctiMDI9\n\nApps might download as '.zip' just change the extension back to '.ipa' .\n\nKofi - https://ko-fi.com/driftywinds\nLiberapay - https://liberapay.com/driftywinds/donate\nPatreon - https://www.patreon.com/bePatron?u=67102544",
     "iconURL": "https://i.postimg.cc/Kcdr62dc/dp-rounded.png",
     "sourceURL": "https://driftywinds.github.io/AltStore/theta.json",
@@ -71,12 +71,12 @@
     "news": [
         {
             "appID": "com.burbn.instagram",
-            "caption": "Theta updated to 396.0.0",
-            "date": "2025-09-08",
+            "caption": "Theta updated to 397.0.0",
+            "date": "2025-09-10",
             "identifier": "new-update",
             "notify": true,
             "tintColor": "C13584",
-            "title": "Theta Latest - 8th September 2025"
+            "title": "Theta Latest - 10th September 2025"
         }
     ],
     "userInfo": {}
