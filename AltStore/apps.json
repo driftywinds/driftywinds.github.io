@@ -10,7 +10,7 @@
             "contact": {
                 "web": "https://github.com/driftywinds/"
             },
-            "downloadURL": "https://files.catbox.moe/bka7pg.ipa",
+            "downloadURL": "https://files.catbox.moe/oz0u11.ipa",
             "iconURL": "https://raw.githubusercontent.com/YTLitePlus/YTLitePlus-Altstore/main/Youtube_logo-512.png",
             "localizedDescription": "Use v20.10.4 if you want to use cast, from here -\n\nhttps://t.me/+rvcObIvOpctiMDI9\n\nA modified version of Youtube supercharged with YTLite (by @dayanch96)",
             "name": "YTLite + Tweaks (driftywinds)",
@@ -22,9 +22,9 @@
             "size": 130097628,
             "subtitle": "A flexible enhancer for YouTube on iOS | If you want to donate: - https://ko-fi.com/driftywinds",
             "tintColor": "e22a41",
-            "version": "20.36.3",
-            "versionDate": "2025-09-09",
-            "versionDescription": "• Updated YouTube to 20.36.3 (latest commits)\n • Tweak is using 5.2b3",
+            "version": "20.37.3",
+            "versionDate": "2025-09-16",
+            "versionDescription": "• Updated YouTube to 20.37.3 (latest commits)\n • Tweak is using 5.2b3",
             "appPermissions": {
                 "entitlements": [
                     "com.apple.developer.siri"
@@ -80,7 +80,7 @@
             "beta": false,
             "bundleIdentifier": "com.burbn.instagram",
             "developerName": "Moe",
-            "downloadURL": "https://files.drifty.win/Instagram/397.0.0_Multi2.7.5MoeV2.ipa",
+            "downloadURL": "https://files.drifty.win/Instagram/398.0.0_Multi2.8.0.ipa",
             "iconURL": "https://raw.githubusercontent.com/qnblackcat/AltStore/main/ScreenShot/800px-Instagram_logo_2016.svg.png",
             "localizedDescription": "⚙ To open Multi Menu hold reel button or hamburger menu button in profile section or username in profile section or press screen with 4 fingers.\n\nYou can find my repo for Instagram Nyx here - https://003274.xyz/nyx\n\nand Instagram Theta here - https://003274.xyz/theta\n\nJoin https://t.me/+rvcObIvOpctiMDI9 for more.",
             "name": "Instagram (InstaMulti)",
@@ -93,9 +93,9 @@
             "size": 91750400,
             "subtitle": "Mod by ethMods | If you want to donate: - https://ko-fi.com/driftywinds",
             "tintColor": "C13584",
-            "version": "397.0.0",
-            "versionDate": "2025-09-10",
-            "versionDescription": "⚙ Hold down reels button to open menu\n\nUpdated to v397.0.0",
+            "version": "398.0.0",
+            "versionDate": "2025-09-16",
+            "versionDescription": "⚙ Hold down reels button to open menu\n\nUpdated to v398.0.0",
             "appPermissions": {
                 "entitlements": [
                     "com.apple.developer.associated-appclip-app-identifiers",
@@ -139,16 +139,16 @@
         {
             "beta": false,
             "bundleIdentifier": "com.atebits.Tweetie2",
-            "developerName": "RiseBlox",
-            "downloadURL": "https://github.com/RiseBlox/BHX/releases/download/v4.4_11.20.1/BHX-sideloaded_4.4_11.20.1.ipa",
+            "developerName": "baterblx",
+            "downloadURL": "https://github.com/baterblx/BHX/releases/download/v4.4_11.22/BHX-sideloaded_4.4_11.22.ipa",
             "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.atebits.Tweetie2.png",
             "localizedDescription": "Join https://t.me/+rvcObIvOpctiMDI9 for more.\nA fork of the best tweak for Twitter",
             "name": "Twitter BHX",
             "size": 161029014,
             "subtitle": "Awesome tweak for X | If you want to donate: - https://ko-fi.com/driftywinds",
             "tintColor": "1DA1F2",
-            "version": "11.20.1",
-            "versionDate": "2025-09-09",
+            "version": "11.22",
+            "versionDate": "2025-09-15",
             "versionDescription": "- Various bug fixes.\n- More Releases = https://releases.drifty.win/?username=riseblox&repository=BHX"
         },
         {
@@ -267,21 +267,21 @@
     "news": [
         {
             "appID": "com.google.ios.youtube",
-            "caption": "YTLite updated to 20.36.3",
-            "date": "2025-09-09",
+            "caption": "YTLite updated to 20.37.3",
+            "date": "2025-09-16",
             "identifier": "new-update",
             "notify": true,
             "tintColor": "e22a41",
-            "title": "YTLite v5.2b3 + Tweaks - 9th September 2025"
+            "title": "YTLite v5.2b3 + Tweaks - 16th September 2025"
         },
         {
             "appID": "com.burbn.instagram",
-            "caption": "InstaMulti updated to 397.0.0",
-            "date": "2025-09-10",
+            "caption": "InstaMulti updated to 398.0.0",
+            "date": "2025-09-16",
             "identifier": "new-update",
             "notify": true,
             "tintColor": "C13584",
-            "title": "InstaMulti Latest - 10th Septemeber 2025"
+            "title": "InstaMulti Latest - 16th Septemeber 2025"
         },
         {
             "appID": "com.spotify.client",
