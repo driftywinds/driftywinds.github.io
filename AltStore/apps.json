@@ -80,7 +80,7 @@
             "beta": false,
             "bundleIdentifier": "com.burbn.instagram",
             "developerName": "Moe",
-            "downloadURL": "https://files.drifty.win/Instagram/400.0.0_Multi2.9.0.ipa",
+            "downloadURL": "https://files.drifty.win/Instagram/400.1.0_Multi3.1.0.ipa",
             "iconURL": "https://raw.githubusercontent.com/qnblackcat/AltStore/main/ScreenShot/800px-Instagram_logo_2016.svg.png",
             "localizedDescription": "⚙ To open Multi Menu hold reel button or hamburger menu button in profile section or username in profile section or press screen with 4 fingers.\n\nYou can find my repo for Instagram Nyx here - https://003274.xyz/nyx\n\nand Instagram Theta here - https://003274.xyz/theta\n\nJoin https://t.me/+rvcObIvOpctiMDI9 for more.",
             "name": "Instagram (InstaMulti)",
@@ -93,9 +93,9 @@
             "size": 91750400,
             "subtitle": "Mod by Moe | If you want to donate: - https://ko-fi.com/driftywinds",
             "tintColor": "C13584",
-            "version": "400.0.0",
-            "versionDate": "2025-10-01",
-            "versionDescription": "⚙ Hold down reels button to open menu\n\nUpdated to v400.0.0",
+            "version": "400.1.0",
+            "versionDate": "2025-10-07",
+            "versionDescription": "Do not sign with esign, use feather or smn | ⚙ Hold down reels button to open menu\n\nUpdated to v400.1.0",
             "appPermissions": {
                 "entitlements": [
                     "com.apple.developer.associated-appclip-app-identifiers",
@@ -276,12 +276,12 @@
         },
         {
             "appID": "com.burbn.instagram",
-            "caption": "InstaMulti updated to 400.0.0",
-            "date": "2025-10-01",
+            "caption": "InstaMulti updated to 400.1.0",
+            "date": "2025-10-07",
             "identifier": "new-update",
             "notify": true,
             "tintColor": "C13584",
-            "title": "InstaMulti Latest - 1st October 2025"
+            "title": "InstaMulti Latest - 7th October 2025"
         },
         {
             "appID": "com.spotify.client",
