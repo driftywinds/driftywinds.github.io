@@ -10,7 +10,7 @@
             "contact": {
                 "web": "https://github.com/driftywinds/"
             },
-            "downloadURL": "https://files.catbox.moe/cceisq.ipa",
+            "downloadURL": "https://files.catbox.moe/d94rro.ipa",
             "iconURL": "https://raw.githubusercontent.com/YTLitePlus/YTLitePlus-Altstore/main/Youtube_logo-512.png",
             "localizedDescription": "Use v20.10.4 if you want to use cast, from here -\n\nhttps://t.me/+rvcObIvOpctiMDI9\n\nA modified version of Youtube supercharged with YTLite (by @dayanch96)",
             "name": "YTLite + Tweaks (driftywinds)",
@@ -22,9 +22,9 @@
             "size": 130097628,
             "subtitle": "A flexible enhancer for YouTube on iOS | If you want to donate: - https://ko-fi.com/driftywinds",
             "tintColor": "e22a41",
-            "version": "20.45.3",
-            "versionDate": "2025-11-10",
-            "versionDescription": "• Updated YouTube to 20.45.3 (latest commits)\n • Tweak is using 5.2b4",
+            "version": "20.46.2",
+            "versionDate": "2025-11-18",
+            "versionDescription": "• Updated YouTube to 20.46.2 (latest commits)\n • Tweak is using 5.2b4",
             "appPermissions": {
                 "entitlements": [
                     "com.apple.developer.siri"
@@ -80,7 +80,7 @@
             "beta": false,
             "bundleIdentifier": "com.burbn.instagram",
             "developerName": "Moe",
-            "downloadURL": "https://files.drifty.win/Instagram/405.1.0_Multi3.4.5V3.ipa",
+            "downloadURL": "https://files.drifty.win/Instagram/407.0.0_Multi5.0NOZ.ipa",
             "iconURL": "https://raw.githubusercontent.com/qnblackcat/AltStore/main/ScreenShot/800px-Instagram_logo_2016.svg.png",
             "localizedDescription": "⚙ To open Multi Menu hold reel button or hamburger menu button in profile section or username in profile section or press screen with 4 fingers.\n\nYou can find my repo for Instagram Nyx here - https://003274.xyz/nyx\n\nand Instagram Theta here - https://003274.xyz/theta\n\nJoin https://t.me/+rvcObIvOpctiMDI9 for more.",
             "name": "Instagram (InstaMulti)",
@@ -93,8 +93,8 @@
             "size": 91750400,
             "subtitle": "Mod by Moe | If you want to donate: - https://ko-fi.com/driftywinds",
             "tintColor": "C13584",
-            "version": "405.1.0",
-            "versionDate": "2025-11-10",
+            "version": "407.0.0",
+            "versionDate": "2025-11-18",
             "versionDescription": "Do not sign with esign, use feather or smn | ⚙ Hold down reels button to open menu\n\nUpdated to v400.1.0",
             "appPermissions": {
                 "entitlements": [
@@ -267,21 +267,21 @@
     "news": [
         {
             "appID": "com.google.ios.youtube",
-            "caption": "YTLite updated to 20.45.3",
-            "date": "2025-11-10",
+            "caption": "YTLite updated to 20.46.2",
+            "date": "2025-11-18",
             "identifier": "new-update",
             "notify": true,
             "tintColor": "e22a41",
-            "title": "YTLite v5.2b4 + Tweaks - 10th November 2025"
+            "title": "YTLite v5.2b4 + Tweaks - 18th November 2025"
         },
         {
             "appID": "com.burbn.instagram",
-            "caption": "InstaMulti updated to 405.1.0",
-            "date": "2025-11-10",
+            "caption": "InstaMulti updated to 407.0.0",
+            "date": "2025-11-18",
             "identifier": "new-update",
             "notify": true,
             "tintColor": "C13584",
-            "title": "InstaMulti Latest - 10th November 2025"
+            "title": "InstaMulti Latest - 18th November 2025"
         },
         {
             "appID": "com.spotify.client",
