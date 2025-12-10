@@ -140,15 +140,15 @@
             "beta": false,
             "bundleIdentifier": "com.atebits.Tweetie2",
             "developerName": "baterblx",
-            "downloadURL": "https://github.com/driftywinds/BHX/releases/download/v11.46/BHTwitter-sideloaded_4.4_11.46.ipa",
+            "downloadURL": "https://github.com/driftywinds/BHX/releases/download/v11.47/BHTwitter-sideloaded_4.4_11.47.ipa",
             "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.atebits.Tweetie2.png",
             "localizedDescription": "Join https://t.me/+rvcObIvOpctiMDI9 for more.\nA fork of the best tweak for Twitter",
             "name": "Twitter BHX",
             "size": 161029014,
             "subtitle": "Awesome tweak for X | If you want to donate: - https://ko-fi.com/driftywinds",
             "tintColor": "1DA1F2",
-            "version": "11.46",
-            "versionDate": "2025-12-07",
+            "version": "11.47",
+            "versionDate": "2025-12-10",
             "versionDescription": "- Various bug fixes.\n- More Releases = https://releases.drifty.win/?username=driftywinds&repository=BHX"
         },
         {
