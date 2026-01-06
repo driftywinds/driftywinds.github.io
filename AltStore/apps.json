@@ -95,7 +95,7 @@
             "tintColor": "C13584",
             "version": "411.0.0",
             "versionDate": "2026-01-06",
-            "versionDescription": "Do not sign with esign, use feather or smn | ⚙ Hold down reels button to open menu\n\nUpdated to v410.0.0",
+            "versionDescription": "Do not sign with esign, use feather or smn | ⚙ Hold down reels button to open menu\n\nUpdated to v411.0.0",
             "appPermissions": {
                 "entitlements": [
                     "com.apple.developer.associated-appclip-app-identifiers",
@@ -281,7 +281,7 @@
             "identifier": "new-update",
             "notify": true,
             "tintColor": "C13584",
-            "title": "InstaMulti Latest - 6th January 2025"
+            "title": "InstaMulti Latest - 6th January 2026"
         },
         {
             "appID": "com.spotify.client",
