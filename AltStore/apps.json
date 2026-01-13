@@ -10,7 +10,7 @@
             "contact": {
                 "web": "https://github.com/driftywinds/"
             },
-            "downloadURL": "https://github.com/ramramzz/descfsr/releases/download/v0.3/vKO0F+JVrjZ4sWYD5N+lDb+hDK+VHqIwS7ijlg2ZawUpGCWfcITnvm4DPmJdnjpS.ipa",
+            "downloadURL": "https://github.com/ramramzz/descfsr/releases/download/v0.4/ws9rhckyc5ETpjUn9scnGT7ZtSwzbJKuV4sJRCtcyg9NsJdKui4+rXcuOMJ7pKzg.ipa",
             "iconURL": "https://raw.githubusercontent.com/YTLitePlus/YTLitePlus-Altstore/main/Youtube_logo-512.png",
             "localizedDescription": "Use v20.10.4 if you want to use cast, from here -\n\nhttps://t.me/+rvcObIvOpctiMDI9\n\nA modified version of Youtube supercharged with YTLite (by @dayanch96)",
             "name": "YTLite + Tweaks (driftywinds)",
@@ -22,9 +22,9 @@
             "size": 130097628,
             "subtitle": "A flexible enhancer for YouTube on iOS | If you want to donate: - https://ko-fi.com/driftywinds",
             "tintColor": "e22a41",
-            "version": "20.50.10",
-            "versionDate": "2026-01-07",
-            "versionDescription": "• Updated YouTube to 20.50.10 (latest commits)\n • Tweak is using 5.2b4",
+            "version": "21.02.3",
+            "versionDate": "2026-01-13",
+            "versionDescription": "• Updated YouTube to 21.02.3 (latest commits)\n • Tweak is using 5.2b4",
             "appPermissions": {
                 "entitlements": [
                     "com.apple.developer.siri"
@@ -267,12 +267,12 @@
     "news": [
         {
             "appID": "com.google.ios.youtube",
-            "caption": "YTLite updated to 20.50.10",
-            "date": "2026-01-07",
+            "caption": "YTLite updated to 21.02.3",
+            "date": "2026-01-13",
             "identifier": "new-update",
             "notify": true,
             "tintColor": "e22a41",
-            "title": "YTLite v5.2b4 + Tweaks - 7th January 2026"
+            "title": "YTLite v5.2b4 + Tweaks - 13th January 2026"
         },
         {
             "appID": "com.burbn.instagram",
