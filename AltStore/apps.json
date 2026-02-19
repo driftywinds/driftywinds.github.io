@@ -80,7 +80,7 @@
             "beta": false,
             "bundleIdentifier": "com.burbn.instagram",
             "developerName": "Moe",
-            "downloadURL": "https://github.com/ramramzz/descfsr/releases/download/v0.5/7aaff577-3525-4891-a791-03fc536e72cM.ipa",
+            "downloadURL": "https://github.com/ramramzz/descfsr/releases/download/v0.6/b2a91f14-359d-4015-9aeb-0effb5fd856M.ipa",
             "iconURL": "https://raw.githubusercontent.com/qnblackcat/AltStore/main/ScreenShot/800px-Instagram_logo_2016.svg.png",
             "localizedDescription": "⚙ To open Multi Menu hold reel button or hamburger menu button in profile section or username in profile section or press screen with 4 fingers.\n\nYou can find my repo for Instagram Nyx here - https://003274.xyz/nyx\n\nand Instagram Theta here - https://003274.xyz/theta\n\nJoin https://t.me/+rvcObIvOpctiMDI9 for more.",
             "name": "Instagram (InstaMulti)",
@@ -93,8 +93,8 @@
             "size": 91750400,
             "subtitle": "Mod by Moe | If you want to donate: - https://ko-fi.com/driftywinds",
             "tintColor": "C13584",
-            "version": "414.0.0",
-            "versionDate": "2026-01-30",
+            "version": "417.1.0",
+            "versionDate": "2026-02-26",
             "versionDescription": "Do not sign with esign, use feather or smn | ⚙ Hold down reels button to open menu\n\nUpdated to v411.0.0",
             "appPermissions": {
                 "entitlements": [
@@ -276,12 +276,12 @@
         },
         {
             "appID": "com.burbn.instagram",
-            "caption": "InstaMulti updated to 414.0.0",
-            "date": "2026-01-30",
+            "caption": "InstaMulti updated to 417.1.0",
+            "date": "2026-02-26",
             "identifier": "new-update",
             "notify": true,
             "tintColor": "C13584",
-            "title": "InstaMulti Latest - 30th January 2026"
+            "title": "InstaMulti Latest - 26th February 2026"
         },
         {
             "appID": "com.spotify.client",
