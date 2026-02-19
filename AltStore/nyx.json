@@ -4,7 +4,7 @@
             "beta": false,
             "bundleIdentifier": "com.burbn.instagram",
             "developerName": "Moe",
-            "downloadURL": "https://github.com/ramramzz/descfsr/releases/download/v0.5/19db7aee-035f-4223-bf70-086c7471204N.ipa",
+            "downloadURL": "https://github.com/ramramzz/descfsr/releases/download/v0.6/547a7704-d0d9-4476-bb6b-f581acd07a1N.ipa",
             "iconURL": "https://raw.githubusercontent.com/qnblackcat/AltStore/main/ScreenShot/800px-Instagram_logo_2016.svg.png",
             "localizedDescription": "⚙ Settings Location: Home tab, Instagram Settings | Moe's builds - https://moe.mohkg1017.pro/ | If you want to donate to me: - https://ko-fi.com/driftywinds\n\nJoin https://t.me/+rvcObIvOpctiMDI9 for more.",
             "name": "Instagram (Nyx)",
@@ -17,9 +17,9 @@
             "size": 91750400,
             "subtitle": "⚙ Settings Location: Home tab, Instagram Settings | If you want to donate: - https://ko-fi.com/driftywinds",
             "tintColor": "C13584",
-            "version": "414.0.0",
-            "versionDate": "2026-01-30",
-            "versionDescription": "Nyx\n\nUpdated to v414.0.0",
+            "version": "417.1.0",
+            "versionDate": "2026-02-26",
+            "versionDescription": "Nyx\n\nUpdated to v417.1.0",
             "appPermissions": {
                 "entitlements": [
                     "com.apple.developer.associated-appclip-app-identifiers",
@@ -71,12 +71,12 @@
     "news": [
         {
             "appID": "com.burbn.instagram",
-            "caption": "Nyx updated to 414.0.0",
-            "date": "2026-01-30",
+            "caption": "Nyx updated to 417.1.0",
+            "date": "2026-02-26",
             "identifier": "new-update",
             "notify": true,
             "tintColor": "C13584",
-            "title": "Nyx Latest - 30th January 2026"
+            "title": "Nyx Latest - 26th February 2026"
         }
     ],
     "userInfo": {}
