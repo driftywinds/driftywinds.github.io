@@ -189,9 +189,9 @@
             "size": 4550400,
             "subtitle": "No ads. Cool tweaks. Requires iOS 15 and later. | If you want to donate: - https://ko-fi.com/driftywinds",
             "tintColor": "c3352e",
-            "version": "9.11",
+            "version": "9.11.2",
             "versionDate": "2026-03-18",
-            "versionDescription": "- updated youtube music (https://apps.apple.com/app/id1017492454) to v9.11"
+            "versionDescription": "- updated youtube music (https://apps.apple.com/app/id1017492454) to v9.11.2"
         },
         {
             "beta": false,
@@ -321,7 +321,7 @@
         },
         {
             "appID": "com.google.ios.youtubemusic",
-            "caption": "YT Music Ultimate updated to 9.11",
+            "caption": "YT Music Ultimate updated to 9.11.2",
             "date": "2026-03-18",
             "identifier": "new-update",
             "notify": true,
