@@ -38,7 +38,7 @@
             "beta": false,
             "bundleIdentifier": "com.spotify.client",
             "developerName": "Meeep1",
-            "downloadURL": "https://github.com/ramramzz/descfsr/releases/download/v0.12/58a12a86-a86f-4be8-9ccf-a9f313912cS2.ipa",
+            "downloadURL": "https://github.com/ramramzz/descfsr/releases/download/v0.13/e7475d31-b1d5-4e75-b66d-cbdec51d613S.ipa",
             "iconURL": "https://i.ibb.co/VQBGrY2/spotify-music-2015-07-30.jpg",
             "localizedDescription": "Join https://t.me/+rvcObIvOpctiMDI9 for more.\nOne of the most popular music streaming services!\nhttps://github.com/whoeevee/EeveeSpotify for more information",
             "name": "Spotify (EeveeSpotifyRevived)",
@@ -52,7 +52,7 @@
             "subtitle": "Spotify with free premium, and extra UI features | If you want to donate: - https://ko-fi.com/driftywinds",
             "tintColor": "1DB954",
             "version": "9.1.32",
-            "versionDate": "2026-03-28",
+            "versionDate": "2026-04-03",
             "versionDescription": "This tweak makes Spotify think you have a Premium subscription, granting free listening, just like Spotilife, and provides some additional features like custom lyrics.\n\n\nEveeSpotify replaces Spotify monthly limited lyrics with one of the following three lyrics providers: \n\n- Genius: Offers the best quality lyrics, provides the most songs, and updates lyrics the fastest. Does not and will never be time-synced.\n\n- LRCLIB: The most open service, offering time-synced lyrics. However, it lacks lyrics for many songs.\n\n- Musixmatch: The service Spotify uses. Provides time-synced lyrics for many songs, but you'll need a user token to use this source. To obtain the token, download Musixmatch from the App Store, sign up, then go to Settings > Get help > Copy debug info, and paste it into EeveeSpotify alert. You can also extract the token using MITM.\n\n- If the tweak is unable to find a song or process the lyrics, you'll see a 'Couldn't load the lyrics for this song' message. The lyrics might be wrong for some songs when using Genius due to how the tweak searches songs. While I've made it work in most cases, kindly refrain from opening issues about it.\n\n\nPlease refrain from opening issues about the following features, as they are server-sided and will NEVER work: \n\n- Very High audio quality\n\n- Native playlist downloading (you can download podcast episodes though)\n\n- Jam (hosting a Spotify Jam and joining it remotely requires Premium; only joining in-person works)\n\n- It's possible to implement downloading locally, but it will never be included in EeveeSpotify (unless someone opens a pull request).\n\n\nAll other information: - https://github.com/whoeevee/EeveeSpotify"
         },
         {
@@ -286,11 +286,11 @@
         {
             "appID": "com.spotify.client",
             "caption": "EeveeSpotify updated to 9.1.32",
-            "date": "2026-03-28",
+            "date": "2026-04-03",
             "identifier": "new-update",
             "notify": true,
             "tintColor": "1DB954",
-            "title": "EeveeSpotifyRevived Latest - 28th March 2026"
+            "title": "EeveeSpotifyRevived Latest - 3rd April 2026"
         },
         {
             "appID": "com.mojang.minecraftpe",
