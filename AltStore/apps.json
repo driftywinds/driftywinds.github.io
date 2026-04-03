@@ -38,7 +38,7 @@
             "beta": false,
             "bundleIdentifier": "com.spotify.client",
             "developerName": "Meeep1",
-            "downloadURL": "https://github.com/ramramzz/descfsr/releases/download/v0.13/e7475d31-b1d5-4e75-b66d-cbdec51d613S.ipa",
+            "downloadURL": "https://github.com/ramramzz/descfsr/releases/download/v0.13/b9be1880-e9d9-4bf2-9493-28ddbe03a8S2.ipa",
             "iconURL": "https://i.ibb.co/VQBGrY2/spotify-music-2015-07-30.jpg",
             "localizedDescription": "Join https://t.me/+rvcObIvOpctiMDI9 for more.\nOne of the most popular music streaming services!\nhttps://github.com/whoeevee/EeveeSpotify for more information",
             "name": "Spotify (EeveeSpotifyRevived)",
@@ -80,7 +80,7 @@
             "beta": false,
             "bundleIdentifier": "com.burbn.instagram",
             "developerName": "Moe",
-            "downloadURL": "https://github.com/ramramzz/descfsr/releases/download/v0.10/45d315ce-03e4-4bd6-8c86-7a169546963M.ipa",
+            "downloadURL": "https://github.com/ramramzz/descfsr/releases/download/v0.13/0ad3d90d-3958-4a20-b55c-cb80b368a57M.ipa",
             "iconURL": "https://raw.githubusercontent.com/qnblackcat/AltStore/main/ScreenShot/800px-Instagram_logo_2016.svg.png",
             "localizedDescription": "⚙ To open Multi Menu hold reel button or hamburger menu button in profile section or username in profile section or press screen with 4 fingers.\n\nYou can find my repo for Instagram Nyx here - https://003274.xyz/nyx\n\nand Instagram Theta here - https://003274.xyz/theta\n\nJoin https://t.me/+rvcObIvOpctiMDI9 for more.",
             "name": "Instagram (InstaMulti)",
@@ -93,8 +93,8 @@
             "size": 91750400,
             "subtitle": "Mod by Moe | If you want to donate: - https://ko-fi.com/driftywinds",
             "tintColor": "C13584",
-            "version": "420.0.0",
-            "versionDate": "2026-03-14",
+            "version": "423.0.0",
+            "versionDate": "2026-04-03",
             "versionDescription": "Do not sign with esign, use feather or smn | ⚙ Hold down reels button to open menu\n\nUpdated to v411.0.0",
             "appPermissions": {
                 "entitlements": [
@@ -276,12 +276,12 @@
         },
         {
             "appID": "com.burbn.instagram",
-            "caption": "InstaMulti updated to 420.0.0",
-            "date": "2026-03-14",
+            "caption": "InstaMulti updated to 423.0.0",
+            "date": "2026-04-03",
             "identifier": "new-update",
             "notify": true,
             "tintColor": "C13584",
-            "title": "InstaMulti Latest - 14th March 2026"
+            "title": "InstaMulti Latest - 3rd April 2026"
         },
         {
             "appID": "com.spotify.client",
