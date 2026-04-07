@@ -10,7 +10,7 @@
             "contact": {
                 "web": "https://github.com/driftywinds/"
             },
-            "downloadURL": "https://github.com/ramramzz/descfsr/releases/download/v0.14/d78c3665-8308-4d67-94dc-438eb302c134.ipa",
+            "downloadURL": "https://github.com/ramramzz/descfsr/releases/download/v0.13/f41c77b8-36d6-4a41-8ad2-824f5118bc44.ipa",
             "iconURL": "https://raw.githubusercontent.com/YTLitePlus/YTLitePlus-Altstore/main/Youtube_logo-512.png",
             "localizedDescription": "Use v20.10.4 if you want to use cast, from here -\n\nhttps://t.me/+rvcObIvOpctiMDI9\n\nA modified version of Youtube supercharged with YTLite (by @dayanch96)",
             "name": "YTLite + Tweaks (driftywinds)",
@@ -22,9 +22,9 @@
             "size": 130097628,
             "subtitle": "A flexible enhancer for YouTube on iOS | If you want to donate: - https://ko-fi.com/driftywinds",
             "tintColor": "e22a41",
-            "version": "21.14.4",
-            "versionDate": "2026-04-07",
-            "versionDescription": "• Updated YouTube to 21.14.4 (latest commits)\n • Tweak is using 5.2b4",
+            "version": "21.13.6",
+            "versionDate": "2026-03-30",
+            "versionDescription": "• Updated YouTube to 21.13.6 (latest commits)\n • Tweak is using 5.2b4",
             "appPermissions": {
                 "entitlements": [
                     "com.apple.developer.siri"
@@ -267,12 +267,12 @@
     "news": [
         {
             "appID": "com.google.ios.youtube",
-            "caption": "YTLite updated to 21.14.4",
-            "date": "2026-04-07",
+            "caption": "YTLite updated to 21.13.6",
+            "date": "2026-03-30",
             "identifier": "new-update",
             "notify": true,
             "tintColor": "e22a41",
-            "title": "YTLite v5.2b4 + Tweaks - 7th April 2026"
+            "title": "YTLite v5.2b4 + Tweaks - 30th March 2026"
         },
         {
             "appID": "com.burbn.instagram",
