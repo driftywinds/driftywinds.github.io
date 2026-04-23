@@ -79,11 +79,11 @@
         {
             "beta": false,
             "bundleIdentifier": "com.burbn.instagram",
-            "developerName": "Moe",
-            "downloadURL": "https://github.com/ramramzz/descfsr/releases/download/v0.13/0ad3d90d-3958-4a20-b55c-cb80b368a57M.ipa",
+            "developerName": "Ryuk",
+            "downloadURL": "https://github.com/ramramzz/descfsr/releases/download/v0.14/d485d87d-89cf-4549-8c34-ae9ec607778R.ipa",
             "iconURL": "https://raw.githubusercontent.com/qnblackcat/AltStore/main/ScreenShot/800px-Instagram_logo_2016.svg.png",
-            "localizedDescription": "⚙ To open Multi Menu hold reel button or hamburger menu button in profile section or username in profile section or press screen with 4 fingers.\n\nYou can find my repo for Instagram Nyx here - https://003274.xyz/nyx\n\nand Instagram Theta here - https://003274.xyz/theta\n\nJoin https://t.me/+rvcObIvOpctiMDI9 for more.",
-            "name": "Instagram (InstaMulti)",
+            "localizedDescription": "Just look up information for SCInsta if you're confused about usage",
+            "name": "Instagram (RyukGram)",
             "screenshotURLs": [
                 "https://apt.alfhaily.me/cdn/assets/rocket-screenshot1.jpg",
                 "https://apt.alfhaily.me/cdn/assets/rocket-screenshot2.jpg",
@@ -91,11 +91,11 @@
                 "https://apt.alfhaily.me/cdn/assets/rocket-screenshot4.jpg"
             ],
             "size": 91750400,
-            "subtitle": "Mod by Moe | If you want to donate: - https://ko-fi.com/driftywinds",
+            "subtitle": "Additional features and fixes by Ryuk based on SCInsta | If you want to donate: - https://ko-fi.com/driftywinds",
             "tintColor": "C13584",
-            "version": "423.0.0",
-            "versionDate": "2026-04-03",
-            "versionDescription": "Do not sign with esign, use feather or smn | ⚙ Hold down reels button to open menu\n\nUpdated to v411.0.0",
+            "version": "426.0.0",
+            "versionDate": "2026-04-23",
+            "versionDescription": "Updated to v426.0.0",
             "appPermissions": {
                 "entitlements": [
                     "com.apple.developer.associated-appclip-app-identifiers",
@@ -276,12 +276,12 @@
         },
         {
             "appID": "com.burbn.instagram",
-            "caption": "InstaMulti updated to 423.0.0",
-            "date": "2026-04-03",
+            "caption": "RyukGram updated to 426.0.0",
+            "date": "2026-04-23",
             "identifier": "new-update",
             "notify": true,
             "tintColor": "C13584",
-            "title": "InstaMulti Latest - 3rd April 2026"
+            "title": "RyukGram Latest - 23rd April 2026"
         },
         {
             "appID": "com.spotify.client",
