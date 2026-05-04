@@ -176,7 +176,7 @@
             "beta": false,
             "bundleIdentifier": "com.google.ios.youtubemusic",
             "developerName": "Ginsu / dayanch96",
-            "downloadURL": "https://github.com/ramramzz/descfsr/releases/download/v0.11/233ccd03-212c-4c15-a8b6-0eda74bc6bTM.ipa",
+            "downloadURL": "https://github.com/ramramzz/descfsr/releases/download/v0.16/4fa19fd1-8559-4e2d-ac21-82eea5eebcTM.ipa",
             "iconURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Youtube_Music_icon.svg/2048px-Youtube_Music_icon.svg.png",
             "localizedDescription": "Join https://t.me/+rvcObIvOpctiMDI9 for more.\nYT Music Ultimate patched for iOS 15+",
             "name": "YT Music Ultimate",
@@ -189,9 +189,9 @@
             "size": 4550400,
             "subtitle": "No ads. Cool tweaks. Requires iOS 15 and later. | If you want to donate: - https://ko-fi.com/driftywinds",
             "tintColor": "c3352e",
-            "version": "9.11.2",
-            "versionDate": "2026-03-18",
-            "versionDescription": "- updated youtube music (https://apps.apple.com/app/id1017492454) to v9.11.2"
+            "version": "9.17",
+            "versionDate": "2026-05-04",
+            "versionDescription": "- updated youtube music (https://apps.apple.com/app/id1017492454) to v9.17"
         },
         {
             "beta": false,
@@ -321,12 +321,12 @@
         },
         {
             "appID": "com.google.ios.youtubemusic",
-            "caption": "YT Music Ultimate updated to 9.11.2",
-            "date": "2026-03-18",
+            "caption": "YT Music Ultimate updated to 9.17",
+            "date": "2026-05-04",
             "identifier": "new-update",
             "notify": true,
             "tintColor": "c3352e",
-            "title": "YTM Ultimate Latest - 18th March 2026"
+            "title": "YTM Ultimate Latest - 4th May 2026"
         }
     ],
     "userInfo": {}
