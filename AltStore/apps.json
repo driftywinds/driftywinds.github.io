@@ -10,9 +10,9 @@
             "contact": {
                 "web": "https://github.com/driftywinds/"
             },
-            "downloadURL": "https://github.com/ramramzz/descfsr/releases/download/v0.17/e7159399-754b-42c4-8683-b825270c10eY.ipa",
+            "downloadURL": "https://github.com/ramramzz/descfsr/releases/download/v0.18/844b18eb-2c1f-4d18-a584-775a7a4803bY.ipa",
             "iconURL": "https://raw.githubusercontent.com/YTLitePlus/YTLitePlus-Altstore/main/Youtube_logo-512.png",
-            "localizedDescription": "Use v20.10.4 if you want to use cast, from here -\n\nhttps://t.me/+rvcObIvOpctiMDI9\n\nA modified version of Youtube supercharged with YTLite (by @dayanch96)",
+            "localizedDescription": "https://t.me/+rvcObIvOpctiMDI9\n\nA modified version of Youtube supercharged with YTLite (by @dayanch96)",
             "name": "YTLite + Tweaks (driftywinds)",
             "screenshotURLs": [
                 "https://raw.githubusercontent.com/dayanch96/YTLite/refs/heads/main/Resources/scr1.jpg",
@@ -22,9 +22,9 @@
             "size": 130097628,
             "subtitle": "A flexible enhancer for YouTube on iOS | If you want to donate: - https://ko-fi.com/driftywinds",
             "tintColor": "e22a41",
-            "version": "21.19.2",
-            "versionDate": "2026-05-11",
-            "versionDescription": "• Updated YouTube to 21.19.2 (latest commits)\n • Tweak is using 5.2 (cracked)",
+            "version": "21.20.4",
+            "versionDate": "2026-05-18",
+            "versionDescription": "• Updated YouTube to 21.20.4 (latest commits)\n • Tweak is using 5.2 (cracked)",
             "appPermissions": {
                 "entitlements": [
                     "com.apple.developer.siri"
@@ -267,12 +267,12 @@
     "news": [
         {
             "appID": "com.google.ios.youtube",
-            "caption": "YTLite updated to 21.19.2",
-            "date": "2026-05-11",
+            "caption": "YTLite updated to 21.20.4",
+            "date": "2026-05-18",
             "identifier": "new-update",
             "notify": true,
             "tintColor": "e22a41",
-            "title": "YTLite v5.2 + Tweaks - 11th May 2026"
+            "title": "YTLite v5.2 + Tweaks - 18th May 2026"
         },
         {
             "appID": "com.burbn.instagram",
