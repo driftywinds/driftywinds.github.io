@@ -3,17 +3,17 @@
         {
             "beta": false,
             "bundleIdentifier": "com.google.ios.youtube",
-            "developerName": "dayanch96",
+            "developerName": "Tonwalter888",
             "META": {
                 "repoName": "driftywinds' AltStore Repo"
             },
             "contact": {
                 "web": "https://github.com/driftywinds/"
             },
-            "downloadURL": "https://github.com/ramramzz/descfsr/releases/download/v0.27/41cf3150-230b-4c24-ad74-9005a8404c5Y.ipa",
+            "downloadURL": "https://github.com/ramramzz/descfsr/releases/download/v0.28/9f713471-7f47-4029-8e41-e3cac4003bYM.ipa",
             "iconURL": "https://raw.githubusercontent.com/YTLitePlus/YTLitePlus-Altstore/main/Youtube_logo-512.png",
-            "localizedDescription": "https://t.me/+rvcObIvOpctiMDI9\n\nA modified version of Youtube supercharged with YTLite (by @dayanch96)",
-            "name": "YTLite + Tweaks (driftywinds)",
+            "localizedDescription": "https://t.me/+rvcObIvOpctiMDI9\n\nA modified version of Youtube",
+            "name": "YouMod + Tweaks (driftywinds)",
             "screenshotURLs": [
                 "https://raw.githubusercontent.com/dayanch96/YTLite/refs/heads/main/Resources/scr1.jpg",
                 "https://raw.githubusercontent.com/dayanch96/YTLite/refs/heads/main/Resources/scr2.jpg",
@@ -22,9 +22,9 @@
             "size": 130097628,
             "subtitle": "A flexible enhancer for YouTube on iOS | If you want to donate: - https://ko-fi.com/driftywinds",
             "tintColor": "e22a41",
-            "version": "21.33.5",
-            "versionDate": "2026-08-20",
-            "versionDescription": "• Updated YouTube to 21.33.5 (latest commits)\n • Tweak is using 5.2.2 (cracked)",
+            "version": "21.33.6",
+            "versionDate": "2026-08-24",
+            "versionDescription": "• Updated YouTube to 21.33.6\n • Tweak is using 2.0.0",
             "appPermissions": {
                 "entitlements": [
                     "com.apple.developer.siri"
@@ -267,12 +267,12 @@
     "news": [
         {
             "appID": "com.google.ios.youtube",
-            "caption": "YTLite updated to 21.33.5",
-            "date": "2026-08-20",
+            "caption": "YTLite updated to 21.33.6",
+            "date": "2026-08-24",
             "identifier": "new-update",
             "notify": true,
             "tintColor": "e22a41",
-            "title": "YTLite v5.2.2 + Tweaks - 20th August 2026"
+            "title": "YouMod v2.0.0 + Tweaks - 24th August 2026"
         },
         {
             "appID": "com.burbn.instagram",
