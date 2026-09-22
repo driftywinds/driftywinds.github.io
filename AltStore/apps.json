@@ -10,7 +10,7 @@
             "contact": {
                 "web": "https://github.com/driftywinds/"
             },
-            "downloadURL": "https://github.com/ramramzz/descfsr/releases/download/v0.32/9c9431a1-fda3-4476-8dc5-e9c8fe1bfYM2.ipa",
+            "downloadURL": "https://github.com/ramramzz/descfsr/releases/download/v0.33/300acd75-b5dd-4e6f-bf94-ced3deb9ecYM.ipa",
             "iconURL": "https://raw.githubusercontent.com/YTLitePlus/YTLitePlus-Altstore/main/Youtube_logo-512.png",
             "localizedDescription": "https://t.me/+rvcObIvOpctiMDI9\n\nA modified version of Youtube",
             "name": "YouMod + Tweaks (driftywinds)",
@@ -22,9 +22,9 @@
             "size": 130097628,
             "subtitle": "A flexible enhancer for YouTube on iOS | If you want to donate: - https://ko-fi.com/driftywinds",
             "tintColor": "e22a41",
-            "version": "21.37.5",
-            "versionDate": "2026-09-19",
-            "versionDescription": "• Updated YouTube to 21.37.5\n • Tweak is using 2.0.0",
+            "version": "21.38.2",
+            "versionDate": "2026-09-22",
+            "versionDescription": "• Updated YouTube to 21.38.2\n • Tweak is using 2.0.0",
             "appPermissions": {
                 "entitlements": [
                     "com.apple.developer.siri"
@@ -80,7 +80,7 @@
             "beta": false,
             "bundleIdentifier": "com.burbn.instagram",
             "developerName": "Ryuk",
-            "downloadURL": "https://github.com/ramramzz/descfsr/releases/download/v0.32/d8560d00-2788-4b01-9f0a-ef6e0389539R.ipa",
+            "downloadURL": "https://github.com/ramramzz/descfsr/releases/download/v0.33/5f009b76-d1ea-4659-a3ce-e5c2100367cR.ipa",
             "iconURL": "https://raw.githubusercontent.com/qnblackcat/AltStore/main/ScreenShot/800px-Instagram_logo_2016.svg.png",
             "localizedDescription": "Just look up information for SCInsta if you're confused about usage",
             "name": "Instagram (RyukGram)",
@@ -93,9 +93,9 @@
             "size": 91750400,
             "subtitle": "Additional features and fixes by Ryuk based on SCInsta | If you want to donate: - https://ko-fi.com/driftywinds",
             "tintColor": "C13584",
-            "version": "447.0.0",
-            "versionDate": "2026-09-15",
-            "versionDescription": "Updated to v447.0.0, RyukGram v1.4.0",
+            "version": "448.0.0",
+            "versionDate": "2026-09-22",
+            "versionDescription": "Updated to v448.0.0, RyukGram v1.4.0",
             "appPermissions": {
                 "entitlements": [
                     "com.apple.developer.associated-appclip-app-identifiers",
@@ -267,21 +267,21 @@
     "news": [
         {
             "appID": "com.google.ios.youtube",
-            "caption": "YTLite updated to 21.37.5",
-            "date": "2026-09-19",
+            "caption": "YTLite updated to 21.38.2",
+            "date": "2026-09-22",
             "identifier": "new-update",
             "notify": true,
             "tintColor": "e22a41",
-            "title": "YouMod v2.0.0 + Tweaks - 19th September 2026"
+            "title": "YouMod v2.0.0 + Tweaks - 22nd September 2026"
         },
         {
             "appID": "com.burbn.instagram",
-            "caption": "RyukGram updated to 447.0.0",
-            "date": "2026-09-15",
+            "caption": "RyukGram updated to 448.0.0",
+            "date": "2026-09-22",
             "identifier": "new-update",
             "notify": true,
             "tintColor": "C13584",
-            "title": "RyukGram Latest - 15th September 2026"
+            "title": "RyukGram Latest - 22nd September 2026"
         },
         {
             "appID": "com.spotify.client",
