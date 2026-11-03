@@ -10,7 +10,7 @@
             "contact": {
                 "web": "https://github.com/driftywinds/"
             },
-            "downloadURL": "https://github.com/ramramzz/descfsr/releases/download/v0.37/f61b83c6-8b53-41a9-8c96-57f874c853YM.ipa",
+            "downloadURL": "https://github.com/ramramzz/descfsr/releases/download/v0.37/2b1f07f4-4f3e-49a4-b103-83b1e30499Y2.ipa",
             "iconURL": "https://raw.githubusercontent.com/YTLitePlus/YTLitePlus-Altstore/main/Youtube_logo-512.png",
             "localizedDescription": "https://t.me/+rvcObIvOpctiMDI9\n\nA modified version of Youtube",
             "name": "YouMod + Tweaks (driftywinds)",
@@ -22,9 +22,9 @@
             "size": 130097628,
             "subtitle": "A flexible enhancer for YouTube on iOS | If you want to donate: - https://ko-fi.com/driftywinds",
             "tintColor": "e22a41",
-            "version": "21.43.5",
-            "versionDate": "2026-10-29",
-            "versionDescription": "• Updated YouTube to 21.43.5\n • Tweak is using 2.0.0",
+            "version": "21.44.4",
+            "versionDate": "2026-11-03",
+            "versionDescription": "• Updated YouTube to 21.44.4\n • Tweak is using 2.0.0",
             "appPermissions": {
                 "entitlements": [
                     "com.apple.developer.siri"
@@ -267,12 +267,12 @@
     "news": [
         {
             "appID": "com.google.ios.youtube",
-            "caption": "YTLite updated to 21.43.5",
-            "date": "2026-10-29",
+            "caption": "YouMod updated to 21.44.4",
+            "date": "2026-11-03",
             "identifier": "new-update",
             "notify": true,
             "tintColor": "e22a41",
-            "title": "YouMod v2.0.0 + Tweaks - 29th October 2026"
+            "title": "YouMod v2.0.0 + Tweaks - 3rd November 2026"
         },
         {
             "appID": "com.burbn.instagram",
