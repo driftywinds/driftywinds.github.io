@@ -1,15 +1,23 @@
 {
     "apps": [
         {
-            "beta": false,
-            "bundleIdentifier": "com.google.ios.youtube",
-            "developerName": "Tonwalter888",
             "META": {
                 "repoName": "driftywinds' AltStore Repo"
             },
+            "appPermissions": {
+                "entitlements": [
+                    "com.apple.developer.siri"
+                ],
+                "privacy": {
+                    "NSUserTrackingUsageDescription": "This app requires tracking permission to deliver personalized content and advertisements."
+                }
+            },
+            "beta": false,
+            "bundleIdentifier": "com.google.ios.youtube",
             "contact": {
                 "web": "https://github.com/driftywinds/"
             },
+            "developerName": "Tonwalter888",
             "downloadURL": "https://github.com/ramramzz/descfsr/releases/download/v0.38/1e7f2f6f-8d16-49cd-b1e8-e91f23d066YM.ipa",
             "iconURL": "https://raw.githubusercontent.com/YTLitePlus/YTLitePlus-Altstore/main/Youtube_logo-512.png",
             "localizedDescription": "https://t.me/+rvcObIvOpctiMDI9\n\nA modified version of Youtube",
@@ -24,78 +32,9 @@
             "tintColor": "e22a41",
             "version": "21.45.4",
             "versionDate": "2026-11-09",
-            "versionDescription": "• Updated YouTube to 21.45.4\n • Tweak is using 2.0.0",
-            "appPermissions": {
-                "entitlements": [
-                    "com.apple.developer.siri"
-                ],
-                "privacy": {
-                    "NSUserTrackingUsageDescription": "This app requires tracking permission to deliver personalized content and advertisements."
-                }
-            }
+            "versionDescription": "• Updated YouTube to 21.45.4\n • Tweak is using 2.0.0"
         },
         {
-            "beta": false,
-            "bundleIdentifier": "com.spotify.client",
-            "developerName": "jaydenjcpy & faroukbmiled",
-            "downloadURL": "https://github.com/ramramzz/descfsr/releases/download/v0.20/479a1a42-41d7-4d9d-8a60-e37d7be6d46S.ipa",
-            "iconURL": "https://files.catbox.moe/9fgova.JPG",
-            "localizedDescription": "Join https://t.me/+rvcObIvOpctiMDI9 for more.\nOne of the most popular music streaming services!\nhttps://github.com/whoeevee/EeveeSpotify for more information",
-            "name": "Spotify (EeveeSpotifyReincarnated)",
-            "screenshotURLs": [
-                "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/08/83/de/0883de6b-4615-4a41-0013-eaac0b258345/0265ec5e-b9ac-4c2f-9d95-2de3f284b0ec_IOS_-_6.7_-_S01_-_EN-US.png/600x0w.png",
-                "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/ec/b4/2b/ecb42b34-b289-095c-1891-0ed03bb57cc4/e6c4993b-f6e2-4b07-873d-afcb011acb30_IOS_-_6.7_-_S02_-_EN-US.png/600x0w.png",
-                "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/e2/b6/f4/e2b6f400-4342-02d6-1d11-2a8fc7c123d7/5953db43-4430-425a-9228-911aa8e783b9_IOS_-_6.7_-_S03_-_EN-US.png/600x0w.png",
-                "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/27/bf/37/27bf3762-d85e-e603-ab60-883bb6508eaa/1c9b59de-280b-4a8b-b571-47fd96546e62_IOS_-_6.7_-_S04_-_EN-US.png/600x0w.png"
-            ],
-            "size": 91750400,
-            "subtitle": "Spotify with free premium, and extra UI features | If you want to donate: - https://ko-fi.com/driftywinds",
-            "tintColor": "1DB954",
-            "version": "9.1.50",
-            "versionDate": "2026-06-12",
-            "versionDescription": "This tweak makes Spotify think you have a Premium subscription, granting free listening, just like Spotilife, and provides some additional features like custom lyrics.\n\n\nEveeSpotify replaces Spotify monthly limited lyrics with one of the following three lyrics providers: \n\n- Genius: Offers the best quality lyrics, provides the most songs, and updates lyrics the fastest. Does not and will never be time-synced.\n\n- LRCLIB: The most open service, offering time-synced lyrics. However, it lacks lyrics for many songs.\n\n- Musixmatch: The service Spotify uses. Provides time-synced lyrics for many songs, but you'll need a user token to use this source. To obtain the token, download Musixmatch from the App Store, sign up, then go to Settings > Get help > Copy debug info, and paste it into EeveeSpotify alert. You can also extract the token using MITM.\n\n- If the tweak is unable to find a song or process the lyrics, you'll see a 'Couldn't load the lyrics for this song' message. The lyrics might be wrong for some songs when using Genius due to how the tweak searches songs. While I've made it work in most cases, kindly refrain from opening issues about it.\n\n\nPlease refrain from opening issues about the following features, as they are server-sided and will NEVER work: \n\n- Very High audio quality\n\n- Native playlist downloading (you can download podcast episodes though)\n\n- Jam (hosting a Spotify Jam and joining it remotely requires Premium; only joining in-person works)\n\n- It's possible to implement downloading locally, but it will never be included in EeveeSpotify (unless someone opens a pull request).\n\n\nAll other information: - https://github.com/whoeevee/EeveeSpotify"
-        },
-        {
-            "beta": false,
-            "bundleIdentifier": "com.mojang.minecraftpe",
-            "developerName": "Kamo Hacks",
-            "downloadURL": "https://github.com/ramramzz/descfsr/releases/download/v0.22/4306b350-add5-43d1-b26f-e3b464527deM.ipa",
-            "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/42/01/22/42012236-af5d-f1c1-31c2-4dd7827585dd/AppIcon-1x_U007emarketing-0-9-0-85-220.png/460x0w.png",
-            "localizedDescription": "Join https://t.me/+rvcObIvOpctiMDI9 for more.\nOne of the best selling games on the planet!\nhttps://t.me/kamohacks for other game releases",
-            "name": "Minecraft",
-            "screenshotURLs": [
-                "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/bd/8b/1e/bd8b1e0f-9460-b77f-a63e-2c77c5dad9d7/pr_source.png/626x0w.png",
-                "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/30/ac/d7/30acd77c-babc-d157-6efd-6ff07c6fd0f7/pr_source.png/626x0w.png",
-                "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/0b/e6/8e/0be68e36-b4a1-8da6-0089-7b17fcde6e83/pr_source.png/626x0w.png",
-                "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/76/14/98/76149831-885a-9eca-0c01-8a95b97db189/pr_source.png/626x0w.png"
-            ],
-            "size": 91750400,
-            "subtitle": "Cracked Minecraft with working online | If you want to donate: - https://ko-fi.com/driftywinds",
-            "tintColor": "996747",
-            "version": "1.26.0",
-            "versionDate": "2026-02-24",
-            "versionDescription": "- Various bug fixes.\n- More Releases = https://t.me/kamohacks"
-        },
-        {
-            "beta": false,
-            "bundleIdentifier": "com.burbn.instagram",
-            "developerName": "Ryuk",
-            "downloadURL": "https://github.com/ramramzz/descfsr/releases/download/v0.37/43d6c872-d02a-4cc5-8dee-274cd2dd053R.ipa",
-            "iconURL": "https://raw.githubusercontent.com/qnblackcat/AltStore/main/ScreenShot/800px-Instagram_logo_2016.svg.png",
-            "localizedDescription": "Just look up information for SCInsta if you're confused about usage",
-            "name": "Instagram (RyukGram)",
-            "screenshotURLs": [
-                "https://apt.alfhaily.me/cdn/assets/rocket-screenshot1.jpg",
-                "https://apt.alfhaily.me/cdn/assets/rocket-screenshot2.jpg",
-                "https://apt.alfhaily.me/cdn/assets/rocket-screenshot3.jpg",
-                "https://apt.alfhaily.me/cdn/assets/rocket-screenshot4.jpg"
-            ],
-            "size": 91750400,
-            "subtitle": "Additional features and fixes by Ryuk based on SCInsta | If you want to donate: - https://ko-fi.com/driftywinds",
-            "tintColor": "C13584",
-            "version": "454.0.0",
-            "versionDate": "2026-11-03",
-            "versionDescription": "Updated to v454.0.0, RyukGram v1.5.1",
             "appPermissions": {
                 "entitlements": [
                     "com.apple.developer.associated-appclip-app-identifiers",
@@ -125,52 +64,35 @@
                     "NSCameraUsageDescription": "This app requires camera access to capture photos and videos.",
                     "NSContactsUsageDescription": "This app requires access to your contacts for enhanced social features.",
                     "NSFaceIDUsageDescription": "This app requires Face ID for secure authentication.",
+                    "NSFocusStatusUsageDescription": "This app uses focus status to optimize notifications.",
                     "NSLocationAlwaysAndWhenInUseUsageDescription": "This app requires location access even when in the background for geotagging.",
                     "NSLocationUsageDescription": "This app requires location access to provide local content.",
                     "NSLocationWhenInUseUsageDescription": "This app requires location access while using the app.",
                     "NSMicrophoneUsageDescription": "This app requires microphone access for recording audio and videos.",
-                    "NSFocusStatusUsageDescription": "This app uses focus status to optimize notifications.",
                     "NSPhotoLibraryAddUsageDescription": "This app requires access to add photos to your library.",
                     "NSPhotoLibraryUsageDescription": "This app requires access to your photo library.",
                     "NSUserTrackingUsageDescription": "This app uses tracking to deliver personalized content."
                 }
-            }
-        },
-        {
+            },
             "beta": false,
-            "bundleIdentifier": "com.atebits.Tweetie2",
-            "developerName": "baterblx",
-            "downloadURL": "https://github.com/driftywinds/BHX/releases/download/v11.54/BHTwitter-sideloaded_4.4_11.54.ipa",
-            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.atebits.Tweetie2.png",
-            "localizedDescription": "Join https://t.me/+rvcObIvOpctiMDI9 for more.\nA fork of the best tweak for Twitter",
-            "name": "Twitter BHX",
-            "size": 161029014,
-            "subtitle": "Awesome tweak for X | If you want to donate: - https://ko-fi.com/driftywinds",
-            "tintColor": "1DA1F2",
-            "version": "11.54",
-            "versionDate": "2026-01-05",
-            "versionDescription": "- Various bug fixes.\n- More Releases = https://releases.drifty.win/?username=driftywinds&repository=BHX"
-        },
-        {
-            "beta": false,
-            "bundleIdentifier": "com.unofficial.balatro",
-            "developerName": "driftywinds",
-            "downloadURL": "https://github.com/driftywinds/balatro-builds/releases/download/v1.0.1o/Balatro.v1.0.1o-FULL.ipa",
-            "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a6/b1/14/a6b114b7-541f-d929-1724-6665b9ccf255/iOS_AppIcon_Premium-0-0-1x_U007epad-0-85-220.png/492x0w.png",
-            "localizedDescription": "When Poker Meets Solitaire \n\nJoin https://t.me/+rvcObIvOpctiMDI9 for more.",
-            "name": "Balatro",
+            "bundleIdentifier": "com.burbn.instagram",
+            "developerName": "Ryuk",
+            "downloadURL": "https://github.com/ramramzz/descfsr/releases/download/v0.37/43d6c872-d02a-4cc5-8dee-274cd2dd053R.ipa",
+            "iconURL": "https://raw.githubusercontent.com/qnblackcat/AltStore/main/ScreenShot/800px-Instagram_logo_2016.svg.png",
+            "localizedDescription": "Just look up information for SCInsta if you're confused about usage",
+            "name": "Instagram (RyukGram)",
             "screenshotURLs": [
-                "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/82/5b/18/825b18a7-a2bc-51c9-bf27-7b809ccc2825/c808e66d-63ea-48c8-8c8f-4b27fa42e7a5_Balatro_Screenshot_iOS_2796x1290_UK_01.png/1286x0w.png",
-                "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/21/04/5a/21045a23-5de5-56d4-1c63-f25f5fc3dd9b/ca6fb4fb-fa04-4c37-b490-be29bb29f2b2_Balatro_Screenshot_iOS_2796x1290_UK_02.png/1286x0w.png",
-                "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d9/d8/2d/d9d82deb-78d2-b668-e047-9b020406797d/7dba81a9-24eb-453f-b83c-314996d73407_Balatro_Screenshot_iOS_2796x1290_UK_03.png/1286x0w.png",
-                "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/eb/c5/e4/ebc5e419-93e9-bab8-fd02-a85474130ae7/d4077610-3c78-4f0a-a3db-b136f2228fc6_Balatro_Screenshot_iOS_2796x1290_UK_04b.png/1286x0w.png"
+                "https://apt.alfhaily.me/cdn/assets/rocket-screenshot1.jpg",
+                "https://apt.alfhaily.me/cdn/assets/rocket-screenshot2.jpg",
+                "https://apt.alfhaily.me/cdn/assets/rocket-screenshot3.jpg",
+                "https://apt.alfhaily.me/cdn/assets/rocket-screenshot4.jpg"
             ],
             "size": 91750400,
-            "subtitle": "The best rogue-like card game! | If you want to donate: - https://ko-fi.com/driftywinds",
-            "tintColor": "6b06c9",
-            "version": "1.0.1o",
-            "versionDate": "2025-02-26",
-            "versionDescription": "Hypnotic and endlessly satisfying, Balatro is a magical mix of card games like Solitaire and Poker, that lets you twist the rules in ways never seen before!\nYour goal is to beat the Boss Blinds by making strong poker hands."
+            "subtitle": "Additional features and fixes by Ryuk based on SCInsta | If you want to donate: - https://ko-fi.com/driftywinds",
+            "tintColor": "C13584",
+            "version": "454.0.0",
+            "versionDate": "2026-11-03",
+            "versionDescription": "Updated to v454.0.0, RyukGram v1.5.1"
         },
         {
             "beta": false,
@@ -195,27 +117,6 @@
         },
         {
             "beta": false,
-            "bundleIdentifier": "kh.crysalis.feather",
-            "developerName": "khcrysalis",
-            "downloadURL": "https://github.com/khcrysalis/Feather/releases/download/v2.4.0/Feather.ipa",
-            "iconURL": "https://raw.githubusercontent.com/khcrysalis/Feather/main/Images/512%402x.png",
-            "localizedDescription": "Join https://t.me/+rvcObIvOpctiMDI9 for more.\nFEATURES: -\n- Altstore repo support. Supporting Legacy and 2.0 repo structures\n- Import your own .ipa's.\n- Inject tweaks when signing apps.\nInstall applications straight to your device seamlessly over the air.\n- Allows multiple certificate imports for easy switching.\n- Configurable signing options. (name, bundleid, version, other plist options)\n- Meant to be used with Apple Accounts that are apart of ADP (Apple Developer Program). however other certificates can also work!\n- Easy resigning! If you have another certificate you would like to use on an app you may resign and reinstall that same app!\n- No tracking, analytics, or any of the sort. Your information such as UDID and certificates will never leave the device.",
-            "name": "Feather",
-            "screenshotURLs": [
-                "https://raw.githubusercontent.com/khcrysalis/Feather/main/Images/Repos.png",
-                "https://raw.githubusercontent.com/khcrysalis/Feather/main/Images/Store.png",
-                "https://raw.githubusercontent.com/khcrysalis/Feather/main/Images/Library.png",
-                "https://raw.githubusercontent.com/khcrysalis/Feather/main/Images/Sign.png"
-            ],
-            "size": 91750400,
-            "subtitle": "Feather is a free on-device iOS application manager/installer built with UIKit for quality. | If you want to donate: - https://ko-fi.com/driftywinds",
-            "tintColor": "5861BD",
-            "version": "2.4.0",
-            "versionDate": "2025-09-27",
-            "versionDescription": "More info - https://github.com/khcrysalis/Feather\n\n- https://github.com/khcrysalis/Feather/releases/"
-        },
-        {
-            "beta": false,
             "bundleIdentifier": "com.elgato.streamdeck-ios",
             "developerName": "zxcvbn",
             "downloadURL": "https://files.drifty.win/Others/ElgatoSDLifetime-2.2.0-zxcvbn.ipa",
@@ -234,36 +135,12 @@
             "version": "2.2.0",
             "versionDate": "2024-05-12",
             "versionDescription": "- updated elgato to v2.2.0\n- info: requested as a paid crack\n- repo at https://repo.yippee.rip"
-        },
-        {
-            "beta": false,
-            "bundleIdentifier": "com.kdt.livecontainer",
-            "developerName": "khanhduytran0",
-            "downloadURL": "https://github.com/khanhduytran0/LiveContainer/releases/download/2.1.2/com.kdt.livecontainer_2.1.2.ipa",
-            "iconURL": "https://cdn-icons-png.flaticon.com/512/9402/9402265.png",
-            "localizedDescription": "I need to clean this up, please do not use this | Join https://t.me/+rvcObIvOpctiMDI9 for more.\nmade by khanhduytran0, forked by me for building with latest commits.\nmore info at available at https://github.com/khanhduytran0/LiveContainer",
-            "name": "LiveContainer - BETA NOT MEANT FOR USE YET",
-            "screenshotURLs": [
-                "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/7a/6a/85/7a6a8588-7356-1115-6d71-7f3def193b3a/7e89a17b-4877-472f-95f3-694256bc431d_01.png/460x0w.png",
-                "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/1c/13/90/1c1390a8-43cb-189a-cef2-a0c0316177dc/62774966-e639-4894-8406-78f4ce2d9361_02.png/460x0w.png",
-                "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/88/4b/9f/884b9f50-3bd8-fd21-6a64-e4cae55aee56/670398e4-45a2-4e4c-945c-3a3979fc67bb_03.png/460x0w.png",
-                "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/a8/39/fa/a839fa1e-b7b8-a9c0-c3e1-8f8e8ea6003a/9947e1f6-6204-4dd2-8cbd-73ac50df2b13_04.png/460x0w.png"
-            ],
-            "size": 91750400,
-            "subtitle": "Run iOS apps without actually installing them! More info:- https://github.com/khanhduytran0/LiveContainer | If you want to donate: - https://ko-fi.com/driftywinds",
-            "tintColor": "b3b3b3",
-            "version": "2.1.2",
-            "versionDate": "2024-08-15",
-            "versionDescription": "- Allows you to install unlimited apps (10 apps limit of free developer account do not apply here!), have multiple versions of an app installed and multiple data containers.\n- When JIT is available, codesign is entirely bypassed, no need to sign your apps before installing. Otherwise, app will be signed with the same certificate used by LiveContainer."
         }
     ],
-    "identifier": "com.dw.source",
-    "name": "driftywinds' AltStore Repo",
-    "subtitle": "definitevely driftywinds",
     "description": "All driftywinds iOS releases can be found here. This repo is compatible with SideStore, AltStore and most other sideloading apps.\n\nLearn more: - https://t.me/+rvcObIvOpctiMDI9\n\nApps might download as '.zip' just change the extension back to '.ipa' .\n\nKofi - https://ko-fi.com/driftywinds\nLiberapay - https://liberapay.com/driftywinds/donate\nPatreon - https://www.patreon.com/bePatron?u=67102544",
     "iconURL": "https://i.postimg.cc/Kcdr62dc/dp-rounded.png",
-    "sourceURL": "https://driftywinds.github.io/AltStore/apps.json",
-    "website": "https://github.com/driftywinds",
+    "identifier": "com.dw.source",
+    "name": "driftywinds' AltStore Repo",
     "news": [
         {
             "appID": "com.google.ios.youtube",
@@ -329,5 +206,8 @@
             "title": "YTM Ultimate Latest - 2nd June 2026"
         }
     ],
-    "userInfo": {}
+    "sourceURL": "https://driftywinds.github.io/AltStore/apps.json",
+    "subtitle": "definitevely driftywinds",
+    "userInfo": {},
+    "website": "https://github.com/driftywinds"
 }
