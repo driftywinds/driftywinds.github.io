@@ -77,7 +77,7 @@
             "beta": false,
             "bundleIdentifier": "com.burbn.instagram",
             "developerName": "Ryuk",
-            "downloadURL": "https://github.com/ramramzz/descfsr/releases/download/v0.37/43d6c872-d02a-4cc5-8dee-274cd2dd053R.ipa",
+            "downloadURL": "https://github.com/ramramzz/descfsr/releases/download/v0.38/e538b372-067f-4638-b06e-1e9bdd7a0b5R.ipa",
             "iconURL": "https://raw.githubusercontent.com/driftywinds/driftywinds.github.io/refs/heads/master/AltStore/assets/Instagram_logo_2022.svg.png",
             "localizedDescription": "Just look up information for SCInsta if you're confused about usage",
             "name": "Instagram (RyukGram)",
@@ -90,8 +90,8 @@
             "size": 91750400,
             "subtitle": "Additional features and fixes by Ryuk based on SCInsta | If you want to donate: - https://ko-fi.com/driftywinds",
             "tintColor": "C13584",
-            "version": "454.0.0",
-            "versionDate": "2026-11-03",
+            "version": "455.0.0",
+            "versionDate": "2026-11-10",
             "versionDescription": "Updated to v454.0.0, RyukGram v1.5.1"
         },
         {
@@ -153,12 +153,12 @@
         },
         {
             "appID": "com.burbn.instagram",
-            "caption": "RyukGram updated to 454.0.0",
-            "date": "2026-11-03",
+            "caption": "RyukGram updated to 455.0.0",
+            "date": "2026-11-10",
             "identifier": "new-update",
             "notify": true,
             "tintColor": "C13584",
-            "title": "RyukGram Latest - 3rd November 2026"
+            "title": "RyukGram Latest - 10th November 2026"
         },
         {
             "appID": "com.spotify.client",
